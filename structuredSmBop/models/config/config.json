@@ -1,0 +1,178 @@
+{
+    "dataset_reader": {
+        "type": "smbop_structured",
+        "cache_directory": "cache/exp2001train",
+        "dataset_path": "dataset/database",
+        "keep_if_unparsable": false,
+        "lazy": false,
+        "limit_instances": -1,
+        "max_instances": 1000000,
+        "question_token_indexers": {
+            "tokens": {
+                "type": "pretrained_transformer",
+                "model_name": "Salesforce/grappa_large_jnt"
+            }
+        },
+        "tables_file": "dataset/tables.json",
+        "use_longdb": true,
+        "value_pred": true
+    },
+    "model": {
+        "type": "smbop_parser_structured",
+        "beam_encoder": {
+            "type": "pytorch_transformer",
+            "dropout_prob": 0.1,
+            "feedforward_hidden_dim": 1024,
+            "input_dim": 256,
+            "num_attention_heads": 8,
+            "num_layers": 1
+        },
+        "beam_size": 30,
+        "beam_summarizer": {
+            "type": "pytorch_transformer",
+            "feedforward_hidden_dim": 1024,
+            "input_dim": 256,
+            "num_attention_heads": 8,
+            "num_layers": 1
+        },
+        "decoder_timesteps": 9,
+        "dropout": 0.1,
+        "experiment_name": "woolly-grey-bracke",
+        "misc_params": {
+            "amp": true,
+            "base_dim": 32,
+            "batch_size": 6,
+            "beam_encoder_num_layers": 1,
+            "cntx_beam": false,
+            "cntx_rep": false,
+            "cntx_reranker": true,
+            "debug": false,
+            "disentangle_cntx": true,
+            "embedding_dim": 256,
+            "grad_acum": 4,
+            "grad_clip": null,
+            "grad_norm": null,
+            "is_oracle": false,
+            "lin_after_cntx": false,
+            "lm_lr": 3e-06,
+            "load_less": false,
+            "lr": 0.000186,
+            "max_steps": 60000,
+            "num_heads": 8,
+            "power": 0.5,
+            "rat_dropout": 0.2,
+            "rat_layers": 8,
+            "should_rerank": false,
+            "temperature": 1,
+            "tfixup": false,
+            "tiny_dataset": false,
+            "train_as_dev": false,
+            "tree_rep_transformer_num_layers": 1,
+            "uniquify": false,
+            "use_bce": false,
+            "use_longdb": true,
+            "use_treelstm": false,
+            "utt_aug": true,
+            "value_pred": true
+        },
+        "question_embedder": {
+            "token_embedders": {
+                "tokens": {
+                    "type": "pretrained_transformer",
+                    "gradient_checkpointing": true,
+                    "model_name": "Salesforce/grappa_large_jnt"
+                }
+            }
+        },
+        "schema_encoder": {
+            "type": "relation_transformer_structured",
+            "dropout": 0.2,
+            "ff_size": 1024,
+            "hidden_size": 256,
+            "num_layers": 8,
+            "tfixup": false
+        },
+        "tree_rep_transformer": {
+            "type": "pytorch_transformer",
+            "feedforward_hidden_dim": 1024,
+            "input_dim": 256,
+            "num_attention_heads": 8,
+            "num_layers": 1,
+            "positional_encoding": "embedding"
+        },
+        "utterance_augmenter": {
+            "type": "cross_attention_structured",
+            "attention_probs_dropout_prob": 0.1,
+            "ctx_dim": 256,
+            "hidden_dropout_prob": 0.1,
+            "hidden_size": 256,
+            "num_attention_heads": 8
+        }
+    },
+    "train_data_path": "dataset/train_spider.json",
+    "validation_data_path": "dataset/dev.json",
+    "trainer": {
+        "checkpointer": {
+            "num_serialized_models_to_keep": 1
+        },
+        "cuda_device": 0,
+        "grad_clipping": null,
+        "grad_norm": null,
+        "learning_rate_scheduler": {
+            "type": "polynomial_decay",
+            "power": 0.5,
+            "warmup_steps": 1
+        },
+        "num_epochs": 205,
+        "num_gradient_accumulation_steps": 4,
+        "optimizer": {
+            "type": "adam",
+            "lr": 0.000186,
+            "parameter_groups": [
+                [
+                    [
+                        "question_embedder"
+                    ],
+                    {
+                        "lr": 3e-06
+                    }
+                ]
+            ]
+        },
+        "patience": 100,
+        "use_amp": true,
+        "validation_metric": "+spider"
+    },
+    "data_loader": {
+        "batch_sampler": {
+            "type": "bucket",
+            "batch_size": 6,
+            "sorting_keys": [
+                "enc",
+                "depth"
+            ]
+        }
+    },
+    "validation_data_loader": {
+        "batch_size": 20,
+        "shuffle": true
+    },
+    "validation_dataset_reader": {
+        "type": "smbop_structured",
+        "cache_directory": "cache/exp2001val",
+        "dataset_path": "dataset/database",
+        "keep_if_unparsable": true,
+        "lazy": false,
+        "limit_instances": -1,
+        "max_instances": 1000000,
+        "question_token_indexers": {
+            "tokens": {
+                "type": "pretrained_transformer",
+                "model_name": "Salesforce/grappa_large_jnt"
+            }
+        },
+        "tables_file": "dataset/tables.json",
+        "use_longdb": true,
+        "value_pred": true
+    }
+}
