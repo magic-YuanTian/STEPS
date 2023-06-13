@@ -11,4 +11,10 @@ Interactive SQL generation via editable step-by-step explanation
   - You could also download [our raw (unparaphrased) text-to-clause dataset](). Please put it in the same directory of the original Spider dataset and inlcude all the databases (For more information, please refer to https://github.com/taoyds/spider)
 3. Paraphrase the text-to-clause dataset (optional)
   - You could paraphrase the dataset by [Quillbot](https://quillbot.com/) with our automated script based on [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/).
-  - Please check the [script](Pharaphrase/main.py) and all screenshots under [here](Pharaphrase/img). These screenshots are used to position the cursor during the automation. Due to subtle resolution/theme/version difference, the screenshots may not be identifid on your computer (even if human can), you may need to manually take your screenshots on your computer and replace them.
+  - Please check the [script](Paraphrase/main.py) and all screenshots under [here](Paraphrase/img). These screenshots are used to position the cursor during the automation. Due to subtle resolution/theme/version difference, the screenshots may not be identifid on your computer (even if human can), you may need to manually take your screenshots on your computer and replace them.
+
+
+### Models
+1. Our text-to-clause model is based on [SmBoP](https://github.com/OhadRubin/SmBop), and you could strictly follow their environment and settings.
+2. You can directly [download]() and reuse our check point as well as configuration file. 
+  - Please replace the original configuration file with ours!.
