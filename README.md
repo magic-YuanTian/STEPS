@@ -16,5 +16,5 @@ Interactive SQL generation via editable step-by-step explanation
 
 ### Models
 1. Our text-to-clause model is based on [SmBoP](https://github.com/OhadRubin/SmBop), and you could strictly follow their environment and settings.
-2. You can directly [download]() and reuse our check point as well as configuration file. 
-  - Please replace the original configuration file with ours!.
+2. You can directly download and reuse our [check point]() as well as configuration file. 
+  - Please replace the original configuration file with ours!
