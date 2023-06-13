@@ -1,0 +1,51 @@
+[
+  {
+    "cinema_id": 1,
+    "film_id": 1,
+    "date": "21 May",
+    "show_times_per_day": 5,
+    "price": 12.99
+  },
+  {
+    "cinema_id": 1,
+    "film_id": 2,
+    "date": "21 May",
+    "show_times_per_day": 3,
+    "price": 12.99
+  },
+  {
+    "cinema_id": 1,
+    "film_id": 3,
+    "date": "21 Jun",
+    "show_times_per_day": 2,
+    "price": 8.99
+  },
+  {
+    "cinema_id": 2,
+    "film_id": 1,
+    "date": "11 July",
+    "show_times_per_day": 5,
+    "price": 9.99
+  },
+  {
+    "cinema_id": 6,
+    "film_id": 5,
+    "date": "2 Aug",
+    "show_times_per_day": 4,
+    "price": 12.99
+  },
+  {
+    "cinema_id": 9,
+    "film_id": 4,
+    "date": "20 May",
+    "show_times_per_day": 5,
+    "price": 9.99
+  },
+  {
+    "cinema_id": 10,
+    "film_id": 1,
+    "date": "19 May",
+    "show_times_per_day": 5,
+    "price": 15.99
+  }
+]

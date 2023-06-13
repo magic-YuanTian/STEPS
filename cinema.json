@@ -1,0 +1,72 @@
+[
+  {
+    "cinema_id": 1,
+    "name": "Codling",
+    "openning_year": 2010,
+    "capacity": 1100,
+    "location": "County Wicklow"
+  },
+  {
+    "cinema_id": 2,
+    "name": "Carrowleagh",
+    "openning_year": 2012,
+    "capacity": 368,
+    "location": "County Cork"
+  },
+  {
+    "cinema_id": 3,
+    "name": "Dublin Array",
+    "openning_year": 2015,
+    "capacity": 364,
+    "location": "County Dublin"
+  },
+  {
+    "cinema_id": 4,
+    "name": "Glenmore",
+    "openning_year": 2009,
+    "capacity": 305,
+    "location": "County Clare"
+  },
+  {
+    "cinema_id": 5,
+    "name": "Glenough",
+    "openning_year": 2010,
+    "capacity": 325,
+    "location": "County Tipperary"
+  },
+  {
+    "cinema_id": 6,
+    "name": "Gortahile",
+    "openning_year": 2010,
+    "capacity": 208,
+    "location": "County Laois"
+  },
+  {
+    "cinema_id": 7,
+    "name": "Grouse Lodge",
+    "openning_year": 2011,
+    "capacity": 203,
+    "location": "County Tipperary"
+  },
+  {
+    "cinema_id": 8,
+    "name": "Moneypoint",
+    "openning_year": 2011,
+    "capacity": 225,
+    "location": "County Clare"
+  },
+  {
+    "cinema_id": 9,
+    "name": "Mount Callan",
+    "openning_year": 2011,
+    "capacity": 908,
+    "location": "County Clare"
+  },
+  {
+    "cinema_id": 10,
+    "name": "Oriel",
+    "openning_year": 2013,
+    "capacity": 330,
+    "location": "County Louth"
+  }
+]

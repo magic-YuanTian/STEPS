@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0",
+    "highlighting": "./frontend/src/pages/highlighting.js" 
+  }
+  
+}
