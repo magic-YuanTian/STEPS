@@ -1,0 +1,37 @@
+
+"Get": ['Find out', 'Find', 'Discover', 'Show', 'Show me', 'Determine', 'Demonstrate', 'Give me', 'Obtain',
+        'Select', 'Choose', 'Search', 'Display', 'List', 'Acquire', 'Gain'],
+
+"Keep the records that": ['Make sure', 'Make', 'Where', 'Filter the records that'],
+
+"greater than": ['more than', 'exceed', 'no less than', 'over', 'above', 'larger than', 'beyond',
+                 'in excess of', 'transcend', 'surpass'],
+
+"less than": ['lower than', 'no more than', 'below', 'lesser', 'under', 'underneath', 'not so much as',
+              'beneath'],
+
+"based on": ['according to', 'in terms of', 'specified by', 'built on', 'established on'],
+
+"that has": ['associated with', 'connected to'],
+
+"distinct": ['different', 'disparate', 'distinctive', 'particular', 'diverse', 'dissimilar', 'unique'],
+
+"ascending": ['increasing', 'ascendant', 'growing', 'rising', 'soaring', 'climbing', 'mounting'],
+
+"descending": ['decreasing', 'descendant', 'falling', 'declining', 'dropping', 'lessening', 'diminishing'],
+
+"maximum": ['max', 'maximum', 'utmost', 'greatest', 'most', 'topmost', 'highest', 'top', 'largest', 'biggest'],
+
+"minimum": ['lowest', 'smallest', 'least', 'min', 'minimal', 'bottom', 'bottommost', 'lowermost'],
+
+"number of": ['amount of', 'quantity of', 'total of'],
+
+"all": ['each', 'every', 'any', 'whole', 'entire', 'totality'],
+
+"in the form of": ['appearing as', 'with the appearance of', 'in the shape of'],
+
+"Group": ['Group', 'Batch', 'Organize', 'Categorize', 'Classify', 'Arrange', 'Separate', 'Label', 'Tag', 'Mark',
+          'Pack', 'Collect', 'Assemble', 'Distribute', 'Combine', 'Gather', 'Merge', 'Put together', 'Index',
+          'Concentrate'],
+
+"Order": ['Order', 'Sort', 'Rank', 'Array', 'Line up', 'Sequence']
