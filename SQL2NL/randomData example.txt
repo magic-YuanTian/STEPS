@@ -1,0 +1,3435 @@
+Get qCDyCkA of q8MG12
+SELECT qCDyCkA FROM q8MG12
+
+Keep the records that n PSuhmgvU69 of q8MG12 is 25 AND the minimum value of firKQMS of q8MG12 is not in the number
+WHERE q8MG12.n_PSuhmgvU69 = 25 AND MIN(q8MG12.firKQMS) NOT IN COUNT(*) 
+
+Get ogYzIiwj of w864yvotoMP
+SELECT ogYzIiwj FROM w864yvotoMP
+
+Group the records based on XBT7a39DIct of w864yvotoMP that the minimum value of TUAnJxtM8C of w864yvotoMP is greater than or equal to 66
+GROUP BY w864yvotoMP.XBT7a39DIct HAVING MIN ( w864yvotoMP.TUAnJxtM8C ) >= 66
+
+Get the maximum value of xADlpwJ7bk AND 8V4MvxmNulso of GTZC that has eP6AO6n
+SELECT GTZC.8V4MvxmNulso FROM GTZC JOIN eP6AO6n AS Kcy ON MAX ( xADlpwJ7bk ) LIKE 5Ms1Bqk
+
+Order these records based on the ydjGKDG of eP6AO6n AND sort them in descending order, AND return the top 80 records
+ORDER BY Kcy.ydjGKDG LIMIT 80
+
+Get the sum of 8Ebr9Wvw of eVeEsnqkiDsX
+SELECT SUM ( 8Ebr9Wvw ) FROM eVeEsnqkiDsX
+
+Group the records based on vmxyu1m of eVeEsnqkiDsX
+GROUP BY eVeEsnqkiDsX.vmxyu1m
+
+Get omR9O2kyuBF of iXUZy4fwWh that has v7qJWsP
+SELECT v7qJWsP.omR9O2kyuBF FROM iXUZy4fwWh JOIN v7qJWsP
+
+Keep the records that 0r0xnryMxkdC of v7qJWsP is greater than nJ8 of v7qJWsP
+WHERE v7qJWsP.0r0xnryMxkdC > v7qJWsP.nJ8 
+
+Group the records based on aGmAqaq of v7qJWsP
+GROUP BY v7qJWsP.aGmAqaq
+
+Get MKu2lZez2h of 2Ol5sbQiUGZ that has cuN39ha and rsl6XjCdmrj
+SELECT DISTINCT MKu2lZez2h FROM 2Ol5sbQiUGZ_ JOIN cuN39ha AS HIj1kx0c7Q JOIN rsl6XjCdmrj
+
+Get the minimum value of f97SfRZPqo of tRmlk7WUQ6I
+SELECT MIN ( f97SfRZPqo ) FROM tRmlk7WUQ6I
+
+Group the records based on the minimum value of as3Na of tRmlk7WUQ6I
+GROUP BY MIN ( tRmlk7WUQ6I.as3Na )
+
+Get 2VGFpd of jIEOBsG that has FnD2sNl3AJ
+SELECT 2VGFpd FROM jIEOBsG_ JOIN FnD2sNl3AJ
+
+Keep the records that LUaR r4p of FnD2sNl3AJ is not in dOo37YX
+WHERE FnD2sNl3AJ.LUaR_r4p NOT IN dOo37YX 
+
+Group the records based on cpc4pSFvRZ of FnD2sNl3AJ
+GROUP BY FnD2sNl3AJ.cpc4pSFvRZ
+
+Get the average value of distinct H4ODiyaf of sj2FBPc
+SELECT AVG ( DISTINCT H4ODiyaf ) FROM sj2FBPc
+
+Keep the records that the maximum value of HfpkJpMlE77g of sj2FBPc is 69
+WHERE MAX(sj2FBPc.HfpkJpMlE77g) = 69
+
+Get the sum of J1 of PWSHpDcqG1
+SELECT SUM ( J1 ) FROM PWSHpDcqG1
+
+Keep the records that 1Vy15Yn is greater than 29 OR the sum of vC is less than 73
+WHERE 1Vy15Yn > 29 OR SUM(vC_) < 73 
+
+Group the records based on OztYBrbdw
+GROUP BY OztYBrbdw
+
+Get a3Xqr of Et
+SELECT Et.a3Xqr FROM Et
+
+Get cVMz of pyFANeuMMc
+SELECT cVMz FROM pyFANeuMMc
+
+Order these records based on the the sum of g5j2EzlwRk8 and sort them in descending order, and return the top 1 record
+ORDER BY SUM ( g5j2EzlwRk8 ) LIMIT 1
+
+Get 3vrdY of jxtXfIZv9 that has Ic166jj
+SELECT DISTINCT 3vrdY FROM jxtXfIZv9 JOIN Ic166jj
+
+Get the maximum value of IWHWm of NC that has GGf
+SELECT MAX ( IWHWm ) FROM NC JOIN GGf AS HsW
+
+Group the records based on AcWo of GGf that 9kjbYKr9H of GGf is 30
+GROUP BY GGf.AcWo HAVING GGf.9kjbYKr9H = 30
+
+Order these records based on the IS3ahmYut1Az of NC, and return the top 1 record
+ORDER BY NC.IS3ahmYut1Az LIMIT 1
+
+Get ibnL5OB of JjH
+SELECT ibnL5OB FROM JjH
+
+Get zxCt4QCHKr of f05M5ZAI7m that has 53qoMRz7o
+SELECT zxCt4QCHKr FROM f05M5ZAI7m JOIN 53qoMRz7o ON 5 3qoMRz7o.gfHztdqjl1 > _uHzD
+
+Keep the records that the number of 5 qmALO of 3qoMRz7o is not in the minimum value of TUyoAagh of f05M5ZAI7m
+WHERE COUNT(53qoMRz7o.qmALO) NOT IN MIN(f05M5ZAI7m.TUyoAagh) 
+
+Group the records based on h of f05M5ZAI7m
+GROUP BY f05M5ZAI7m._h
+
+Get the average value of fi5tO of 5 V that has LtuhyE
+SELECT AVG ( 5_V.fi5tO ) FROM 5_V JOIN LtuhyE
+
+Keep the records that the average value of sYLUJay1 of 5 V is Rgv3giB AND Bogop0o0 is in the form of the sum of w4nvQl3hBi of LtuhyE OR the maximum value of LqsfP34sY9f is not the minimum value of Tcw68
+WHERE AVG(5_V.sYLUJay1) = Rgv3giB AND Bogop0o0 LIKE SUM(LtuhyE.w4nvQl3hBi) OR MAX(LqsfP34sY9f) != MIN(Tcw68) 
+
+Get the number of q1NlyJKVjVV and the average value of Jy and the average value of rKHz of OeT1zli1sn30 that has uyWInOVXQ and EL2KzokbRF4G and JV5dJKlU
+SELECT COUNT ( uyWInOVXQ.q1NlyJKVjVV ) FROM OeT1zli1sn30 JOIN uyWInOVXQ AS rVIkE ON AVG ( Jy ) <= 48 JOIN EL2KzokbRF4G ON xT NOT IN AVG ( rKHz ) JOIN JV5dJKlU_ AS AX4setfWKK
+
+Keep the records that the minimum value of Ivuq4IbWoX of JV5dJKlU is greater than or equal to 27
+WHERE MIN(AX4setfWKK.Ivuq4IbWoX) >= 27 
+
+Group the records based on G3h0cuOlBsVi that A9l of uyWInOVXQ is in the maximum value of IyKHGz
+GROUP BY G3h0cuOlBsVi HAVING rVIkE.A9l IN MAX ( IyKHGz )
+
+Get the minimum value of 9Tnmd5gHs and iXu8cBsamk of 6Dh4
+SELECT MIN ( 9Tnmd5gHs ) , 6Dh4.iXu8cBsamk FROM 6Dh4
+
+Order these records based on the zedBlRUETW of 6Dh4 and sort them in descending order, and return the top 1 record
+ORDER BY 6Dh4.zedBlRUETW LIMIT 1
+
+Get the minimum value of CHUxVslb6z0 of qXuRk81zdV
+SELECT MIN ( CHUxVslb6z0 ) FROM qXuRk81zdV
+
+Order these records based on the Sx8T53, and return the top 1 record
+ORDER BY Sx8T53 LIMIT 1
+
+Get the number of nkA7cm80I of tY5HIcP that has jhw
+SELECT COUNT ( jhw.nkA7cm80I ) FROM tY5HIcP JOIN jhw AS nhPANa
+
+Get Vpt of tOw aANwSQLk that has sIogCJaY and xDeNLQ
+SELECT sIogCJaY.Vpt FROM tOw_aANwSQLk JOIN sIogCJaY AS ml47Md4F3q JOIN xDeNLQ
+
+Order these records based on the 7GF6prXcVHb of tOw aANwSQLk and sort them in ascending order, and return the top 1 record
+ORDER BY tOw_aANwSQLk.7GF6prXcVHb LIMIT 1
+
+Get hV of mTps that has cXbmdNxVA9u
+SELECT DISTINCT hV_ FROM mTps JOIN cXbmdNxVA9u AS TSbrHU
+
+Get the minimum value of NKqzm of uC
+SELECT MIN ( uC.NKqzm ) FROM uC
+
+Order these records based on the guxOfpSQ of uC and sort them in ascending order, and return the top 89 records
+ORDER BY uC.guxOfpSQ LIMIT 89
+
+Get MrfBRp3h4K of MK
+SELECT DISTINCT MrfBRp3h4K FROM MK
+
+Get E0SjEvqWrnkJ of QJ that has Ss9O
+SELECT Ss9O.E0SjEvqWrnkJ FROM QJ JOIN Ss9O ON Ss9O.Euy3HanZ NOT IN Ss9O.hEHQU
+
+Group the records based on VqTRDB of QJ
+GROUP BY QJ.VqTRDB
+
+Get distinct and GBIERTgM of OCJPqEuKDS that has e4Ic and Mo01A4fqCv
+SELECT Mo01A4fqCv.DISTINCT GBIERTgM FROM OCJPqEuKDS JOIN e4Ic JOIN Mo01A4fqCv
+
+Group the records based on the maximum value of Db
+GROUP BY MAX ( Db )
+
+Get the number of bWaIf of 9tASMPscoen that has oPTjGBJ2S and ehwLZh
+SELECT COUNT ( 9tASMPscoen.bWaIf ) FROM 9tASMPscoen JOIN oPTjGBJ2S JOIN ehwLZh
+
+Group the records based on the average value of oRAril
+GROUP BY AVG ( oRAril )
+
+Get the number of Cv6oVzIS and the minimum value of mvPl6T of ZLc7jKV5W that has 7Wj3Pj and UsycZ
+SELECT COUNT ( Cv6oVzIS ) FROM ZLc7jKV5W JOIN 7Wj3Pj ON MIN ( 7Wj3Pj.mvPl6T ) > Hh5TAnbBLU JOIN UsycZ
+
+Keep the records that 5w is not 10 OR tVOTwme5qY of ZLc7jKV5W is less than OR equal to 31
+WHERE 5w != 10 OR ZLc7jKV5W.tVOTwme5qY <= 31
+
+Get the maximum value of wRsiso4zoI7 of ABxArn qKS
+SELECT MAX ( ABxArn_qKS.wRsiso4zoI7 ) FROM ABxArn_qKS
+
+Keep the records that aPOn0FNjjvOI is not in Zt9dDfh
+WHERE aPOn0FNjjvOI NOT IN Zt9dDfh 
+
+Group the records based on 4tUjk3YiMN of ABxArn qKS that the maximum value of 8k2s of ABxArn qKS is in the form of DfSFjTUTgGGz
+GROUP BY ABxArn_qKS.4tUjk3YiMN HAVING MAX ( ABxArn_qKS.8k2s ) LIKE DfSFjTUTgGGz
+
+Get 4j5cCHEJRkG of W1QvG that has Xjpx2 and sQ13g9 and PL7ll5Wb
+SELECT Xjpx2.4j5cCHEJRkG FROM W1QvG JOIN Xjpx2 JOIN sQ13g9 ON sQ13g9.iUd9B1PnQ0z = 9 JOIN PL7ll5Wb
+
+Group the records based on the minimum value of 4 6O5mUYeuPhk that lYow is less than or equal to 51
+GROUP BY MIN ( 4 6O5mUYeuPhk ) HAVING lYow <= 51
+
+Get the number of F961XQbe K AND the maximum value of Q6NHnnw08d of 5cTx7gNm that has UGvzDiKQtsgg
+SELECT COUNT ( F961XQbe_K ) FROM 5cTx7gNm JOIN UGvzDiKQtsgg AS qUZWJ ON MAX ( 5cTx7gNm.Q6NHnnw08d ) <= 10
+
+Get the average value of distinct TaF2d AND kp of 8NkSFzE Bol
+SELECT AVG ( DISTINCT TaF2d ) , 8NkSFzE_Bol.kp FROM 8NkSFzE_Bol
+
+Keep the records that 8NkSFzE Bol 6p4wJSj19I is greater than 2 AND rBK05q is greater than or equal to 82
+WHERE 8NkSFzE_Bol.66p4wJSj19I > 2 AND rBK05q >= 82 
+
+Group the records based on the average value of 5V of 8NkSFzE Bol
+GROUP BY AVG ( 8NkSFzE_Bol.5V )
+
+Get PJcj0b87x of bw6u
+SELECT PJcj0b87x FROM bw6u
+
+Keep the records that XkS477gj1 of bw6u is greater than 4
+WHERE bw6u.XkS477gj1 > 4 
+
+Order these records based on the pGYCpQ and sort them in descending order, and return the top 58 records
+ORDER BY pGYCpQ LIMIT 58
+
+Get the sum of X8 of CItNL
+SELECT SUM ( X8 ) FROM CItNL
+
+Keep the records that the average value of xLekRAmzsUS is less than 23 OR SBqQgdX0 is greater than the maximum value of zjU4HssC
+WHERE AVG(xLekRAmzsUS) < 23 OR SBqQgdX0 > MAX(zjU4HssC) 
+
+Group the records based on the maximum value of Yk8 of CItNL that ktYcL5NsFgsB of CItNL is 61 AND TGjlBTrarmq is less than OR equal to 77
+GROUP BY MAX ( CItNL.Yk8 ) HAVING CItNL.ktYcL5NsFgsB = 61 AND TGjlBTrarmq <= 77
+
+Get mjP0MQwzMC of Nb that has 2NBhjIje
+SELECT Nb.mjP0MQwzMC FROM Nb JOIN 2NBhjIje
+
+Keep the records that aI is in the form of tVkCW
+WHERE aI LIKE tVkCW 
+
+Group the records based on qq of Nb that the maximum value of 9kn is less than or equal to 97
+GROUP BY Nb.qq HAVING MAX ( 9kn ) <= 97
+
+Get the minimum value of sZ032V and Mcman of xFno
+SELECT Mcman , MIN ( sZ032V ) FROM xFno
+
+Keep the records that xFno 1GAA4CO is greater than or equal to 100
+WHERE xFno.5841GAA4CO >= 100 
+
+Order these records based on the the sum of Sqa and sort them in descending order, and return the top 1 record
+ORDER BY SUM ( Sqa ) LIMIT 1
+
+Get the sum of zHCALbX of zznTICKL4
+SELECT SUM ( zHCALbX ) FROM zznTICKL4
+
+Keep the records that Yju9RBkOJH is not in ob OR zI5hAbNCk of zznTICKL4 is in the form of the minimum value of o12oXusL8m
+WHERE Yju9RBkOJH NOT IN ob OR zznTICKL4.zI5hAbNCk_ LIKE MIN(o12oXusL8m) 
+
+Order these records based on the nhpm of zznTICKL4 and sort them in ascending order, and return the top 24 records
+ORDER BY zznTICKL4.nhpm LIMIT 24
+
+Get the maximum value of n8pYKkPQOC AND the maximum value of 9iAqdX AND 3xDwic S 4 of f8UX2ejAzD that has k0
+SELECT 3xDwic_S_4 FROM f8UX2ejAzD JOIN k0 ON MAX ( n8pYKkPQOC ) NOT IN MAX ( k0.9iAqdX )
+
+Group the records based on uex of k0 that 8WH54 of f8UX2ejAzD is greater than 32 OR 2K3vRwn39H3 is greater than c45b0QZG
+GROUP BY k0.uex HAVING f8UX2ejAzD.8WH54 > 32 OR 2K3vRwn39H3 > c45b0QZG
+
+Get the number of TEyNkw and the maximum value of jVyVonEvr of yP8HIk7LxQE
+SELECT COUNT ( TEyNkw ) , MAX ( yP8HIk7LxQE.jVyVonEvr_ ) FROM yP8HIk7LxQE
+
+Keep the records that uIfUvH is not in 6L5l
+WHERE uIfUvH NOT IN 6L5l 
+
+Group the records based on the sum of FsU30uKy
+GROUP BY SUM ( FsU30uKy )
+
+Get the maximum value of gHvMpmQX of TFDSDt7fb that has nwZlMzM
+SELECT MAX ( gHvMpmQX ) FROM TFDSDt7fb JOIN nwZlMzM
+
+Group the records based on nJA5 of nwZlMzM
+GROUP BY nwZlMzM.nJA5
+
+Get the number of wqrWohBt and the sum of xIi7dV85zH and the maximum value of Lk6yt of BV8fAr3kkqvc that has ZD and Uw9K
+SELECT COUNT ( ZD.wqrWohBt ) FROM BV8fAr3kkqvc JOIN ZD AS zXEz ON SUM ( Uw9K.xIi7dV85zH ) > 52 JOIN Uw9K ON RUB3S9fPyf NOT IN MAX ( ZD.Lk6yt )
+
+Group the records based on aR that the sum of WVlR4 of ZD is greater than OR equal to 47 OR the average value of QYDGO is not in KJ
+GROUP BY aR HAVING SUM ( ZD.WVlR4 ) >= 47 OR AVG ( QYDGO ) NOT IN KJ
+
+Get ev 3kx6nyO of GXFj7NKlvB6
+SELECT GXFj7NKlvB6._ev_3kx6nyO FROM GXFj7NKlvB6
+
+Group the records based on the average value of CvEVrYmi7np of GXFj7NKlvB6 that the minimum value of llIDlNCz of GXFj7NKlvB6 is in the form of Jn
+GROUP BY AVG ( GXFj7NKlvB6.CvEVrYmi7np ) HAVING MIN ( GXFj7NKlvB6.llIDlNCz ) LIKE Jn
+
+Get the number of ehXZvOf and the number of 2L and iIEuN and pulWanp of wFzbuw53yf that has pETvC K2Upx and 9mNcP3hZg2b
+SELECT wFzbuw53yf.iIEuN , pulWanp FROM wFzbuw53yf JOIN pETvC_K2Upx AS MKc0Ca7vkY ON bHAtlA5tz < 47 OR cjvP2GDP_w LIKE COUNT ( ehXZvOf ) JOIN 9mNcP3hZg2b ON COUNT ( 2L ) = 33
+
+Keep the records that l894tw of wFzbuw53yf is not 25
+WHERE wFzbuw53yf.l894tw != 25
+
+Get tidNU9lX0 of KZj6
+SELECT tidNU9lX0 FROM KZj6
+
+Keep the records that the number of QH2PS of KZj6 is 88 OR the average value of HD is not 19
+WHERE COUNT(KZj6.QH2PS) = 88 OR AVG(HD) != 19 
+
+Group the records based on the average value of hbZfEXtM3bc of KZj6
+GROUP BY AVG ( KZj6.hbZfEXtM3bc )
+
+Get QUsWwbwzw of aLFmpV
+SELECT aLFmpV.QUsWwbwzw FROM aLFmpV
+
+Keep the records that kNrY of aLFmpV is not in amw0wyVrNf of aLFmpV
+WHERE aLFmpV.kNrY NOT IN aLFmpV.amw0wyVrNf 
+
+Group the records based on the minimum value of X2VBB7cyg9T that the maximum value of erAuEWUj is in the number
+GROUP BY MIN ( X2VBB7cyg9T ) HAVING MAX ( erAuEWUj ) IN COUNT ( * )
+
+Get the number of mBAi and HP73bee of ScNpvd
+SELECT COUNT ( mBAi ) , ScNpvd.HP73bee FROM ScNpvd
+
+Group the records based on the minimum value of ypjqI9CqOQem
+GROUP BY MIN ( ypjqI9CqOQem )
+
+Order these records based on the nbLbFD9D and sort them in ascending order, and return the top 98 records
+ORDER BY nbLbFD9D LIMIT 98
+
+Get 5i8f2lcc of IM
+SELECT IM.5i8f2lcc FROM IM
+
+Group the records based on the sum of iGUauxvfZLFk of IM that Afh of IM is in the form of MhpvNc of IM
+GROUP BY SUM ( IM.iGUauxvfZLFk ) HAVING IM.Afh LIKE IM.MhpvNc
+
+Get XeWC7HWCrm of XOQoCA2I that has gpO
+SELECT gpO.XeWC7HWCrm FROM XOQoCA2I JOIN gpO AS 4vJ5n6hTgQ90 ON XOQoCA2I .72 8riJbA != 58
+
+Group the records based on h7mxNzrd
+GROUP BY h7mxNzrd
+
+Order these records based on the the maximum value of dznupjL and sort them in descending order, and return the top 1 record
+ORDER BY MAX ( dznupjL ) LIMIT 1
+
+Get RBsNikr of K05lhNy5MeU
+SELECT K05lhNy5MeU.RBsNikr FROM K05lhNy5MeU
+
+Group the records based on rG of K05lhNy5MeU
+GROUP BY K05lhNy5MeU.rG
+
+Get the minimum value of n9hGFt6f6Y4l of Wk9h
+SELECT MIN ( n9hGFt6f6Y4l ) FROM Wk9h
+
+Keep the records that the minimum value of fj is greater than or equal to 18
+WHERE MIN(fj) >= 18 
+
+Group the records based on WfLKJQl0NDh of Wk9h that hifrXD84N of Wk9h is not 75 AND 4t of Wk9h is greater than or equal to 30
+GROUP BY Wk9h.WfLKJQl0NDh HAVING Wk9h.hifrXD84N != 75 AND Wk9h.4t >= 30
+
+Get the average value of btTVOG91CY AND the minimum value of H74JPV AND the minimum value of M2p71 of k3OF4N that has sUiza3m1E
+SELECT AVG ( sUiza3m1E.btTVOG91CY ) , MIN ( _k3OF4N.H74JPV ) FROM _k3OF4N JOIN sUiza3m1E ON MIN ( M2p71 ) < 45
+
+Group the records based on Q8lIgq of sUiza3m1E that O0t is in the minimum value of VYGZYwCU of sUiza3m1E AND aPrG is 83
+GROUP BY sUiza3m1E.Q8lIgq HAVING O0t IN MIN ( sUiza3m1E.VYGZYwCU ) AND aPrG = 83
+
+Order these records based on the the minimum value of bl6aVAYG4 of sUiza3m1E, AND return the top 1 record
+ORDER BY MIN ( sUiza3m1E.bl6aVAYG4 ) LIMIT 1
+
+Get bhYDInO of wjy693 2PNR
+SELECT bhYDInO FROM wjy693_2PNR
+
+Group the records based on Kv7K that riO cd9Lozf is in the form of the minimum value of dYhmPt2d6w of wjy693 2PNR
+GROUP BY Kv7K HAVING riO_cd9Lozf LIKE MIN ( wjy693_2PNR.dYhmPt2d6w )
+
+Get the maximum value of yhC3Gc2vm and vf4bZD of t5UXq2w that has oYcyK1b6DWk
+SELECT vf4bZD FROM t5UXq2w JOIN oYcyK1b6DWk AS oxNgB2D ON LVfyqP >= MAX ( oYcyK1b6DWk.yhC3Gc2vm )
+
+Keep the records that the average value of qYP8wJK is less than or equal to 2
+WHERE AVG(qYP8wJK) <= 2
+
+Get lHn4sJ of eqvqf5I2rDi0 that has ODGKpVgMmr
+SELECT lHn4sJ FROM eqvqf5I2rDi0 JOIN ODGKpVgMmr
+
+Group the records based on the minimum value of I3Era of ODGKpVgMmr that the number of PShD6Ircfe of ODGKpVgMmr is greater than or equal to 97 AND ATiHbraZjTI7 is in the form of the sum of QQwj9 of eqvqf5I2rDi0
+GROUP BY MIN ( ODGKpVgMmr.I3Era ) HAVING COUNT ( ODGKpVgMmr.PShD6Ircfe ) >= 97 AND ATiHbraZjTI7 LIKE SUM ( eqvqf5I2rDi0.QQwj9 )
+
+Get the average value of OO of ZiW
+SELECT AVG ( OO ) FROM ZiW
+
+Keep the records that kpOfy4gA0RoT is less than 100
+WHERE kpOfy4gA0RoT < 100 
+
+Group the records based on fl8sbS
+GROUP BY fl8sbS
+
+Get dLMwPR0 of Hp that has wFeBaYKBdIBj AND 7Kg5w
+SELECT dLMwPR0 FROM Hp JOIN wFeBaYKBdIBj JOIN 7Kg5w
+
+Keep the records that the minimum value of BN740Q5Kai98 of wFeBaYKBdIBj is 77 AND MjpoCD is not 77
+WHERE MIN(wFeBaYKBdIBj.BN740Q5Kai98) = 77 AND MjpoCD != 77
+
+Get NQUiQt of c8EvH5x
+SELECT NQUiQt FROM c8EvH5x
+
+Keep the records that the number of vOg0 of c8EvH5x is in the form of 5G2B0sGT0 OR the sum of wgAdVvCDXu1 of c8EvH5x is less than ZlYM4GwB1uS of c8EvH5x
+WHERE COUNT(c8EvH5x.vOg0) LIKE 5G2B0sGT0 OR SUM(c8EvH5x.wgAdVvCDXu1) < c8EvH5x.ZlYM4GwB1uS 
+
+Group the records based on the number of c8EvH5x 2 of 0TeY
+GROUP BY COUNT ( c8EvH5x .2 0TeY )
+
+Order these records based on the vrYYcJ of c8EvH5x, and return the top 75 records
+ORDER BY c8EvH5x.vrYYcJ LIMIT 75
+
+Get cZ4yzIJlrd and eEOU of djWoft
+SELECT cZ4yzIJlrd , eEOU FROM djWoft
+
+Group the records based on the average value of HocVHhrPWV
+GROUP BY AVG ( HocVHhrPWV )
+
+Get mr8w2dXuGYr of qn
+SELECT mr8w2dXuGYr FROM qn
+
+Keep the records that DL1PrQ6 of qn is less than 14
+WHERE qn.DL1PrQ6 < 14
+
+Get vNIZQ7GMA of xa5
+SELECT xa5.vNIZQ7GMA FROM xa5
+
+Group the records based on the sum of DDQe of xa5
+GROUP BY SUM ( xa5.DDQe )
+
+Order these records based on the IXlS0bl of xa5 and sort them in descending order, and return the top 1 record
+ORDER BY xa5.IXlS0bl LIMIT 1
+
+Get the minimum value of distinct aJveQZ and Q3Hyn3D 9A of PkU
+SELECT Q3Hyn3D_9A , MIN ( PkU.DISTINCT aJveQZ ) FROM PkU
+
+Group the records based on 1C F1qf of PkU
+GROUP BY PkU.1C_F1qf
+
+Get 6M and FPuZ of FkX4r5EkiGka that has kVOx9dZ
+SELECT FkX4r5EkiGka.6M , FPuZ FROM FkX4r5EkiGka JOIN kVOx9dZ AS Ggx3 ON AI58JV >= 71
+
+Get the average value of fsFA FH of Io50rbKFp
+SELECT AVG ( fsFA_FH ) FROM Io50rbKFp
+
+Keep the records that the average value of j2CkwRi98Eyf is greater than x9I88Vp of Io50rbKFp
+WHERE AVG(j2CkwRi98Eyf) > Io50rbKFp.x9I88Vp 
+
+Order these records based on the the average value of idCwq8ZhL0z of Io50rbKFp and sort them in ascending order, and return the top 58 records
+ORDER BY AVG ( Io50rbKFp.idCwq8ZhL0z ) LIMIT 58
+
+Get the minimum value of distinct CKsbdsrYM3 AND the minimum value of GMEr of 09MflR5z that has jBz
+SELECT MIN ( jBz.DISTINCT CKsbdsrYM3 ) FROM 09MflR5z JOIN jBz AS a0_ ON MIN ( a0_.GMEr ) IN upJT4TjtBjV
+
+Keep the records that QX is not in 0 bQR2 of 9MflR5z OR the average value of 3TrQmb of jBz in PZsyj
+WHERE QX NOT IN 09MflR5z.bQR2 OR AVG(jBz.3TrQmb) IN PZsyj
+
+Get the maximum value of 3Z of XYJb that has PgkSYmHKIn and Drgt
+SELECT MAX ( Drgt.3Z ) FROM XYJb JOIN PgkSYmHKIn AS CpkHMdkvv1h JOIN Drgt AS 1PHySz
+
+Group the records based on h7GFNJ of PgkSYmHKIn
+GROUP BY CpkHMdkvv1h.h7GFNJ
+
+Get the average value of iGULcGgrM AND the maximum value of imPi59C9xw z AND the average value of p0 AND the sum of ke3N 1 of 0Q3KL that has HgoTXbbIYI AND IaWl4Q
+SELECT AVG ( iGULcGgrM ) FROM 0Q3KL JOIN HgoTXbbIYI ON IaWl4Q.YFs IN jWIEp3u OR pk >= 38 OR MAX ( imPi59C9xw_z ) LIKE AVG ( p0 ) JOIN IaWl4Q ON SUM ( IaWl4Q.ke3N_1 ) >= eGj3VKCB
+
+Keep the records that T j of 0Q3KL is greater than OR equal to 26
+WHERE 0Q3KL.T_j >= 26 
+
+Group the records based on VT that the sum of YkKWJ is not gDno
+GROUP BY VT HAVING SUM ( YkKWJ ) != gDno
+
+Get the average value of Q99njCzC AND the number of xEp AND WgGxcBaZg0 of SM that has LXvHoNoLLz AND tc
+SELECT DISTINCT WgGxcBaZg0 , AVG ( Q99njCzC ) FROM SM JOIN LXvHoNoLLz AS elh JOIN tc ON COUNT ( LXvHoNoLLz.xEp ) LIKE SM.yw9
+
+Keep the records that mCE9 is less than 66
+WHERE mCE9 < 66 
+
+Group the records based on I0tmCgQXIys that the sum of QKU5L of SM is greater than OR equal to 6 AND the minimum value of q595l of SM is not in XC
+GROUP BY I0tmCgQXIys HAVING SUM ( SM.QKU5L ) >= 6 AND MIN ( SM.q595l ) NOT IN XC
+
+Order these records based on the the minimum value of rcWz AND sort them in descending order, AND return the top 1 record
+ORDER BY MIN ( rcWz ) LIMIT 1
+
+Get the minimum value of distinct iXlN1yK AND the maximum value of i9R7EuX AND the maximum value of bmvGfIPC of PpuEthaV that has UNHuW7jlze
+SELECT MIN ( DISTINCT iXlN1yK ) FROM PpuEthaV JOIN UNHuW7jlze AS RUFL ON MAX ( RUFL.i9R7EuX ) LIKE MAX ( bmvGfIPC )
+
+Keep the records that QO is in CaG of UNHuW7jlze
+WHERE QO IN RUFL.CaG
+
+Get jyuRXiR0DV6 and vk6Ek of Ij0QweUQr g
+SELECT Ij0QweUQr_g.jyuRXiR0DV6 , Ij0QweUQr_g.vk6Ek FROM Ij0QweUQr_g
+
+Keep the records that k5T85R8P of Ij0QweUQr g is less than 25
+WHERE Ij0QweUQr_g._k5T85R8P < 25 
+
+Group the records based on the average value of ww6 7sC2lDq that the average value of RKSVhDA4k6 is not 7 OR the minimum value of y0RdqhlNsz is greater than 48
+GROUP BY AVG ( ww6_7sC2lDq ) HAVING AVG ( RKSVhDA4k6 ) != 7 OR MIN ( y0RdqhlNsz ) > 48
+
+Order these records based on the ItRTDqZI of Ij0QweUQr g and sort them in descending order, and return the top 1 record
+ORDER BY Ij0QweUQr_g.ItRTDqZI LIMIT 1
+
+Get 3fUG8jOSm62E of pWP4 that has YEEopv8qF
+SELECT DISTINCT 3fUG8jOSm62E FROM pWP4 JOIN YEEopv8qF AS oqeQOut4Y7Tr
+
+Keep the records that the average value of ymbvfyACex of YEEopv8qF is the maximum value of OaAPQxBgvW
+WHERE AVG(oqeQOut4Y7Tr.ymbvfyACex) = MAX(OaAPQxBgvW) 
+
+Order these records based on the lhlukBt of YEEopv8qF and sort them in ascending order, and return the top 1 record
+ORDER BY oqeQOut4Y7Tr.lhlukBt LIMIT 1
+
+Get the maximum value of 0 3yXEbjbfw8 and distinct and klzj of XFDD2ZH
+SELECT MAX ( 0 3yXEbjbfw8 ) , XFDD2ZH.DISTINCT klzj FROM XFDD2ZH
+
+Get the average value of XY AND 6I3TW of t6i that has rvD
+SELECT t6i.6I3TW FROM t6i JOIN rvD ON AVG ( XY ) >= 32
+
+Get the average value of BA1sSWo5EI of LOW
+SELECT AVG ( LOW.BA1sSWo5EI ) FROM LOW
+
+Group the records based on the number of LOW 35 of 6z that the average value of O1Oy is in the form of QlN OR 3ehnZ is less than OR equal to 39 OR qg2 is 41
+GROUP BY COUNT ( LOW .35 6z ) HAVING AVG ( O1Oy ) LIKE QlN OR 3ehnZ <= 39 OR qg2 = 41
+
+Order these records based on the j9Koxda and sort them in descending order, and return the top 1 record
+ORDER BY j9Koxda LIMIT 1
+
+Get VleJipR of isHszn5
+SELECT VleJipR FROM isHszn5
+
+Group the records based on the number of PTT49T1fLI of isHszn5
+GROUP BY COUNT ( isHszn5.PTT49T1fLI )
+
+Get the number of cPgf of Omvk
+SELECT COUNT ( Omvk.cPgf ) FROM Omvk
+
+Keep the records that XGx6X8puNnE is in the form of imrEyTMCeX
+WHERE XGx6X8puNnE LIKE imrEyTMCeX
+
+Get the minimum value of QxGf2 of 6RWdS4 that has Hoisj3tKtpA and EM6gJ6
+SELECT MIN ( QxGf2 ) FROM 6RWdS4 JOIN Hoisj3tKtpA ON JQfa LIKE 6RWdS4.Bc9 JOIN EM6gJ6 ON RyGzlQQF != SgNVbW0
+
+Keep the records that the number of 2QcVKPiFqu is the sum of RmntP8vPbZ4A of EM6gJ6
+WHERE COUNT(2QcVKPiFqu) = SUM(EM6gJ6.RmntP8vPbZ4A) 
+
+Group the records based on Xe25Zcm of 6RWdS4
+GROUP BY 6RWdS4.Xe25Zcm
+
+Get XPAd9o of 67jdrh that has lF
+SELECT XPAd9o FROM 67jdrh JOIN lF ON lF.zJyP87K4GgK < 46
+
+Group the records based on YmRefYsntjq of 67jdrh
+GROUP BY 67jdrh.YmRefYsntjq
+
+Get the average value of uyt and the number of YI of DGKyC that has AL4PKBH
+SELECT AVG ( uyt ) FROM DGKyC JOIN AL4PKBH AS YGykb8nuChVO ON COUNT ( DGKyC.YI ) >= 91
+
+Keep the records that the sum of Ai 4acJD is less than 62
+WHERE SUM(Ai_4acJD) < 62 
+
+Group the records based on the minimum value of VNxKMO91NP of AL4PKBH
+GROUP BY MIN ( YGykb8nuChVO.VNxKMO91NP )
+
+Get r9BVDLh of kXQjHaUf4gxg
+SELECT r9BVDLh FROM kXQjHaUf4gxg
+
+Group the records based on xuZLDrwILK9P that xmm of kXQjHaUf4gxg is greater than 94
+GROUP BY xuZLDrwILK9P HAVING kXQjHaUf4gxg.xmm > 94
+
+Get hNDjf4eEPesn of VW2X ZRMbHs that has i4RF
+SELECT DISTINCT hNDjf4eEPesn FROM VW2X_ZRMbHs JOIN i4RF
+
+Keep the records that the maximum value of bu is 24 OR the minimum value of J7sarA9hOzn is less than the number of XYY of VW2X ZRMbHs
+WHERE MAX(bu) = 24 OR MIN(J7sarA9hOzn) < COUNT(VW2X_ZRMbHs.XYY) 
+
+Group the records based on the maximum value of 0 7mOj0wf8oSp that MBBauk4svW s is less than 98
+GROUP BY MAX ( 0 7mOj0wf8oSp ) HAVING MBBauk4svW_s < 98
+
+Get the average value of 8CaLTN2q7 and QQ0 of Uqme1oy
+SELECT AVG ( Uqme1oy.8CaLTN2q7 ) , Uqme1oy.QQ0 FROM Uqme1oy
+
+Keep the records that xo2tX 2JQJ53 is in the sum of tPivE of Uqme1oy
+WHERE xo2tX_2JQJ53 IN SUM(Uqme1oy.tPivE) 
+
+Group the records based on T1DfKLj4H222 of Uqme1oy
+GROUP BY Uqme1oy.T1DfKLj4H222
+
+Order these records based on the the minimum value of Z2N of Uqme1oy and sort them in ascending order, and return the top 19 records
+ORDER BY MIN ( Uqme1oy.Z2N ) LIMIT 19
+
+Get 1bhYw of 7oroGWx that has sm9qX and f3UAFjAN
+SELECT sm9qX.1bhYw FROM 7oroGWx JOIN sm9qX AS PyDT5 JOIN f3UAFjAN AS qaa6wH
+
+Keep the records that the average value of I9BvHquT of sm9qX is 30
+WHERE AVG(PyDT5.I9BvHquT) = 30 
+
+Order these records based on the PyDT5 5Dqg and sort them in ascending order, and return the top 1 record
+ORDER BY PyDT5 .1 5Dqg LIMIT 1
+
+Get KLCKMHsem2 of PLfsIu
+SELECT KLCKMHsem2 FROM PLfsIu
+
+Keep the records that BXpuc1Qx of PLfsIu is less than 48
+WHERE PLfsIu.BXpuc1Qx < 48 
+
+Group the records based on the average value of MkShXRi
+GROUP BY AVG ( MkShXRi_ )
+
+Get the maximum value of 0ZBJTbRTvW and the number and the minimum value of TZlVTl of s0JHyJQyKciJ that has Q4diH
+SELECT MAX ( 0ZBJTbRTvW ) FROM s0JHyJQyKciJ JOIN Q4diH ON COUNT ( * ) LIKE MIN ( s0JHyJQyKciJ.TZlVTl )
+
+Group the records based on EMEgg
+GROUP BY EMEgg
+
+Get the sum of PX7WU of Wgwn that has eti989KEE
+SELECT SUM ( Wgwn.PX7WU ) FROM Wgwn JOIN eti989KEE
+
+Group the records based on the number of fxkVSmgBGcaN that CQkI6N4Lajxz of eti989KEE is greater than 3
+GROUP BY COUNT ( fxkVSmgBGcaN ) HAVING eti989KEE.CQkI6N4Lajxz > 3
+
+Get the average value of h12lTezYk of BH that has 9ZjZv and trrVf4VN2DtG
+SELECT AVG ( 9ZjZv.h12lTezYk ) FROM BH JOIN 9ZjZv AS R_lEVsRe9 ON BH.v1XDulj1vKa <= 92 OR new4BFm > XCIIVSJIQo JOIN trrVf4VN2DtG AS bK
+
+Get u8tcpJ of VcqZg that has Ccf2SKE3wuIn
+SELECT VcqZg.u8tcpJ FROM VcqZg JOIN Ccf2SKE3wuIn
+
+Keep the records that Vq3lxO7hACWZ of VcqZg is 96
+WHERE VcqZg.Vq3lxO7hACWZ = 96 
+
+Order these records based on the TqsCfZ of VcqZg and sort them in descending order, and return the top 1 record
+ORDER BY VcqZg.TqsCfZ LIMIT 1
+
+Get AG11N of AmGLfpLCZ that has em5
+SELECT AG11N_ FROM AmGLfpLCZ JOIN _em5 ON _em5.8WqYgF74LW >= 58
+
+Keep the records that gIlBq is G8ujRPqdfG of AmGLfpLCZ
+WHERE gIlBq = AmGLfpLCZ.G8ujRPqdfG
+
+Get the number of iFXxPG8Up and the minimum value of lbySsw92e of pJtR0lirS3O5 that has m4ssLrrrpPlc
+SELECT COUNT ( iFXxPG8Up ) FROM pJtR0lirS3O5 JOIN m4ssLrrrpPlc AS QzcJlsqRcgE ON MIN ( lbySsw92e ) = 47
+
+Get the number of vahN and jTh of hvYFVisFR7H that has ngDgcE0
+SELECT hvYFVisFR7H.jTh , COUNT ( hvYFVisFR7H.vahN ) FROM hvYFVisFR7H JOIN ngDgcE0
+
+Order these records based on the the minimum value of 1exeGc and sort them in ascending order, and return the top 1 record
+ORDER BY MIN ( 1exeGc ) LIMIT 1
+
+Get the minimum value of distinct QISvh8Odl of EcKwPB5
+SELECT MIN ( EcKwPB5.DISTINCT QISvh8Odl ) FROM EcKwPB5
+
+Group the records based on tYh5T672RcDq of EcKwPB5
+GROUP BY EcKwPB5.tYh5T672RcDq
+
+Order these records based on the the average value of Rhve of EcKwPB5 and sort them in ascending order, and return the top 1 record
+ORDER BY AVG ( EcKwPB5.Rhve ) LIMIT 1
+
+Get the maximum value of LT6weDzMGjRK and the number of SWY of DBMmNeFsK1Jd that has vKh4tAM
+SELECT MAX ( LT6weDzMGjRK ) FROM DBMmNeFsK1Jd JOIN vKh4tAM ON COUNT ( SWY ) < 72
+
+Keep the records that 4jx is greater than 10
+WHERE 4jx > 10 
+
+Group the records based on the sum of 8j of vKh4tAM
+GROUP BY SUM ( vKh4tAM.8j )
+
+Get the maximum value of j1Jd and the average value of tR8Ppacf9 of Zb that has 9YpunCDc4Q
+SELECT MAX ( j1Jd ) , AVG ( 9YpunCDc4Q.tR8Ppacf9 ) FROM Zb JOIN 9YpunCDc4Q
+
+Group the records based on the sum of u2tWorgi of 9YpunCDc4Q
+GROUP BY SUM ( 9YpunCDc4Q.u2tWorgi )
+
+Order these records based on the Mgu, and return the top 1 record
+ORDER BY Mgu LIMIT 1
+
+Get 1zM4Hj of FUhnoBcu
+SELECT 1zM4Hj FROM FUhnoBcu
+
+Keep the records that E iYb7 of FUhnoBcu is less than 98
+WHERE FUhnoBcu.E_iYb7 < 98 
+
+Group the records based on aIiayMm
+GROUP BY aIiayMm
+
+Get the minimum value of UP6Gg and the average value of EWO and uceTV of u that has CSYw
+SELECT _u.uceTV FROM _u JOIN CSYw ON MIN ( CSYw.UP6Gg ) >= 33 OR AVG ( kQWR3o.EWO ) != 86
+
+Get the number of ipKx3bRO
+SELECT COUNT ( * ) FROM ipKx3bRO
+
+Group the records based on kAqftYCyF of ipKx3bRO
+GROUP BY ipKx3bRO.kAqftYCyF
+
+Order these records based on the lxd5N and sort them in ascending order, and return the top 1 record
+ORDER BY lxd5N LIMIT 1
+
+Get d9od6gX of zxfdr that has YrkJuqgTlT and QfpubU
+SELECT F8.d9od6gX FROM zxfdr JOIN YrkJuqgTlT JOIN QfpubU AS F8
+
+Group the records based on the number of 6ePIX2Sfva
+GROUP BY COUNT ( 6ePIX2Sfva )
+
+Get distinct and EADWLey8 of fgaiWJ3 that has cJ
+SELECT cJ.DISTINCT EADWLey8 FROM fgaiWJ3 JOIN cJ AS XAmodCIzx48Z ON 6taWSROOF != 2L
+
+Keep the records that tMNW is not 72
+WHERE tMNW != 72 
+
+Order these records based on the the sum of hmJ1KFlphWq and sort them in descending order, and return the top 1 record
+ORDER BY SUM ( hmJ1KFlphWq ) LIMIT 1
+
+Get nfgrRe2JjK of vwjdajILd
+SELECT vwjdajILd.nfgrRe2JjK FROM vwjdajILd
+
+Group the records based on 8uW99D0Yk J of vwjdajILd
+GROUP BY vwjdajILd.8uW99D0Yk_J
+
+Order these records based on the bA of vwjdajILd and sort them in descending order, and return the top 1 record
+ORDER BY vwjdajILd.bA LIMIT 1
+
+Get the maximum value of 5YlU0Yupo5 and X74e4wFGb7JP of k8AgYfBFk that has QaoW
+SELECT MAX ( NjvtDHFo.5YlU0Yupo5 ) , X74e4wFGb7JP FROM k8AgYfBFk JOIN QaoW AS NjvtDHFo
+
+Get cy0 dxdXx903 of JGAR130 that has LQ
+SELECT LQ.cy0_dxdXx903 FROM JGAR130 JOIN LQ AS GQLMc
+
+Order these records based on the aZ5GFaOC and sort them in ascending order, and return the top 1 record
+ORDER BY aZ5GFaOC LIMIT 1
+
+Get Uws of NmEUYSe5A5 that has J3p5OpD
+SELECT Uws FROM NmEUYSe5A5 JOIN J3p5OpD
+
+Get the maximum value of 7tdpGp of nHkqJH that has 3j2RD2
+SELECT MAX ( 7tdpGp ) FROM nHkqJH JOIN 3j2RD2 AS QVLfF3LB_ ON QVLfF3LB_.aGx LIKE rfx2eQ7GSMqb
+
+Keep the records that the average value of cAyLjDYl of 3j2RD2 is not 80
+WHERE AVG(QVLfF3LB_.cAyLjDYl) != 80
+
+Get K9 of tpDxRl4c
+SELECT tpDxRl4c.K9 FROM tpDxRl4c
+
+Group the records based on the sum of XceHc that the maximum value of vLX is less than or equal to 15 AND Wd2tkwv of tpDxRl4c is in the average value of hcH3wzug
+GROUP BY SUM ( XceHc ) HAVING MAX ( vLX ) <= 15 AND tpDxRl4c.Wd2tkwv IN AVG ( hcH3wzug )
+
+Order these records based on the OdQw9d of tpDxRl4c, AND return the top 1 record
+ORDER BY tpDxRl4c.OdQw9d LIMIT 1
+
+Get the maximum value of qNywHV8SMXA of 3WpkcyPiA that has TnRr35oI
+SELECT MAX ( c2I6X10MU.qNywHV8SMXA ) FROM 3WpkcyPiA JOIN TnRr35oI AS c2I6X10MU ON xQftb != 46
+
+Group the records based on hZ of TnRr35oI
+GROUP BY c2I6X10MU.hZ
+
+Get the maximum value of WzNgkfEZk AND yL6vi of 2 0sp that has 61SgyE
+SELECT yL6vi FROM 2_0sp JOIN 61SgyE AS N2paEy9 ON MAX ( WzNgkfEZk ) > 85
+
+Order these records based on the the minimum value of 6 Lu of 1SgyE AND sort them in descending order, AND return the top 33 records
+ORDER BY MIN ( 6 1SgyE.Lu ) LIMIT 33
+
+Get 2 CmmOaLBi of bCC3 that has GgFEehUD725J
+SELECT GgFEehUD725J.2_CmmOaLBi FROM bCC3 JOIN GgFEehUD725J
+
+Keep the records that ki is greater than or equal to 46 AND the minimum value of OPIfL of bCC3 is greater than or equal to Y1YjZxDvyr of bCC3
+WHERE ki >= 46 AND MIN(bCC3.OPIfL) >= bCC3._Y1YjZxDvyr
+
+Get UzsSiiYXx of 2BzMPXF1Z
+SELECT DISTINCT UzsSiiYXx FROM 2BzMPXF1Z
+
+Order these records based on the the number of gayg G4vmH of 2BzMPXF1Z and sort them in descending order, and return the top 1 record
+ORDER BY COUNT ( 2BzMPXF1Z.gayg_G4vmH ) LIMIT 1
+
+Get lDCZ18b of ySMmLOrbbmVn that has Mo5t
+SELECT lDCZ18b FROM ySMmLOrbbmVn JOIN Mo5t AS yxYu7
+
+Keep the records that VyCnL15JjOQ is in the form of the minimum value of I3 OR the average value of MQn8io Z5t5 of ySMmLOrbbmVn is 95
+WHERE VyCnL15JjOQ LIKE MIN(I3) OR AVG(ySMmLOrbbmVn.MQn8io_Z5t5) = 95 
+
+Get the sum of wm AND I8oDG of d that has NutaHlub
+SELECT _d.I8oDG FROM _d JOIN NutaHlub AS ow ON SUM ( wm ) < x7
+
+Keep the records that b8rS of d is in the form of IhV of NutaHlub AND the minimum value of oVIewKMw is less than 39
+WHERE _d.b8rS LIKE ow.IhV AND MIN(oVIewKMw) < 39 
+
+Group the records based on AKl5B
+GROUP BY AKl5B
+
+Get the maximum value of Dn3rOIy6 of BwrTmEd YE9p that has l8aFcaSmj AND 3eAx6NVsPB
+SELECT MAX ( Dn3rOIy6 ) FROM BwrTmEd_YE9p JOIN l8aFcaSmj JOIN 3eAx6NVsPB AS 9gXCq7ic27 ON yq4EL6C = 57
+
+Keep the records that the minimum value of RLsjFW1NRuD in WX8rj1 pUOF of 3eAx6NVsPB AND the minimum value of NON3xjN of 3eAx6NVsPB is not in IXtrxrX
+WHERE MIN(RLsjFW1NRuD) IN 9gXCq7ic27.WX8rj1_pUOF AND MIN(3eAx6NVsPB.NON3xjN) NOT IN IXtrxrX 
+
+Group the records based on AqBYvOtAT of BwrTmEd YE9p that u2LzkzROqDcP of 3eAx6NVsPB is not in 3IENcC6n of 3eAx6NVsPB AND NBpqCn of 3eAx6NVsPB is not in the minimum value of 7wcvAXvxyjGW
+GROUP BY BwrTmEd_YE9p.AqBYvOtAT HAVING 9gXCq7ic27.u2LzkzROqDcP NOT IN 3eAx6NVsPB.3IENcC6n AND 3eAx6NVsPB.NBpqCn NOT IN MIN ( 7wcvAXvxyjGW )
+
+Order these records based on the iX9AyTsMXH of BwrTmEd YE9p AND sort them in descending order, AND return the top 45 records
+ORDER BY BwrTmEd_YE9p.iX9AyTsMXH LIMIT 45
+
+Get UU of aQhV1 that has Sig
+SELECT aQhV1.UU FROM aQhV1 JOIN Sig
+
+Get the number of W6gs and qXnHBJ of IwpeStb3Ckh5
+SELECT COUNT ( W6gs ) , qXnHBJ FROM IwpeStb3Ckh5
+
+Keep the records that the sum of qkdJJG6ju of IwpeStb3Ckh5 is greater than 7MHzyT5 OR xFs of IwpeStb3Ckh5 is greater than OR equal to 100
+WHERE SUM(IwpeStb3Ckh5.qkdJJG6ju) > 7MHzyT5 OR IwpeStb3Ckh5.xFs >= 100 
+
+Get WjS9XRrfIRH of aTon9Iap48W7 that has UKQ and MbPcR
+SELECT WjS9XRrfIRH FROM aTon9Iap48W7 JOIN UKQ ON VOYciaukL <= A8s OR zMxBM IN vb3RFpEurir JOIN MbPcR ON MbPcR.kLtSuW = 44
+
+Group the records based on 7xB29FZ0jgO of UKQ that the minimum value of Y5sCD4zPSc of UKQ is not in gefaRg6LkE OR td5Zb9qZDzmG of aTon9Iap48W7 is less than 5
+GROUP BY UKQ.7xB29FZ0jgO HAVING MIN ( UKQ.Y5sCD4zPSc ) NOT IN gefaRg6LkE OR aTon9Iap48W7.td5Zb9qZDzmG < 5
+
+Get lf5uhWGyqU7 of eOj that has jXcWPQMErB61
+SELECT lf5uhWGyqU7 FROM eOj JOIN jXcWPQMErB61 AS csb5DR6KKiP ON csb5DR6KKiP.yry68fYHjY NOT IN y7D3WpB
+
+Get the maximum value of IL of fJ4Z that has vnJi1d
+SELECT MAX ( IL ) FROM fJ4Z JOIN vnJi1d ON 81 > 91
+
+Group the records based on Uw Y0gKuV
+GROUP BY Uw_Y0gKuV
+
+Get the minimum value of AKKjg and the maximum value of vJdz and gxC5RjwfNga of yaynFIU71 that has jB and xKSGxx and u0VBcAwb
+SELECT gxC5RjwfNga FROM yaynFIU71 JOIN jB JOIN xKSGxx AS qiYhmKAcmGD ON jSYmcczPe4 >= 18 JOIN u0VBcAwb AS MBu7nb_8ntE ON MIN ( xKSGxx.AKKjg ) LIKE MAX ( u0VBcAwb.vJdz )
+
+Group the records based on C v3v
+GROUP BY C_v3v
+
+Get WRwKkHI0Hzx of ToFeaUZnUC
+SELECT ToFeaUZnUC.WRwKkHI0Hzx FROM ToFeaUZnUC
+
+Keep the records that UIBw30gh is in the form of the average value of i3q of ToFeaUZnUC OR Kds of ToFeaUZnUC is not 6 OR the minimum value of ilB8ojGSS of ToFeaUZnUC is less than 94
+WHERE UIBw30gh LIKE AVG(ToFeaUZnUC.i3q) OR ToFeaUZnUC.Kds != 6 OR MIN(ToFeaUZnUC.ilB8ojGSS) < 94
+
+Get the minimum value of 4jRJiZr AND the average value of JsnG2RR AND distinct AND wSaLsFZmqD AND yxLvUDa2 of Tlmli2b that has XfF2 AND Lvaz7VP0LuE
+SELECT Lvaz7VP0LuE.DISTINCT wSaLsFZmqD , XfF2.yxLvUDa2 FROM Tlmli2b JOIN XfF2 AS J9 ON MIN ( 4jRJiZr ) < 11 AND AVG ( JsnG2RR ) < 13 JOIN Lvaz7VP0LuE AS 5SZRnzhsX4d
+
+Keep the records that GqdH h1AW of Lvaz7VP0LuE is greater than 71
+WHERE Lvaz7VP0LuE.GqdH_h1AW > 71 
+
+Group the records based on qaQ4RxE of Tlmli2b that Qa3OAUJmdwu is greater than or equal to 69
+GROUP BY Tlmli2b.qaQ4RxE HAVING Qa3OAUJmdwu >= 69
+
+Get uS9 and aY4 and JSH of IREIP1KTDzS9
+SELECT DISTINCT uS9 , IREIP1KTDzS9.aY4 , IREIP1KTDzS9.JSH FROM IREIP1KTDzS9
+
+Keep the records that the sum of 3PI8i8xFW of IREIP1KTDzS9 is not 89
+WHERE SUM(IREIP1KTDzS9.3PI8i8xFW) != 89 
+
+Group the records based on the maximum value of LLD of IREIP1KTDzS9
+GROUP BY MAX ( IREIP1KTDzS9.LLD )
+
+Order these records based on the TSSoPF and sort them in ascending order, and return the top 71 records
+ORDER BY TSSoPF LIMIT 71
+
+Get NI I9K8t of Wtplvn4
+SELECT Wtplvn4.NI_I9K8t FROM Wtplvn4
+
+Group the records based on the maximum value of 88 that the number is not the sum of OoWHFRcRDhel of Wtplvn4 OR the minimum value of d8iUsZ5i is greater than 14
+GROUP BY MAX ( 88 ) HAVING COUNT ( * ) != SUM ( Wtplvn4.OoWHFRcRDhel ) OR MIN ( d8iUsZ5i ) > 14
+
+Get LcYpboCShgV of HRhdFpTx that has qICp
+SELECT HRhdFpTx.LcYpboCShgV FROM HRhdFpTx JOIN qICp AS iQrE2U9r
+
+Group the records based on HX9 of qICp that BDgq is less than 50 AND the maximum value of 2cXusVmzn2dt of qICp is in the minimum value of eITJSIgao
+GROUP BY qICp.HX9 HAVING BDgq < 50 AND MAX ( qICp.2cXusVmzn2dt ) IN MIN ( eITJSIgao )
+
+Order these records based on the the sum of 7oScK72H AND sort them in descending order, AND return the top 1 record
+ORDER BY SUM ( 7oScK72H ) LIMIT 1
+
+Get the minimum value of uuH6l4yHq9u AND the number AND ldi05rv of aYYvni that has ae AND AQo
+SELECT ldi05rv FROM aYYvni JOIN ae AS wFv5s ON MIN ( AQo.uuH6l4yHq9u ) IN wFv5s.v42mq AND ae.ryVc81 = 63 JOIN AQo ON COUNT ( * ) <= 4
+
+Keep the records that the number of p YaWQlpgn in the maximum value of dTqWMxhe8Th of ae AND zW of aYYvni in the maximum value of VzdORsAYM0B of ae OR the minimum value of BlgoT5 is not in yam0o
+WHERE COUNT(p_YaWQlpgn) IN MAX(wFv5s.dTqWMxhe8Th) AND aYYvni.zW IN MAX(wFv5s.VzdORsAYM0B) OR MIN(BlgoT5) NOT IN yam0o 
+
+Group the records based on NnJw
+GROUP BY NnJw
+
+Get 8QH0cuHr of GAWMBPcfW
+SELECT 8QH0cuHr FROM GAWMBPcfW
+
+Order these records based on the the average value of ak8Huryvjf of GAWMBPcfW and sort them in descending order, and return the top 68 records
+ORDER BY AVG ( GAWMBPcfW.ak8Huryvjf ) LIMIT 68
+
+Get the average value of Qtwekh AND the number of dKMToEd that has 6APsta
+SELECT AVG ( Qtwekh ) FROM dKMToEd JOIN 6APsta AS BHvRAlBTd ON 6APsta.ixTvKXjNb7 != COUNT ( * )
+
+Keep the records that aUvH7bzP of dKMToEd is less than 26 AND the sum of s7h of dKMToEd is not 30
+WHERE dKMToEd.aUvH7bzP < 26 AND SUM(dKMToEd.s7h) != 30 
+
+Group the records based on N4HpYT
+GROUP BY N4HpYT
+
+Get xrwBG8lY of Xq5szVkUXY that has IsZog
+SELECT IsZog.xrwBG8lY FROM Xq5szVkUXY JOIN IsZog ON mj1 != 89
+
+Keep the records that the number of M3OlqBvm H is greater than OR equal to 82
+WHERE COUNT(M3OlqBvm_H) >= 82 
+
+Group the records based on euzn oLqo9Y of Xq5szVkUXY that the sum of RLQ6ViItZ is less than cOtGCHrh2Z
+GROUP BY Xq5szVkUXY.euzn_oLqo9Y HAVING SUM ( RLQ6ViItZ ) < cOtGCHrh2Z
+
+Get the minimum value of KsVeCUE and the sum of distinct 8DJq of nY Jcti08 that has PvzzRy
+SELECT MIN ( KsVeCUE ) , SUM ( DISTINCT 8DJq ) FROM nY_Jcti08 JOIN PvzzRy ON PvzzRy.OI92H_g = 54
+
+Group the records based on EfaD that 4MoR of nY Jcti08 is greater than OR equal to 75 OR NM3lx2jz6 is greater than ApXw
+GROUP BY EfaD HAVING nY_Jcti08.4MoR >= 75 OR NM3lx2jz6 > ApXw
+
+Get YgfVV2 of Afx that has hTSPe and 5yf9mE
+SELECT YgfVV2 FROM Afx JOIN hTSPe ON 7GHLG1ejz > 32 JOIN 5yf9mE AS oW4pxPdBXdD
+
+Keep the records that the minimum value of viDoVLoM is not in SMAv7807PLQv of 5yf9mE
+WHERE MIN(viDoVLoM) NOT IN oW4pxPdBXdD.SMAv7807PLQv 
+
+Order these records based on the YKh1 and sort them in ascending order, and return the top 1 record
+ORDER BY YKh1 LIMIT 1
+
+Get gZYN0n7 of 3uZq7egzdZv1
+SELECT gZYN0n7 FROM 3uZq7egzdZv1
+
+Order these records based on the 7X and sort them in ascending order, and return the top 1 record
+ORDER BY 7X LIMIT 1
+
+Get ex5oQQvuc of i5Si 1zQhACi that has 1FetL
+SELECT DISTINCT ex5oQQvuc FROM i5Si_1zQhACi JOIN 1FetL AS fiGh9cx
+
+Get the average value of IIC7 and MTK3Ly of xVWEZdlshc9 that has vEYQqi6Jp
+SELECT AVG ( vEYQqi6Jp.IIC7 ) , vEYQqi6Jp.MTK3Ly FROM xVWEZdlshc9 JOIN vEYQqi6Jp
+
+Get aVeth6RYx of nz
+SELECT aVeth6RYx FROM nz
+
+Keep the records that I30ZnckqH of nz is less than 63 OR the sum of jHAW TN4z of nz is less than OR equal to 83
+WHERE nz.I30ZnckqH < 63 OR SUM(nz.jHAW_TN4z) <= 83 
+
+Group the records based on eJkUSRIK
+GROUP BY eJkUSRIK
+
+Get the sum of tH2Vg3Zliv and yO of 2pni7IypaaLv that has 9Ts
+SELECT yO FROM 2pni7IypaaLv JOIN 9Ts AS y9dWTs ON SUM ( 9Ts.tH2Vg3Zliv ) LIKE Y8QPq
+
+Keep the records that ZlyVJKD53 is less than OR equal to 52 OR the maximum value of 8A of 2pni7IypaaLv is greater than 30
+WHERE ZlyVJKD53 <= 52 OR MAX(2pni7IypaaLv.8A) > 30 
+
+Group the records based on qZ5m3BWdXh of 2pni7IypaaLv
+GROUP BY 2pni7IypaaLv.qZ5m3BWdXh
+
+Get the number of D9l7b oX9c9 of zDh
+SELECT COUNT ( zDh.D9l7b_oX9c9 ) FROM zDh
+
+Group the records based on RkTm2Jw H
+GROUP BY RkTm2Jw_H
+
+Get the number of Ksnx9ea
+SELECT COUNT ( * ) FROM Ksnx9ea
+
+Group the records based on the average value of bGTe20bW6TvW of Ksnx9ea that xM0q is not in the maximum value of OICSKCgpjO4 of Ksnx9ea
+GROUP BY AVG ( Ksnx9ea.bGTe20bW6TvW ) HAVING xM0q NOT IN MAX ( Ksnx9ea.OICSKCgpjO4 )
+
+Order these records based on the FcvDj of Ksnx9ea and sort them in ascending order, and return the top 39 records
+ORDER BY Ksnx9ea.FcvDj LIMIT 39
+
+Get the maximum value of f2l of CV
+SELECT MAX ( _CV.f2l ) FROM _CV
+
+Keep the records that the sum of le is in the minimum value of Hr5k98XMmu of CV
+WHERE SUM(le) IN MIN(_CV.Hr5k98XMmu) 
+
+Group the records based on the minimum value of QVFoR923gi of CV
+GROUP BY MIN ( _CV.QVFoR923gi )
+
+Get tjpU00v of ng3I hjt53
+SELECT tjpU00v FROM ng3I_hjt53
+
+Keep the records that the number of iDQPSL is greater than or equal to 83 AND the average value of LP9sEg8Si of ng3I hjt53 is greater than XNUGgZ of ng3I hjt53 AND the maximum value of xlhN is greater than 64
+WHERE COUNT(iDQPSL) >= 83 AND AVG(ng3I_hjt53.LP9sEg8Si) > ng3I_hjt53.XNUGgZ AND MAX(xlhN) > 64 
+
+Group the records based on b5ih4dhti that the minimum value of o5pR8 of ng3I hjt53 is greater than 81
+GROUP BY b5ih4dhti HAVING MIN ( ng3I_hjt53.o5pR8 ) > 81
+
+Get NwNjcG of Pa8xI DVei
+SELECT NwNjcG FROM Pa8xI_DVei
+
+Group the records based on wRXXdlBz9 of Pa8xI DVei
+GROUP BY Pa8xI_DVei.wRXXdlBz9
+
+Get jLbK and K9JnQL of 4QOZb
+SELECT 4QOZb.jLbK , 4QOZb.K9JnQL FROM 4QOZb
+
+Group the records based on the maximum value of n D of 4QOZb that the number is in GL6jrNv09
+GROUP BY MAX ( 4QOZb.n_D ) HAVING COUNT ( * ) IN GL6jrNv09
+
+Get the minimum value of 7k of yrp4dwcLvtdI
+SELECT MIN ( yrp4dwcLvtdI.7k ) FROM yrp4dwcLvtdI
+
+Get the minimum value of AoB5mz AND the sum of teYAntg of WjGfeFNGqD that has N1PPMDR1WN
+SELECT MIN ( AoB5mz ) FROM WjGfeFNGqD JOIN N1PPMDR1WN ON SUM ( teYAntg ) NOT IN q3IGdd9
+
+Get the average value of tTlYv3luT and the sum of ZUY3fAf22OE and DQ of UH16U
+SELECT AVG ( UH16U.tTlYv3luT ) , SUM ( UH16U.ZUY3fAf22OE ) , UH16U.DQ FROM UH16U
+
+Keep the records that the maximum value of CFv9HY8j74VY is in b3Tj
+WHERE MAX(CFv9HY8j74VY) IN b3Tj
+
+Get axAujdf of RYq
+SELECT axAujdf FROM RYq
+
+Group the records based on p26 XKqe
+GROUP BY p26_XKqe
+
+Get the sum of fUnhzgENe of bZBRN
+SELECT SUM ( bZBRN.fUnhzgENe ) FROM bZBRN
+
+Keep the records that the number of dP2YmKp2H97 of bZBRN is greater than OR equal to 40 OR TDsoTtrdG2A of bZBRN is 10 AND DcbbRfq2lM is in CnO of bZBRN
+WHERE COUNT(bZBRN.dP2YmKp2H97) >= 40 OR bZBRN.TDsoTtrdG2A = 10 AND DcbbRfq2lM IN bZBRN.CnO 
+
+Order these records based on the dHW96yRzre W AND sort them in descending order, AND return the top 72 records
+ORDER BY dHW96yRzre_W LIMIT 72
+
+Get gQzx of JjSwKz3
+SELECT gQzx FROM JjSwKz3
+
+Keep the records that the sum of ChuGMrNi0cz is greater than or equal to 30
+WHERE SUM(ChuGMrNi0cz) >= 30
+
+Get YIrsOXKe6K of i3vQoH
+SELECT DISTINCT YIrsOXKe6K FROM i3vQoH
+
+Get sT9vRtA and distinct and rA3 of TBGT9 that has rm
+SELECT rm.sT9vRtA , TBGT9.DISTINCT rA3 FROM TBGT9 JOIN rm AS DyHS14lMmUXr
+
+Keep the records that the minimum value of uRQE8DMx is in the form of 9l
+WHERE MIN(uRQE8DMx) LIKE 9l 
+
+Group the records based on iXb6a
+GROUP BY iXb6a
+
+Get U59kHHosXD of TqpTA7bN that has WekqCg AND LoqJx3qbf
+SELECT TqpTA7bN.U59kHHosXD FROM TqpTA7bN JOIN WekqCg AS gp7 ON 4XV1rh > 57 AND TqpTA7bN.ofpMPy < 54 AND jmgRQsEf0 NOT IN iVmx8SbT2 JOIN _LoqJx3qbf AS ejWdqA
+
+Keep the records that aziZrC of WekqCg is in vgnCE of WekqCg OR the average value of mC4Dzuu2rnG of LoqJx3qbf is less than 40
+WHERE gp7.aziZrC IN gp7.vgnCE OR AVG(ejWdqA.mC4Dzuu2rnG) < 40 
+
+Group the records based on the minimum value of uG03jOm
+GROUP BY MIN ( uG03jOm )
+
+Get the minimum value of qjtx19 and the number of gAJhY of B1lNG that has 7lD7Un and 4y9T7jR92
+SELECT MIN ( qjtx19 ) FROM B1lNG JOIN 7lD7Un JOIN 4y9T7jR92 ON COUNT ( gAJhY ) != 26
+
+Group the records based on 7 gu of 4y9T7jR92 that h5E4lZB is in the form of the average value of J8ajrA
+GROUP BY 4y9T7jR92.7_gu HAVING h5E4lZB LIKE AVG ( J8ajrA )
+
+Order these records based on the VnpNSttwc and sort them in ascending order, and return the top 1 record
+ORDER BY VnpNSttwc LIMIT 1
+
+Get the sum of 5Fzl5uvoQ AND 7QnjP0l6Z of IcY that has Xn
+SELECT Xn.7QnjP0l6Z , SUM ( 5Fzl5uvoQ ) FROM IcY JOIN Xn
+
+Group the records based on cztgP that O jyw2JATlz is not in KFFVuciibr8 AND the number of S4a4llpbF8r is 32
+GROUP BY cztgP HAVING O_jyw2JATlz NOT IN KFFVuciibr8 AND COUNT ( S4a4llpbF8r ) = 32
+
+Get PnN of uVNsTmC
+SELECT uVNsTmC.PnN FROM uVNsTmC
+
+Keep the records that iU2Jt of uVNsTmC is not in the minimum value of R3rufztn0 AND zNFXv53u is in the form of 8FTNqTvmjk2 of uVNsTmC
+WHERE uVNsTmC.iU2Jt NOT IN MIN(R3rufztn0) AND zNFXv53u LIKE uVNsTmC.8FTNqTvmjk2 
+
+Get the average value of lB and 2VjvNJ of gmn2J
+SELECT AVG ( gmn2J.lB_ ) , gmn2J.2VjvNJ FROM gmn2J
+
+Group the records based on the number of RL8lCYBK of gmn2J
+GROUP BY COUNT ( gmn2J.RL8lCYBK )
+
+Get the minimum value of Bw491AyX4yc5 of 4L1G4jL that has R4
+SELECT MIN ( R4.Bw491AyX4yc5 ) FROM 4L1G4jL JOIN R4 AS AXG
+
+Keep the records that tMo3jSk is not in the maximum value of a5hNA
+WHERE tMo3jSk NOT IN MAX(a5hNA) 
+
+Group the records based on the sum of VxYqV of R4
+GROUP BY SUM ( R4.VxYqV )
+
+Order these records based on the IW61It and sort them in ascending order, and return the top 1 record
+ORDER BY IW61It LIMIT 1
+
+Get SUAJ of ZOxS9kK
+SELECT SUAJ FROM ZOxS9kK
+
+Group the records based on the sum of KfXjZgxJLjc
+GROUP BY SUM ( KfXjZgxJLjc )
+
+Get the maximum value of EGXz03 of yyFn8l
+SELECT MAX ( EGXz03 ) FROM yyFn8l
+
+Keep the records that the maximum value of 2iLQAjo is greater than 82
+WHERE MAX(2iLQAjo) > 82
+
+Get 3GbFO of fRdCxJaO that has GqUO
+SELECT 3GbFO FROM fRdCxJaO JOIN GqUO
+
+Keep the records that 7z is in BW1U7b Oo
+WHERE 7z IN BW1U7b_Oo
+
+Get the average value of tjl7iqVRdIlS and the average value of SGsCS0L1SUbE and the sum of P7RuoC0Ii0C of GTzCcnaUugTu that has Rb7sdygo6er
+SELECT AVG ( tjl7iqVRdIlS ) FROM GTzCcnaUugTu JOIN Rb7sdygo6er ON AVG ( SGsCS0L1SUbE ) > SUM ( P7RuoC0Ii0C )
+
+Keep the records that yxLoBHD1 is in the form of the number
+WHERE yxLoBHD1 LIKE COUNT(*) 
+
+Get the average value of MmCXcxcbpge AND the average value of qyBTBvhSsF AND hIVf11 AND BAF9 of Y83 that has EhIU8uwWABHM
+SELECT hIVf11 , Y83.BAF9 FROM Y83 JOIN EhIU8uwWABHM AS jXAbVNuJpSee ON AVG ( MmCXcxcbpge ) = AVG ( Y83.qyBTBvhSsF )
+
+Group the records based on 9ctKFuNXNO
+GROUP BY 9ctKFuNXNO
+
+Order these records based on the Q7o57qO of EhIU8uwWABHM AND sort them in descending order, AND return the top 1 record
+ORDER BY jXAbVNuJpSee.Q7o57qO LIMIT 1
+
+Get the number of bc8 AND the average value of XJspT of 7KQKS85 that has y2H70nu
+SELECT COUNT ( 7KQKS85.bc8 ) FROM 7KQKS85 JOIN y2H70nu ON AVG ( 7KQKS85.XJspT ) >= 54
+
+Keep the records that XhuY is less than 93 AND jq6NZWl2 is 0 OR 7KQKS85 4yEMgM is not 7
+WHERE XhuY < 93 AND jq6NZWl2 = 0 OR 7KQKS85.04yEMgM != 7 
+
+Group the records based on p5CKcsw9u of 7KQKS85
+GROUP BY 7KQKS85.p5CKcsw9u
+
+Get the average value of distinct mD4Sp8 AND the sum of Wzl AND the maximum value of 6Et5zh AND the number of ptp that has Hrz WY6fpu AND Ys
+SELECT AVG ( DISTINCT mD4Sp8 ) , SUM ( Ys.Wzl ) FROM ptp JOIN Hrz_WY6fpu ON MAX ( 6Et5zh ) LIKE COUNT ( * ) JOIN Ys AS iGy0oVjpw ON MFQ <= 16
+
+Keep the records that the number is 15 AND the minimum value of zbqmRDRvlAYQ is greater than OR equal to 93 OR the sum of Z5vRTf8Y2pT of Ys is not in the maximum value of 0L0YiEwI
+WHERE COUNT(*) = 15 AND MIN(zbqmRDRvlAYQ) >= 93 OR SUM(Ys.Z5vRTf8Y2pT) NOT IN MAX(0L0YiEwI) 
+
+Get the sum of jlKr4mKetr2O and the maximum value of 5ZH7DHSIc7 and the maximum value of rxN6k of p6lJbB5AFGWn that has fTqyw
+SELECT SUM ( jlKr4mKetr2O ) FROM p6lJbB5AFGWn JOIN fTqyw ON MAX ( fTqyw.5ZH7DHSIc7 ) IN MAX ( fTqyw.rxN6k )
+
+Keep the records that Rgd sGRbwDr1 is less than 39
+WHERE Rgd_sGRbwDr1 < 39
+
+Get PL0olp of wvuUwx
+SELECT wvuUwx.PL0olp FROM wvuUwx
+
+Keep the records that the minimum value of Q93 is in the form of 7hKQpOkx of wvuUwx
+WHERE MIN(Q93) LIKE wvuUwx.7hKQpOkx
+
+Get aJ 75ZKJJ5 of GtGLSCUrSE
+SELECT aJ_75ZKJJ5 FROM GtGLSCUrSE
+
+Order these records based on the NOy and sort them in descending order, and return the top 1 record
+ORDER BY NOy LIMIT 1
+
+Get BL of o9vMzg9aK3mr that has y4FkO5q
+SELECT uPCi8V.BL FROM o9vMzg9aK3mr JOIN y4FkO5q AS uPCi8V ON smeR <= 91
+
+Order these records based on the a33DdN AND sort them in ascending order, AND return the top 1 record
+ORDER BY a33DdN LIMIT 1
+
+Get the minimum value of BPmnXl4A AND pXUFlAy of m6aqJjGYVwL that has I989FpjGJdDv AND ABlPPsHDl
+SELECT pXUFlAy FROM m6aqJjGYVwL JOIN I989FpjGJdDv AS aNYkB5qAh1Fs ON JWTz LIKE I989FpjGJdDv.x30gA AND MIN ( ABlPPsHDl.BPmnXl4A ) NOT IN I989FpjGJdDv.SI9X OR I989FpjGJdDv.mw5 <= 76 JOIN ABlPPsHDl
+
+Group the records based on the number of vgAtJbyBDyb of I989FpjGJdDv that QqqqEyf6tZ is B906OcA AND eBuGMd is less than OR equal to 90
+GROUP BY COUNT ( aNYkB5qAh1Fs.vgAtJbyBDyb ) HAVING QqqqEyf6tZ = B906OcA AND eBuGMd <= 90
+
+Get Lh6CCdMPcR of smPYK
+SELECT smPYK.Lh6CCdMPcR FROM smPYK
+
+Keep the records that 3bGidUv is less than OR equal to 86 OR the number is greater than 34
+WHERE 3bGidUv <= 86 OR COUNT(*) > 34 
+
+Group the records based on Xi HNziFsXZ of smPYK
+GROUP BY smPYK.Xi_HNziFsXZ
+
+Get the sum of HoOQuD5N of jPq9Xk
+SELECT SUM ( HoOQuD5N ) FROM jPq9Xk
+
+Keep the records that 9svKJFZ8zde is less than 19
+WHERE 9svKJFZ8zde < 19 
+
+Group the records based on 2lRlH5T0 gqU that jTqROJM is in the form of WhUr7 pbTnc of jPq9Xk
+GROUP BY 2lRlH5T0_gqU HAVING jTqROJM LIKE jPq9Xk.WhUr7_pbTnc
+
+Get the minimum value of CpZGUUzbpLz and the minimum value of Yo0KTkHc3Id of UpUlL184YnAb that has 9Rmqh
+SELECT MIN ( CpZGUUzbpLz ) FROM UpUlL184YnAb JOIN 9Rmqh ON MIN ( UpUlL184YnAb.Yo0KTkHc3Id ) IN 9J9kVqmGQRea
+
+Keep the records that F2XR is in the minimum value of GOUBY
+WHERE F2XR IN MIN(GOUBY) 
+
+Group the records based on qUiqUVpVv of UpUlL184YnAb
+GROUP BY UpUlL184YnAb.qUiqUVpVv
+
+Order these records based on the the sum of ldZL and sort them in descending order, and return the top 1 record
+ORDER BY SUM ( ldZL ) LIMIT 1
+
+Get the maximum value of Mgd7e1F of ZRQ
+SELECT MAX ( ZRQ.Mgd7e1F ) FROM ZRQ
+
+Keep the records that SlyEprz8rH is less than or equal to 15
+WHERE SlyEprz8rH <= 15 
+
+Group the records based on HS32QZF
+GROUP BY HS32QZF
+
+Get eZdU6iS of Rrl82n68Bj7
+SELECT eZdU6iS FROM Rrl82n68Bj7
+
+Group the records based on the minimum value of EMSJ
+GROUP BY MIN ( EMSJ )
+
+Get the maximum value of WekspJVcMQ65 and IDRie832 6 and jKymO of TaOvAno 7WP that has riMDXNU
+SELECT riMDXNU.IDRie832_6 , MAX ( WekspJVcMQ65 ) , jKymO FROM TaOvAno_7WP JOIN riMDXNU
+
+Group the records based on the maximum value of yNW5 ptEKj of TaOvAno 7WP that ubtTEoX is in the sum of mbG D0l of riMDXNU
+GROUP BY MAX ( TaOvAno_7WP.yNW5_ptEKj ) HAVING ubtTEoX IN SUM ( riMDXNU.mbG_D0l )
+
+Get JrUqWLt1R3 of VgdybFn
+SELECT VgdybFn.JrUqWLt1R3 FROM VgdybFn
+
+Get Q6cww9TUGz of x5dDx
+SELECT x5dDx.Q6cww9TUGz FROM x5dDx
+
+Order these records based on the b8OZuv of x5dDx and sort them in ascending order, and return the top 1 record
+ORDER BY x5dDx.b8OZuv LIMIT 1
+
+Get bgxBa4x of fR
+SELECT bgxBa4x FROM fR
+
+Get ezzZ of 8LGNi0TFWc
+SELECT ezzZ FROM 8LGNi0TFWc
+
+Keep the records that the number of ylt8nwh is greater than or equal to 61
+WHERE COUNT(ylt8nwh) >= 61 
+
+Group the records based on Q0
+GROUP BY Q0
+
+Order these records based on the g9RFRZJSqBT of 8LGNi0TFWc and sort them in ascending order, and return the top 94 records
+ORDER BY 8LGNi0TFWc.g9RFRZJSqBT LIMIT 94
+
+Get 4FeVIAS and SBUqYud161 of ffSrU
+SELECT ffSrU.4FeVIAS , SBUqYud161 FROM ffSrU
+
+Get the average value of pjzv of 7e94 that has ySIRMpJ
+SELECT AVG ( pjzv ) FROM 7e94 BizAX JOIN ySIRMpJ AS nF_I5sBH
+
+Keep the records that the average value of 7e94 cx of BizAX is in the average value of zUnDU13eb5j of ySIRMpJ AND tBhxZd8ZC is less than or equal to 47
+WHERE AVG(7e94BizAX.cx) IN AVG(nF_I5sBH.zUnDU13eb5j) AND tBhxZd8ZC <= 47 
+
+Get the maximum value of yo25yV0 and the maximum value of NojP6E of 7X4 that has 2y6KCq24
+SELECT MAX ( yo25yV0 ) , MAX ( NojP6E ) FROM 7X4 JOIN 2y6KCq24 AS LVJM8_
+
+Group the records based on the number of veVT90DyL
+GROUP BY COUNT ( veVT90DyL )
+
+Get my1pgS1Pw of oJW6
+SELECT oJW6.my1pgS1Pw FROM oJW6
+
+Keep the records that v0YcervWq6iA is less than 53
+WHERE v0YcervWq6iA < 53 
+
+Get QPj3lUZ4TxF of XtsceM3uvi8
+SELECT QPj3lUZ4TxF FROM XtsceM3uvi8
+
+Order these records based on the 5ChBP of XtsceM3uvi8 and sort them in descending order, and return the top 1 record
+ORDER BY XtsceM3uvi8.5ChBP LIMIT 1
+
+Get iHT of KzRK nCCjLV1
+SELECT iHT FROM KzRK_nCCjLV1
+
+Keep the records that StgAlz is in the form of the average value of ARpcbvFg
+WHERE StgAlz LIKE AVG(ARpcbvFg) 
+
+Group the records based on xtWFg2UXAk of KzRK nCCjLV1 that VmnVUfCMn is not 69 OR 7mjN3vF is not in 5hHba1sUG of KzRK nCCjLV1
+GROUP BY KzRK_nCCjLV1.xtWFg2UXAk HAVING VmnVUfCMn_ != 69 OR 7mjN3vF NOT IN KzRK_nCCjLV1.5hHba1sUG
+
+Get the maximum value of NTdeawZKu of 1TlNA46 that has EKmIQ204
+SELECT MAX ( 1TlNA46.NTdeawZKu ) FROM 1TlNA46 JOIN EKmIQ204
+
+Group the records based on d9s that GNQOFNJrA 1 is not 55 AND the average value of EG8RsxP7of is in the sum of gCpm of 1TlNA46
+GROUP BY d9s HAVING GNQOFNJrA_1 != 55 AND AVG ( EG8RsxP7of ) IN SUM ( 1TlNA46.gCpm )
+
+Get the sum of IJHe0sA6Y and ogrvr of gmMkN9 that has 3g2vCikY2k
+SELECT DISTINCT ogrvr FROM gmMkN9 JOIN 3g2vCikY2k AS zUEBwsWAB6s ON SUM ( IJHe0sA6Y ) >= 89
+
+Group the records based on onIfavbrSHf
+GROUP BY onIfavbrSHf
+
+Order these records based on the the average value of HfFiXWw of 3g2vCikY2k and sort them in descending order, and return the top 1 record
+ORDER BY AVG ( 3g2vCikY2k.HfFiXWw ) LIMIT 1
+
+Get the average value of distinct Fw of l73mt
+SELECT AVG ( DISTINCT Fw ) FROM l73mt
+
+Get the sum of OEhf and qAQT8 of uNGCnFwO
+SELECT SUM ( uNGCnFwO.OEhf_ ) , uNGCnFwO.qAQT8 FROM uNGCnFwO
+
+Group the records based on the number of QSb4 that PA3V5r is not in velDY0nrgrQk of uNGCnFwO OR the minimum value of lPHhvlHkq of uNGCnFwO is greater than OR equal to 62 OR the number is less than 73
+GROUP BY COUNT ( QSb4 ) HAVING PA3V5r NOT IN uNGCnFwO.velDY0nrgrQk OR MIN ( uNGCnFwO.lPHhvlHkq ) >= 62 OR COUNT ( * ) < 73
+
+Get gXJxA4wvjwQ of BzlG7DC6J
+SELECT gXJxA4wvjwQ FROM BzlG7DC6J_
+
+Get the minimum value of distinct KXS5 and the average value of XqqwMn8hk of fs3UmVOhNc that has QuEBPvT
+SELECT MIN ( QuEBPvT.DISTINCT KXS5 ) , AVG ( XqqwMn8hk ) FROM fs3UmVOhNc JOIN QuEBPvT
+
+Order these records based on the w2F1fZlr70d of fs3UmVOhNc and sort them in ascending order, and return the top 43 records
+ORDER BY fs3UmVOhNc.w2F1fZlr70d LIMIT 43
+
+Get znYd9mwIss of 5VCN4tH5e6 that has ru4OYalEo6CK
+SELECT HjCjLq6BwEt.znYd9mwIss FROM 5VCN4tH5e6 JOIN ru4OYalEo6CK AS HjCjLq6BwEt
+
+Keep the records that the number of aqW7W 3KF of ru4OYalEo6CK is less than or equal to 40
+WHERE COUNT(HjCjLq6BwEt.aqW7W_3KF) <= 40
+
+Get the average value of IXXQlEIOF2D of Cr that has 0xCf
+SELECT AVG ( IXXQlEIOF2D_ ) FROM Cr JOIN 0xCf AS xzUtWe33
+
+Keep the records that 5Aw5EfkOy is greater than 58
+WHERE 5Aw5EfkOy > 58 
+
+Group the records based on the average value of NAqRxrJcIw1
+GROUP BY AVG ( NAqRxrJcIw1 )
+
+Get YleBfj of WifgTFlTkIex
+SELECT YleBfj FROM WifgTFlTkIex
+
+Keep the records that WGQ of WifgTFlTkIex is not 52 OR the sum of pUZ6gQX52 is greater than OR equal to w4n9esua
+WHERE WifgTFlTkIex.WGQ != 52 OR SUM(pUZ6gQX52) >= w4n9esua 
+
+Group the records based on the number of 7M of WifgTFlTkIex that co of WifgTFlTkIex is not in the sum of k58T9 of WifgTFlTkIex OR the sum of TUd is in the form of the sum of OPYzo9JDr6X of WifgTFlTkIex AND opMPhTv of WifgTFlTkIex is less than 23
+GROUP BY COUNT ( WifgTFlTkIex.7M ) HAVING WifgTFlTkIex.co NOT IN SUM ( WifgTFlTkIex.k58T9 ) OR SUM ( TUd ) LIKE SUM ( WifgTFlTkIex.OPYzo9JDr6X ) AND WifgTFlTkIex.opMPhTv < 23
+
+Get the minimum value of nKV7g AND BMA7 of YNPi8 that has ls7ka3aOU
+SELECT YNPi8.BMA7 , MIN ( nKV7g ) FROM YNPi8 JOIN ls7ka3aOU ON ls7ka3aOU.RhXy != 97
+
+Keep the records that the maximum value of Grht of ls7ka3aOU is 21 AND the average value of 5hR5xGtd84CX of ls7ka3aOU is less than 67
+WHERE MAX(ls7ka3aOU.Grht) = 21 AND AVG(ls7ka3aOU.5hR5xGtd84CX) < 67 
+
+Group the records based on OMdIvu85
+GROUP BY OMdIvu85
+
+Get the minimum value of distinct Zj4sJ9dcsK and cGM b of lv
+SELECT MIN ( lv.DISTINCT Zj4sJ9dcsK ) , cGM_b FROM lv
+
+Get the sum of QpHNqz6H of bsEm7k
+SELECT SUM ( QpHNqz6H ) FROM bsEm7k
+
+Keep the records that the number of HcIRsR of bsEm7k is greater than 15 OR elph c7K of bsEm7k is in 7fCGxbzlv of bsEm7k
+WHERE COUNT(bsEm7k.HcIRsR) > 15 OR bsEm7k.elph_c7K IN bsEm7k.7fCGxbzlv
+
+Get the average value of gNzhIO6P of EI1tIq8 that has PxdRD AND SZ2YiTV5V
+SELECT AVG ( gNzhIO6P ) FROM EI1tIq8 JOIN PxdRD JOIN SZ2YiTV5V ON JWik2 > 15
+
+Keep the records that vQpaZ5 of PxdRD is greater than 22
+WHERE PxdRD.vQpaZ5 > 22 
+
+Group the records based on L1lYulc that o5Z of SZ2YiTV5V is in LkSgC8H of EI1tIq8
+GROUP BY L1lYulc HAVING SZ2YiTV5V.o5Z IN EI1tIq8.LkSgC8H
+
+Get the minimum value of 3w of nSODnnbNQ that has ed82mi8Y
+SELECT MIN ( 3w ) FROM nSODnnbNQ JOIN ed82mi8Y AS C9NB8CoP
+
+Keep the records that btKDwXB is not in the average value of kcEqZbS
+WHERE btKDwXB NOT IN AVG(kcEqZbS)
+
+Get XPv048cHRRP AND 5Z SM Od of P6ov
+SELECT XPv048cHRRP , P6ov.5Z_SM_Od FROM P6ov
+
+Group the records based on the minimum value of 0vD4oe that FMP K4WDYE6K is 73 AND the minimum value of CEFzm is greater than the minimum value of a7ZejXUc of P6ov OR the number of XejLpb7v1bj of P6ov is greater than OR equal to 98
+GROUP BY MIN ( 0vD4oe ) HAVING FMP_K4WDYE6K = 73 AND MIN ( CEFzm ) > MIN ( P6ov.a7ZejXUc ) OR COUNT ( P6ov.XejLpb7v1bj_ ) >= 98
+
+Get xySGjlWCzV4 of EB8rYX that has XjE
+SELECT EB8rYX.xySGjlWCzV4 FROM EB8rYX JOIN XjE
+
+Group the records based on the number that the number of Rvqc is greater than or equal to 11
+GROUP BY COUNT ( * ) HAVING COUNT ( Rvqc ) >= 11
+
+Get icuL pEalaq of V566Mr
+SELECT V566Mr.icuL_pEalaq FROM V566Mr
+
+Keep the records that sq is greater than the minimum value of jk
+WHERE sq > MIN(jk) 
+
+Group the records based on Cy1aBBBC that tLCB2em of V566Mr is less than 11 OR the minimum value of 15 is in the minimum value of NP of V566Mr
+GROUP BY Cy1aBBBC HAVING V566Mr.tLCB2em < 11 OR MIN ( 15 ) IN MIN ( V566Mr.NP )
+
+Order these records based on the V566Mr 0VNEmQsNd8l and sort them in descending order, and return the top 1 record
+ORDER BY V566Mr .2 0VNEmQsNd8l LIMIT 1
+
+Get the maximum value of RjPAwBh1JXx 4 2 js of RjPAwBh1JXx
+SELECT MAX ( RjPAwBh1JXx .4 2_js ) FROM RjPAwBh1JXx
+
+Get the maximum value of FTNH and itzlxPd and n9dW97LAd of hcDYKZYG4 that has QC
+SELECT QC.itzlxPd , n9dW97LAd , MAX ( FTNH ) FROM hcDYKZYG4 JOIN QC
+
+Keep the records that WACheJIWkb of QC is greater than 14
+WHERE QC.WACheJIWkb > 14 
+
+Order these records based on the XkIWjif f and sort them in ascending order, and return the top 1 record
+ORDER BY XkIWjif_f LIMIT 1
+
+Get the average value of z3 NA6n3Ee and the minimum value of gkrUp and CGNmm0mi of ny7Wy8B1 that has W5 7
+SELECT AVG ( z3_NA6n3Ee ) , ny7Wy8B1.CGNmm0mi FROM ny7Wy8B1 JOIN W5_7 AS AjhBOW ON MIN ( ny7Wy8B1.gkrUp ) NOT IN YLutY
+
+Keep the records that the sum of N3yqPgT of W5 7 is greater than or equal to 62
+WHERE SUM(AjhBOW.N3yqPgT) >= 62
+
+Get the maximum value of QBQogent8 and the maximum value of distinct UQnFK of Wpng6ySzZnF that has L4Kc and l1rL8Rr and rbweMr
+SELECT MAX ( rbweMr.QBQogent8 ) , MAX ( DISTINCT UQnFK ) FROM Wpng6ySzZnF JOIN L4Kc AS 3ljU_9FhZ JOIN l1rL8Rr JOIN rbweMr AS E6I1oL
+
+Keep the records that e5HfFmkZXr is in lAkqwCj0j OR gVX is less than VaTM of L4Kc
+WHERE e5HfFmkZXr IN lAkqwCj0j OR gVX < L4Kc.VaTM 
+
+Order these records based on the the average value of K6Q, and return the top 66 records
+ORDER BY AVG ( K6Q ) LIMIT 66
+
+Get 0 DxJNdTdmG of JC1 B4TLE that has d5D
+SELECT 0_DxJNdTdmG FROM JC1_B4TLE JOIN d5D AS yLw
+
+Order these records based on the 8E of JC1 B4TLE, and return the top 1 record
+ORDER BY JC1_B4TLE.8E LIMIT 1
+
+Get the minimum value of GOVYkU of 1torPqdV
+SELECT MIN ( GOVYkU ) FROM 1torPqdV
+
+Get Fj of cw52OLDJ that has GX
+SELECT GX.Fj FROM cw52OLDJ JOIN GX
+
+Get the minimum value of distinct zKGf AND RQVf9 RrzjM of Su5qUJd6ILKK that has eCwJK8wdAbj
+SELECT MIN ( DISTINCT zKGf ) , Su5qUJd6ILKK.RQVf9_RrzjM FROM Su5qUJd6ILKK JOIN eCwJK8wdAbj AS wu
+
+Keep the records that xBsc0WcqU3V is in WTq1Mfh of eCwJK8wdAbj OR T01wmbsAWmUc of eCwJK8wdAbj is less than 78 AND the minimum value of KG of eCwJK8wdAbj is greater than OR equal to 75
+WHERE xBsc0WcqU3V IN wu.WTq1Mfh OR wu.T01wmbsAWmUc < 78 AND MIN(wu.KG) >= 75 
+
+Group the records based on ItZ1gnB4uuYJ that EA9GKK6mXl is not in the average value of UcrSZACnR of Su5qUJd6ILKK
+GROUP BY ItZ1gnB4uuYJ HAVING EA9GKK6mXl NOT IN AVG ( Su5qUJd6ILKK.UcrSZACnR )
+
+Order these records based on the the sum of ZSsd uoM AND sort them in ascending order, AND return the top 3 records
+ORDER BY SUM ( ZSsd_uoM ) LIMIT 3
+
+Get lUk0w0t of 0ketKsiAxP7Q
+SELECT lUk0w0t FROM 0ketKsiAxP7Q
+
+Group the records based on the maximum value of 3Bvre8VySJAU
+GROUP BY MAX ( 3Bvre8VySJAU )
+
+Get 4a of nln4K8 that has IDPyKP8C4
+SELECT DISTINCT 4a FROM nln4K8 JOIN IDPyKP8C4
+
+Keep the records that mu2K of IDPyKP8C4 is less than or equal to 95
+WHERE IDPyKP8C4.mu2K <= 95 
+
+Group the records based on lBmPPj1 of nln4K8 that H7iNp4p of nln4K8 is greater than or equal to 92 AND XXz4o of nln4K8 is not in O4cFb2 of nln4K8
+GROUP BY nln4K8.lBmPPj1 HAVING nln4K8.H7iNp4p >= 92 AND nln4K8.XXz4o NOT IN nln4K8.O4cFb2
+
+Get 8ohcTeh of 9aQFsxj
+SELECT 8ohcTeh FROM 9aQFsxj
+
+Keep the records that UQHl9vOSid0h of 9aQFsxj is less than 47 OR the number of LQ of 9aQFsxj is less than OR equal to 4
+WHERE 9aQFsxj.UQHl9vOSid0h < 47 OR COUNT(9aQFsxj.LQ) <= 4 
+
+Group the records based on H0o
+GROUP BY H0o
+
+Get the maximum value of x5Xh8uYUZ of g83p
+SELECT MAX ( x5Xh8uYUZ ) FROM g83p
+
+Keep the records that A9 is less than or equal to 61 AND the minimum value of gU6YNL D is in the maximum value of g XwyP0
+WHERE A9 <= 61 AND MIN(gU6YNL_D) IN MAX(g_XwyP0)
+
+Get FH of Jau that has 4Oo
+SELECT 4Oo.FH FROM Jau JOIN 4Oo
+
+Get the number of M2RFK73bd5E of ZZRUR
+SELECT COUNT ( ZZRUR.M2RFK73bd5E ) FROM ZZRUR
+
+Keep the records that wLUjHqoJp of ZZRUR is not 68
+WHERE ZZRUR.wLUjHqoJp != 68 
+
+Group the records based on the sum of vvdq of ZZRUR
+GROUP BY SUM ( ZZRUR.vvdq )
+
+Get tyBbv and cbf5f of 8lwer that has NJQ
+SELECT tyBbv , NJQ.cbf5f FROM 8lwer JOIN NJQ AS Svfm
+
+Group the records based on PJxe
+GROUP BY PJxe
+
+Get uvnS of C7
+SELECT uvnS FROM C7
+
+Get RcYL of y80wSbJ
+SELECT y80wSbJ.RcYL FROM y80wSbJ
+
+Order these records based on the R92C6 and sort them in ascending order, and return the top 44 records
+ORDER BY R92C6 LIMIT 44
+
+Get 7L and MJ A0tyI0Lx2 and x6pmhC of BHdALxq0qhe that has Lcr2VGG
+SELECT BHdALxq0qhe.7L , MJ_A0tyI0Lx2 , Lcr2VGG.x6pmhC FROM BHdALxq0qhe JOIN Lcr2VGG
+
+Keep the records that eg is greater than or equal to 70
+WHERE eg >= 70
+
+Get the number of Up and 07mXGV of rGMYqe8T that has ez9Zr
+SELECT DISTINCT 07mXGV FROM rGMYqe8T JOIN ez9Zr ON COUNT ( Up ) <= 90
+
+Group the records based on the average value of D Y21 of ez9Zr
+GROUP BY AVG ( ez9Zr.D_Y21 )
+
+Get the maximum value of Orw and GvpH of AR
+SELECT GvpH , MAX ( Orw ) FROM AR
+
+Group the records based on the minimum value of lvu7T of AR
+GROUP BY MIN ( AR.lvu7T )
+
+Get 1Ktvjy56y of ieanF4ypOn7
+SELECT 1Ktvjy56y FROM ieanF4ypOn7_
+
+Get the average value of rI 5 9qZgV and YERqPn of rI
+SELECT rI.YERqPn , AVG ( rI .5 9qZgV ) FROM rI
+
+Get BWZIJCwieEev of qcL that has VOHi
+SELECT BWZIJCwieEev FROM qcL JOIN VOHi
+
+Keep the records that I pxeVTdCBpW is less than or equal to 66 AND 7Qn of VOHi is 40
+WHERE I_pxeVTdCBpW <= 66 AND VOHi.7Qn = 40 
+
+Group the records based on the sum of Gf 7Qg3Z
+GROUP BY SUM ( Gf_7Qg3Z )
+
+Get the maximum value of O10R AND the average value of DD9 BPO of A3U7Z that has NrhsPpMV1CJg AND ea6dXH4dXb
+SELECT MAX ( ea6dXH4dXb.O10R ) FROM A3U7Z JOIN NrhsPpMV1CJg JOIN ea6dXH4dXb ON AVG ( ea6dXH4dXb.DD9_BPO ) = 63
+
+Group the records based on 1x that the sum of atB2w2vfvoS is greater than the maximum value of S9rhrQhbo AND I6FkTKr is not in IvXMVwxtk
+GROUP BY 1x HAVING SUM ( atB2w2vfvoS ) > MAX ( S9rhrQhbo ) AND I6FkTKr NOT IN IvXMVwxtk
+
+Order these records based on the nC2O of ea6dXH4dXb AND sort them in ascending order, AND return the top 1 record
+ORDER BY ea6dXH4dXb.nC2O LIMIT 1
+
+Get ZOx1zZXdrL of GBQva
+SELECT GBQva.ZOx1zZXdrL FROM GBQva
+
+Keep the records that the number of qCAll 42sNEt of GBQva is not 79
+WHERE COUNT(GBQva.qCAll_42sNEt) != 79 
+
+Group the records based on 1iBcCSmGGe that the average value of UbY AZvN of GBQva is less than 61
+GROUP BY 1iBcCSmGGe HAVING AVG ( GBQva.UbY_AZvN ) < 61
+
+Get MY8Nqk of weDOp2Ql that has 0fJd2
+SELECT MY8Nqk FROM weDOp2Ql JOIN 0fJd2 AS esMkn
+
+Keep the records that VVFEpw is 63
+WHERE VVFEpw = 63 
+
+Group the records based on the maximum value of XZao 9N0egu6
+GROUP BY MAX ( XZao_9N0egu6 )
+
+Get the average value of TsUH0W of lOO4OgapR
+SELECT AVG ( TsUH0W ) FROM lOO4OgapR
+
+Keep the records that the maximum value of PBA gxDL of lOO4OgapR is greater than or equal to 26
+WHERE MAX(lOO4OgapR.PBA_gxDL) >= 26
+
+Get RpucOnjekA4 of vaWi
+SELECT vaWi.RpucOnjekA4 FROM vaWi
+
+Keep the records that bQjUXs4 is not in the number of mpvdMcmu
+WHERE bQjUXs4 NOT IN COUNT(mpvdMcmu)
+
+Get the number of DDOZQt50q of ozX that has bS8EWn
+SELECT COUNT ( bS8EWn.DDOZQt50q ) FROM ozX JOIN bS8EWn
+
+Keep the records that E3D8THkt is less than or equal to LINdY of ozX AND the sum of wSx1yrPAHKP is less than or equal to 81
+WHERE E3D8THkt <= ozX.LINdY AND SUM(wSx1yrPAHKP) <= 81 
+
+Group the records based on MmqQ0biJN of bS8EWn that TR is in the form of yKSs1QqeP12A
+GROUP BY bS8EWn.MmqQ0biJN_ HAVING TR LIKE yKSs1QqeP12A
+
+Order these records based on the the number AND sort them in ascending order, AND return the top 1 record
+ORDER BY COUNT ( * ) LIMIT 1
+
+Get the maximum value of ZH05CH9YH0U of sanl
+SELECT MAX ( ZH05CH9YH0U ) FROM sanl
+
+Keep the records that duHCTCYjP2x of sanl is greater than 3 OR trauKIOP of sanl is less than 16
+WHERE sanl.duHCTCYjP2x > 3 OR sanl.trauKIOP < 16
+
+Get the maximum value of iBlaRqgMDZL of 9uVbUBk0 that has 5D1bZDz1
+SELECT MAX ( _5D1bZDz1.iBlaRqgMDZL ) FROM 9uVbUBk0 JOIN _5D1bZDz1 ON _5D1bZDz1.0Lzlf = 29
+
+Keep the records that luTs of 5D1bZDz1 is in eKDvfhv of 9uVbUBk0
+WHERE _5D1bZDz1.luTs IN 9uVbUBk0.eKDvfhv 
+
+Group the records based on BxfV5UQPPAA of 9uVbUBk0
+GROUP BY 9uVbUBk0.BxfV5UQPPAA
+
+Get distinct AND YD3 AND 9Fr4L84jGDj of 9u8Z4
+SELECT 9u8Z4.DISTINCT YD3 , 9u8Z4.9Fr4L84jGDj_ FROM 9u8Z4
+
+Keep the records that W0sGY21NRjyJ of 9u8Z4 is bDgNg AND Kd is not in fzv5P7iaR8 of 9u8Z4
+WHERE 9u8Z4.W0sGY21NRjyJ = bDgNg AND Kd NOT IN 9u8Z4.fzv5P7iaR8 
+
+Group the records based on the maximum value of 9qSnBRK2
+GROUP BY MAX ( 9qSnBRK2 )
+
+Order these records based on the the maximum value of b1miyoBEdoY AND sort them in ascending order, AND return the top 1 record
+ORDER BY MAX ( b1miyoBEdoY ) LIMIT 1
+
+Get the sum of qsBzhwXyksI 0 4Xa2pKLy SS and the maximum value of EupwHKwcH and yIi of VccZpoWKgRFK that has qsBzhwXyksI and RE
+SELECT SUM ( qsBzhwXyksI .0 4Xa2pKLy_SS ) , enyGff7VpSDE.yIi_ FROM VccZpoWKgRFK JOIN qsBzhwXyksI AS V78mKtWN ON MAX ( EupwHKwcH ) <= 68 JOIN RE AS enyGff7VpSDE
+
+Get the sum of Vs of Vba
+SELECT SUM ( Vs ) FROM Vba
+
+Keep the records that the maximum value of Im is not 3
+WHERE MAX(Im) != 3 
+
+Group the records based on the minimum value of dcPAvCK that the average value of KguILfNgUfT of Vba is not in E3TfgpHFBIs4
+GROUP BY MIN ( dcPAvCK ) HAVING AVG ( Vba.KguILfNgUfT ) NOT IN E3TfgpHFBIs4
+
+Order these records based on the LG and sort them in descending order, and return the top 1 record
+ORDER BY LG LIMIT 1
+
+Get iAyE of wYXPq
+SELECT iAyE FROM wYXPq
+
+Keep the records that xluHp is greater than 79 OR the maximum value of RAfK5WSN0 of wYXPq is less than OR equal to the average value of czZGDk1KOlV
+WHERE xluHp > 79 OR MAX(wYXPq.RAfK5WSN0) <= AVG(czZGDk1KOlV) 
+
+Group the records based on tF9 z of wYXPq that the maximum value of B6qp is not 15
+GROUP BY wYXPq.tF9_z HAVING MAX ( B6qp ) != 15
+
+Get pBummLgqTk1c of cRvWffpuBMB
+SELECT pBummLgqTk1c FROM cRvWffpuBMB
+
+Keep the records that the number of wCzGAr is not in the average value of eihKArk3P0 of cRvWffpuBMB OR the number of oZKD075DBS8J is less than 60 OR k4rM5 is not 2
+WHERE COUNT(wCzGAr) NOT IN AVG(cRvWffpuBMB.eihKArk3P0) OR COUNT(oZKD075DBS8J) < 60 OR k4rM5 != 2 
+
+Group the records based on MH5o96
+GROUP BY MH5o96
+
+Order these records based on the the sum of ERHEmw of cRvWffpuBMB and sort them in ascending order, and return the top 1 record
+ORDER BY SUM ( cRvWffpuBMB.ERHEmw ) LIMIT 1
+
+Get TkeD3 of tZkzg9 that has Ab
+SELECT TkeD3 FROM tZkzg9 JOIN Ab AS s1c4W
+
+Keep the records that rU1 of tZkzg9 is greater than 33 AND the maximum value of ZX5zKARSHx9z of tZkzg9 is greater than 18
+WHERE tZkzg9.rU1 > 33 AND MAX(tZkzg9.ZX5zKARSHx9z) > 18 
+
+Group the records based on 5VG8oc9 fmn of tZkzg9 that sBuA t2o is greater than OR equal to 0 AND the minimum value of CqwT of tZkzg9 is greater than OR equal to 96 OR 9rMTYX1iqS of Ab is in aUiJPCh1Sfj of tZkzg9
+GROUP BY tZkzg9.5VG8oc9_fmn HAVING sBuA_t2o >= 0 AND MIN ( tZkzg9.CqwT ) >= 96 OR Ab.9rMTYX1iqS IN tZkzg9.aUiJPCh1Sfj
+
+Get the average value of k57C of mJpulWY
+SELECT AVG ( mJpulWY.k57C ) FROM mJpulWY
+
+Keep the records that the minimum value of ulrMgmCuN of mJpulWY is less than 63
+WHERE MIN(mJpulWY.ulrMgmCuN) < 63
+
+Get qx68hcf of M4C3z that has KIFsafXMQG
+SELECT qx68hcf FROM M4C3z JOIN KIFsafXMQG
+
+Keep the records that Ruvz of M4C3z is less than or equal to 99
+WHERE M4C3z.Ruvz <= 99 
+
+Get icPQ5IBmDTg of Po8gL
+SELECT icPQ5IBmDTg FROM Po8gL
+
+Group the records based on the minimum value of cgp0UE
+GROUP BY MIN ( cgp0UE )
+
+Get the number of dEbrVW of WRJ
+SELECT COUNT ( dEbrVW ) FROM WRJ
+
+Keep the records that nRg3MHXg is less than or equal to the number of kOn29 of WRJ AND the average value of Nm of WRJ is less than the average value of g8014PFKvqK of WRJ
+WHERE nRg3MHXg <= COUNT(WRJ.kOn29) AND AVG(WRJ.Nm) < AVG(WRJ.g8014PFKvqK) 
+
+Order these records based on the elf7KAK7g of WRJ AND sort them in descending order, AND return the top 39 records
+ORDER BY WRJ.elf7KAK7g LIMIT 39
+
+Get YnuhaR of bBJup49LWw8
+SELECT YnuhaR FROM bBJup49LWw8
+
+Get SnoKTKRY of Mg
+SELECT SnoKTKRY FROM Mg
+
+Get JunBGL and distinct and o5wFfNIO of 56l
+SELECT JunBGL , 5 6l.DISTINCT o5wFfNIO FROM 56l
+
+Group the records based on 7lBZo9 of 56l that 5 AZVPOg1JFA of 6l is greater than or equal to 3V3X
+GROUP BY 56l.7lBZo9 HAVING 5 6l.AZVPOg1JFA >= 3V3X
+
+Order these records based on the 5 rvgl of 6l and sort them in descending order, and return the top 91 records
+ORDER BY 5 6l.rvgl LIMIT 91
+
+Get the sum of 4tD and the average value of WkmGY3Y JBRx and hrSMiv Mfpt of AWgvL that has PT1g 1 and HtSpZQq
+SELECT hrSMiv_Mfpt FROM AWgvL JOIN PT1g_1 AS wt3u1_KDX ON SUM ( 4tD ) >= AVG ( WkmGY3Y_JBRx ) JOIN HtSpZQq
+
+Group the records based on the number that rCv of HtSpZQq is less than or equal to 46
+GROUP BY COUNT ( * ) HAVING HtSpZQq.rCv <= 46
+
+Get the maximum value of 0UjZ r0aur1 AND yW AND R0BuYzgJOcR of ix that has Rpi
+SELECT yW , R0BuYzgJOcR FROM ix JOIN Rpi ON MAX ( 0UjZ_r0aur1 ) >= 9w
+
+Keep the records that CN7eA4hA is in the form of the maximum value of TB
+WHERE CN7eA4hA LIKE MAX(TB)
+
+Get the average value of distinct 380 of NcUy2
+SELECT AVG ( DISTINCT 380 ) FROM NcUy2
+
+Keep the records that lZyv6CRH of NcUy2 is hlcRk2tj of NcUy2 OR vSLnGyXXM is greater than OR equal to 8FIMzLC
+WHERE NcUy2.lZyv6CRH = NcUy2.hlcRk2tj OR vSLnGyXXM >= 8FIMzLC 
+
+Group the records based on Bx of NcUy2 that miuX 8Nv of NcUy2 is greater than 98
+GROUP BY NcUy2.Bx HAVING NcUy2.miuX_8Nv > 98
+
+Order these records based on the AFw3j and sort them in ascending order, and return the top 94 records
+ORDER BY AFw3j LIMIT 94
+
+Get the number AND DVtCbIAV of jR1 that has Ntb13w AND 3q AND bae2
+SELECT DVtCbIAV FROM jR1 JOIN _Ntb13w ON bae2.KO8cn >= 25 OR COUNT ( * ) <= cRy JOIN 3q AS 9XLPKksStMm4 JOIN bae2
+
+Keep the records that XL8a4r2Jdn is greater than OR equal to 7 AND XvVOROsCw1N is greater than OR equal to 77
+WHERE XL8a4r2Jdn >= 7 AND XvVOROsCw1N >= 77 
+
+Group the records based on the minimum value of Iw5daJ of 3q that T22x of Ntb13w is greater than OR equal to 64
+GROUP BY MIN ( 3q.Iw5daJ ) HAVING _Ntb13w.T22x >= 64
+
+Get the minimum value of cPWGySZ and UJdsrAq of 5jXKfM3B that has Bn0s
+SELECT UJdsrAq , MIN ( icPe0Vwj5WAd.cPWGySZ ) FROM 5jXKfM3B JOIN Bn0s AS icPe0Vwj5WAd
+
+Keep the records that 8XP3ofL9oTIM of Bn0s is less than wPWGjP of Bn0s
+WHERE Bn0s.8XP3ofL9oTIM < icPe0Vwj5WAd.wPWGjP 
+
+Order these records based on the zzNVVHTo and sort them in descending order, and return the top 1 record
+ORDER BY zzNVVHTo LIMIT 1
+
+Get the sum of xU of r4QH
+SELECT SUM ( r4QH.xU ) FROM r4QH
+
+Keep the records that QEaby of r4QH is in the form of GvYEj of r4QH
+WHERE r4QH.QEaby LIKE r4QH.GvYEj
+
+Get the minimum value of O7rDF 5 9 8KQL AND the average value of MLB3iVDDRU of O7rDF 5 that has fCwL
+SELECT MIN ( O7rDF_5 .9 8KQL ) FROM O7rDF_5 JOIN fCwL ON AVG ( MLB3iVDDRU ) NOT IN fCwL.isG
+
+Keep the records that DCAxPughU4G is greater than OR equal to 38 AND the maximum value of 4VD4B30btSg is greater than 93 OR xZGlj is 18
+WHERE DCAxPughU4G >= 38 AND MAX(4VD4B30btSg) > 93 OR xZGlj = 18 
+
+Group the records based on NDASTaD that P8ppAD of O7rDF 5 is greater than OR equal to 22
+GROUP BY NDASTaD HAVING O7rDF_5.P8ppAD >= 22
+
+Get bVcoegR7rzg and 8Ty1 of DsfTqkeYXEBx
+SELECT DsfTqkeYXEBx.bVcoegR7rzg , DsfTqkeYXEBx.8Ty1 FROM DsfTqkeYXEBx
+
+Keep the records that gGIX is greater than 78
+WHERE gGIX > 78 
+
+Group the records based on XOMN75Uz O of DsfTqkeYXEBx that sQwXGZOtFlc is not 37
+GROUP BY DsfTqkeYXEBx.XOMN75Uz_O HAVING sQwXGZOtFlc != 37
+
+Order these records based on the the sum of Ej and sort them in descending order, and return the top 1 record
+ORDER BY SUM ( Ej ) LIMIT 1
+
+Get ljwQ5gzZgo of 8mBoQP3bmnuC
+SELECT ljwQ5gzZgo FROM 8mBoQP3bmnuC
+
+Group the records based on O25hIMd of 8mBoQP3bmnuC
+GROUP BY 8mBoQP3bmnuC.O25hIMd
+
+Get the maximum value of CAlBStm of 4QgG
+SELECT MAX ( CAlBStm ) FROM 4QgG
+
+Order these records based on the the sum of BHF2EefD and sort them in descending order, and return the top 1 record
+ORDER BY SUM ( BHF2EefD ) LIMIT 1
+
+Get the maximum value of cc7qBVjow9 and 7oxmShB0Q of Zl6mPEH that has 9bRsq3
+SELECT 7oxmShB0Q FROM Zl6mPEH JOIN 9bRsq3 AS o75GUfscA ON MAX ( o75GUfscA.cc7qBVjow9_ ) = 36
+
+Keep the records that Bw6WlC7XydFN in UETBIM8 OR the sum of wAP of Zl6mPEH is 87 OR the average value of MT86N of 9bRsq3 is greater than OR equal to 78 OR 0pvv92FV is not in IKhwAZ of 9bRsq3
+WHERE Bw6WlC7XydFN IN UETBIM8 OR SUM(Zl6mPEH.wAP) = 87 OR AVG(9bRsq3.MT86N) >= 78 OR 0pvv92FV_ NOT IN o75GUfscA.IKhwAZ 
+
+Get the maximum value of Wu CoZ3PsM of 6KQw2
+SELECT MAX ( Wu_CoZ3PsM ) FROM 6KQw2
+
+Get f0heZa of 0u that has HBpNC
+SELECT f0heZa FROM 0u JOIN HBpNC AS qqkRdtVZ32
+
+Keep the records that the minimum value of VoF39HpaP8q is not 94
+WHERE MIN(VoF39HpaP8q) != 94 
+
+Order these records based on the 5dt5jBIeLZ and sort them in descending order, and return the top 67 records
+ORDER BY 5dt5jBIeLZ LIMIT 67
+
+Get the maximum value of 3glny8rMN and the average value of SBCaWNzFckw of GKZcIVcF
+SELECT MAX ( 3glny8rMN ) , AVG ( SBCaWNzFckw ) FROM GKZcIVcF
+
+Group the records based on ZJ6bCbJt
+GROUP BY ZJ6bCbJt
+
+Order these records based on the M42VSR3Y and sort them in descending order, and return the top 1 record
+ORDER BY M42VSR3Y LIMIT 1
+
+Get the maximum value of oDHqsvnU2hJ8 and MvdJz2z of X6T
+SELECT MvdJz2z , MAX ( oDHqsvnU2hJ8 ) FROM X6T
+
+Keep the records that mXDrJilBCGL of X6T is less than 56
+WHERE X6T.mXDrJilBCGL < 56
+
+Get the minimum value of FL7v AND the average value of LocS AND SWZ Kqp1Aa of UjXivtKZM that has gWp2ROvGAk
+SELECT UjXivtKZM.SWZ_Kqp1Aa , MIN ( FL7v ) FROM UjXivtKZM JOIN gWp2ROvGAk AS dJF3 ON AVG ( LocS ) = 16
+
+Group the records based on the average value of k0rLNNnD that lPe of gWp2ROvGAk is in the form of Pfq AND the sum of Rx61tNl1W is less than or equal to 53
+GROUP BY AVG ( k0rLNNnD ) HAVING gWp2ROvGAk.lPe LIKE Pfq AND SUM ( Rx61tNl1W ) <= 53
+
+Get the maximum value of MOPL of n7G that has 7V AND KMP8YoiOr575
+SELECT MAX ( n7G.MOPL ) FROM n7G JOIN 7V JOIN KMP8YoiOr575
+
+Keep the records that the average value of kF6Ja1FSzB is greater than or equal to 69 AND the minimum value of OYVg2iTG7m1 of n7G is greater than or equal to 29 AND 3I1 is not in 2Bp9
+WHERE AVG(kF6Ja1FSzB) >= 69 AND MIN(n7G.OYVg2iTG7m1) >= 29 AND 3I1 NOT IN 2Bp9
+
+Get the minimum value of 9TIX83zX and tmv of TSSjNjiC3 that has XSL6Ps
+SELECT TSSjNjiC3.tmv FROM TSSjNjiC3 JOIN XSL6Ps AS TfKS53C9_e ON 0gqEGg7 LIKE MIN ( 9TIX83zX )
+
+Group the records based on Ymcy0jQLXWh
+GROUP BY Ymcy0jQLXWh
+
+Get the average value of xp24XN4Z1U of tdB3Hh1XITsC that has kg9Pn
+SELECT AVG ( xp24XN4Z1U ) FROM tdB3Hh1XITsC JOIN kg9Pn
+
+Group the records based on occytZMOJ9cQ that the minimum value of a57peLX8w of tdB3Hh1XITsC is less than S9gYjUN0js AND the number of Kw1O is 87
+GROUP BY occytZMOJ9cQ HAVING MIN ( tdB3Hh1XITsC.a57peLX8w ) < S9gYjUN0js AND COUNT ( Kw1O ) = 87
+
+Get the maximum value of d6Cq6Yo and the maximum value of distinct G9IPcB6 of nS1IcMbq that has 7D2
+SELECT MAX ( 7D2.d6Cq6Yo ) , MAX ( DISTINCT G9IPcB6 ) FROM nS1IcMbq JOIN 7D2 ON 7D2.f5e5bVzT1KNU NOT IN nS1IcMbq.yqrsJ
+
+Keep the records that the average value of 0poFl6 is greater than or equal to qsCTdUL of 7D2
+WHERE AVG(0poFl6) >= 7D2.qsCTdUL
+
+Get distinct AND OkcrdsgYOl7 of SrC that has I7a7ss81Zb2f AND X6gpCZGWlLOp
+SELECT I7a7ss81Zb2f.DISTINCT OkcrdsgYOl7 FROM SrC JOIN I7a7ss81Zb2f AS HdWp6 ON T_ > 73 JOIN X6gpCZGWlLOp AS 7K0NWD
+
+Keep the records that the average value of gVN of SrC is 27 OR YPi of I7a7ss81Zb2f is in 9N pDFoEB9 of X6gpCZGWlLOp
+WHERE AVG(SrC.gVN) = 27 OR I7a7ss81Zb2f.YPi IN X6gpCZGWlLOp.9N_pDFoEB9 
+
+Group the records based on the average value of vTGzn that the minimum value of KdS75vPGQGx of SrC is 98 AND Jxwp is less than 58
+GROUP BY AVG ( vTGzn ) HAVING MIN ( SrC.KdS75vPGQGx ) = 98 AND Jxwp < 58
+
+Get e kGjv of Y9ppRp3gOAC that has 3tR4zHRl
+SELECT e_kGjv FROM Y9ppRp3gOAC JOIN _3tR4zHRl AS Nm4ztToW ON Y9ppRp3gOAC.Kna_1CiW < 91
+
+Group the records based on j7N of 3tR4zHRl that qkUl3 of 3tR4zHRl is not in the sum of iDRdM v of Y9ppRp3gOAC AND ma5Tv is less than 73
+GROUP BY _3tR4zHRl.j7N HAVING _3tR4zHRl.qkUl3 NOT IN SUM ( Y9ppRp3gOAC.iDRdM_v ) AND ma5Tv < 73
+
+Get zdSCrkcjS of GLa0e
+SELECT zdSCrkcjS FROM GLa0e
+
+Group the records based on the sum of M5V2c8 of GLa0e
+GROUP BY SUM ( GLa0e.M5V2c8 )
+
+Order these records based on the cPvx2QaZ and sort them in descending order, and return the top 1 record
+ORDER BY cPvx2QaZ LIMIT 1
+
+Get the minimum value of 3kbSE1rbep AND the maximum value of WHgpE 4s AND qOzWiIJsOtUW of nbsbayl that has js8p1Tz AND 8eA7
+SELECT qOzWiIJsOtUW FROM nbsbayl JOIN js8p1Tz ON nbsbayl.Mt IN MIN ( P7hx.3kbSE1rbep ) AND MAX ( P7hx.WHgpE_4s ) >= 98 JOIN 8eA7 AS P7hx
+
+Keep the records that the sum of WxgxyNV of js8p1Tz is not in gUR2aZhHvQ
+WHERE SUM(js8p1Tz.WxgxyNV) NOT IN gUR2aZhHvQ 
+
+Order these records based on the the number of WEPHKKDKgnRj of js8p1Tz AND sort them in ascending order, AND return the top 1 record
+ORDER BY COUNT ( js8p1Tz.WEPHKKDKgnRj ) LIMIT 1
+
+Get the maximum value of NzqZPuIyDp of SBw that has N8Ith
+SELECT MAX ( NzqZPuIyDp_ ) FROM SBw JOIN N8Ith AS 9ycG1Zjavr ON KxmM > 30
+
+Keep the records that the minimum value of sV85 of N8Ith is greater than OR equal to 12 OR k5986YE is not 61 OR the sum of GHE19ET8 is not in the maximum value of UIwrX7O9FmD of N8Ith
+WHERE MIN(N8Ith.sV85) >= 12 OR k5986YE != 61 OR SUM(GHE19ET8) NOT IN MAX(9ycG1Zjavr.UIwrX7O9FmD) 
+
+Group the records based on 8IO4 of SBw that the sum of ZVYhq of SBw is WP
+GROUP BY SBw.8IO4_ HAVING SUM ( SBw.ZVYhq ) = WP
+
+Get the average value of wArG50t3UXcg and the average value of aMlFoX1 o of z cAJK
+SELECT AVG ( wArG50t3UXcg ) , AVG ( z_cAJK.aMlFoX1_o ) FROM z_cAJK
+
+Get the number of 8MTdhHXCQB AND LWj4lfNkYXb of zEa63C that has sJBMMyR
+SELECT zEa63C.LWj4lfNkYXb FROM zEa63C JOIN sJBMMyR ON zEa63C.An_aW > COUNT ( sJBMMyR.8MTdhHXCQB )
+
+Keep the records that 7P2wVN3hH of zEa63C is less than 85 AND the number of jy6aH0jsK of zEa63C is not in inVtC6N1SQ of sJBMMyR
+WHERE zEa63C.7P2wVN3hH < 85 AND COUNT(zEa63C.jy6aH0jsK) NOT IN sJBMMyR.inVtC6N1SQ
+
+Get rJ of 52o that has DhqIQw4 Cr and tdRi
+SELECT DhqIQw4_Cr.rJ FROM 52o JOIN DhqIQw4_Cr ON 01 7v0tSy9XXe.kWHPPgW_4Ki4 >= 24 JOIN tdRi AS 01 7v0tSy9XXe
+
+Group the records based on the average value of osg of tdRi
+GROUP BY AVG ( tdRi.osg )
+
+Get the minimum value of k and the number of T8mlFgrl2g of tJu7YC that has mhF5 and uWQHjBdCwMf and Mn6
+SELECT MIN ( k_ ) FROM tJu7YC JOIN mhF5 ON CF LIKE COUNT ( T8mlFgrl2g ) JOIN uWQHjBdCwMf AS MQnbToHTwbT JOIN Mn6 AS Jn
+
+Keep the records that the average value of SP is in the form of the average value of INapKvQAWw of uWQHjBdCwMf
+WHERE AVG(SP) LIKE AVG(uWQHjBdCwMf.INapKvQAWw) 
+
+Get the minimum value of tg5 kYGo of ukGA that has CADPBkJQY
+SELECT MIN ( _tg5_kYGo_ ) FROM ukGA JOIN CADPBkJQY AS 58
+
+Keep the records that 1 1mrFkCg1 is in AdWiRWoiZjKz
+WHERE 11mrFkCg1 IN AdWiRWoiZjKz 
+
+Group the records based on JR1 of CADPBkJQY
+GROUP BY CADPBkJQY.JR1
+
+Get csZHKbFZsXB of Isyb1
+SELECT csZHKbFZsXB FROM Isyb1
+
+Keep the records that Isyb1 6sYyO is greater than 1 OR d4qYX is greater than OR equal to 74
+WHERE Isyb1.36sYyO > 1 OR d4qYX >= 74
+
+Get the sum of AM1JEG9oEsa of Q3NWApO
+SELECT SUM ( AM1JEG9oEsa ) FROM Q3NWApO
+
+Group the records based on the sum of Di that Sk of Q3NWApO is less than or equal to 34
+GROUP BY SUM ( Di ) HAVING Q3NWApO.Sk <= 34
+
+Get the number of distinct g2ua8KhTlxH and the minimum value of D0M and the number of 18UjGT2 that has ZzcwtvW and 7Ltt
+SELECT COUNT ( DISTINCT g2ua8KhTlxH ) FROM 18UjGT2 JOIN ZzcwtvW JOIN 7Ltt AS icsh ON MIN ( D0M ) LIKE COUNT ( * )
+
+Group the records based on the sum of 9uR f3H0iE that x6xR is not in the minimum value of ybSL OR 1 4hWW of 8UjGT2 is not in tXIe1ak
+GROUP BY SUM ( 9uR_f3H0iE ) HAVING x6xR NOT IN MIN ( ybSL ) OR 1 8UjGT2.4hWW NOT IN tXIe1ak
+
+Get the sum of qg of sUUMQ6j that has sHcS74DtwHLC
+SELECT SUM ( qg ) FROM sUUMQ6j JOIN sHcS74DtwHLC ON mv0ntWgXe >= 12
+
+Keep the records that RPa6bNSi1DF7 is not in 1aUJeD
+WHERE RPa6bNSi1DF7 NOT IN 1aUJeD
+
+Get bm96 of kcvJ that has qYaYa9Fn4
+SELECT kcvJ.bm96_ FROM kcvJ JOIN qYaYa9Fn4
+
+Keep the records that ObL4 Jx of qYaYa9Fn4 is less than 69
+WHERE qYaYa9Fn4.ObL4__Jx < 69 
+
+Get tOsTO of 3w
+SELECT tOsTO FROM 3w
+
+Keep the records that fo1FD7 is in the form of the number OR PF16 of 3w is greater than 16 AND the number of nkypWmWaJaQA of 3w is less than OR equal to 29
+WHERE fo1FD7 LIKE COUNT(*) OR 3w.PF16 > 16 AND COUNT(3w.nkypWmWaJaQA) <= 29 
+
+Group the records based on the sum of lf
+GROUP BY SUM ( lf )
+
+Get vHG7 of J5BepvfToGy that has lf
+SELECT vHG7 FROM J5BepvfToGy JOIN lf
+
+Get the sum of PXbKgEwWeJI and the number of DIewpao and mEy7ik of hcKAhBPB that has mSyki6Id4
+SELECT SUM ( PXbKgEwWeJI ) , mEy7ik FROM hcKAhBPB JOIN mSyki6Id4 ON COUNT ( mSyki6Id4.DIewpao ) LIKE xPwszP3wqoI
+
+Keep the records that the number is 69 OR Nq84d8Uwgi is greater than OR equal to 79
+WHERE COUNT(*) = 69 OR Nq84d8Uwgi >= 79 
+
+Order these records based on the u6FS and sort them in ascending order, and return the top 64 records
+ORDER BY u6FS LIMIT 64
+
+Get ogQ of vmtTHa
+SELECT ogQ FROM vmtTHa
+
+Get hg9JaVEK4Vj of sUq that has 0vwmX H0EI
+SELECT sUq.hg9JaVEK4Vj FROM sUq JOIN 0vwmX_H0EI ON sUq._Elz_gXcVx < 61
+
+Get SmQhIJr of cm that has ZTlPJc2A
+SELECT SmQhIJr FROM cm JOIN ZTlPJc2A AS bL
+
+Keep the records that the maximum value of 0XKRV of ZTlPJc2A is less than 10
+WHERE MAX(ZTlPJc2A.0XKRV) < 10 
+
+Group the records based on 0ekJ N of ZTlPJc2A that the minimum value of oMzOH7IgkJcM of cm is less than or equal to 78
+GROUP BY bL.0ekJ_N HAVING MIN ( cm.oMzOH7IgkJcM ) <= 78
+
+Order these records based on the 5C of ZTlPJc2A and sort them in descending order, and return the top 1 record
+ORDER BY bL.5C LIMIT 1
+
+Get the sum of SzK6 LJrK and the sum of an of 5Z30TU that has I8 and i2TqX
+SELECT SUM ( 5Z30TU.SzK6_LJrK ) FROM 5Z30TU JOIN I8 ON IiUDfX4Ld.Ee2sammSlgj IN 5Z30TU.dOH9OENzqn OR rgO5btzIVN IN i2TqX.On5puz JOIN i2TqX AS IiUDfX4Ld ON SUM ( I8.an ) NOT IN 5Z30TU.IUDGxPrB
+
+Keep the records that emm5mJ is greater than OR equal to 95
+WHERE emm5mJ >= 95 
+
+Get distinct and yJ5BXPM of GFQ8zBg
+SELECT GFQ8zBg.DISTINCT yJ5BXPM FROM GFQ8zBg
+
+Keep the records that 3wOXbFnpc is greater than or equal to 71
+WHERE 3wOXbFnpc >= 71
+
+Get 1eWVVat of zBWCd that has 7AGL8YSzt and tH3
+SELECT 1eWVVat FROM zBWCd JOIN 7AGL8YSzt ON hsVCk <= 15 JOIN tH3 AS 0 3MUKeh ON 5w6NU != 36
+
+Group the records based on utlKlUvWk
+GROUP BY utlKlUvWk
+
+Get oePBcBDy of 8anADKcl that has ndpSF8pUB
+SELECT oePBcBDy FROM 8anADKcl JOIN ndpSF8pUB ON _n > 35
+
+Get the minimum value of ZB1kEGT of lS9EGoF789yy that has ebiDxJfb5eLZ
+SELECT MIN ( ebiDxJfb5eLZ.ZB1kEGT ) FROM lS9EGoF789yy JOIN ebiDxJfb5eLZ
+
+Keep the records that 8l4Dx0baV of lS9EGoF789yy is greater than or equal to 2
+WHERE lS9EGoF789yy.8l4Dx0baV >= 2 
+
+Order these records based on the Z0 and sort them in descending order, and return the top 57 records
+ORDER BY Z0 LIMIT 57
+
+Get the sum of xgjiVpDf of AXg
+SELECT SUM ( AXg.xgjiVpDf ) FROM AXg
+
+Get SwWVEr9m61J8 of o4w
+SELECT o4w.SwWVEr9m61J8 FROM o4w
+
+Keep the records that the average value of fb9D of o4w is greater than 5MP2700MRFy
+WHERE AVG(o4w.fb9D) > 5MP2700MRFy 
+
+Group the records based on hs5XrKt of o4w that OW8cWXoZLjj is greater than 48 AND o4w 6hfOAnlzpE is less than or equal to 39 AND the sum of dZ9 of o4w is greater than or equal to the average value of JHcY
+GROUP BY o4w.hs5XrKt HAVING OW8cWXoZLjj > 48 AND o4w .9 6hfOAnlzpE <= 39 AND SUM ( o4w.dZ9 ) >= AVG ( JHcY )
+
+Order these records based on the ZN AQ4 AND sort them in ascending order, AND return the top 1 record
+ORDER BY ZN_AQ4 LIMIT 1
+
+Get the number of BVPEXCxl of Z4Howdbra that has zQR
+SELECT COUNT ( zQR.BVPEXCxl ) FROM Z4Howdbra JOIN zQR AS TPu9QIjuOmi
+
+Keep the records that SzDwH8h65lHz of zQR is 98 OR 1 9Jan is greater than O4Tom1NM4 of zQR AND pbBKQM82s0 of zQR is not in cwJ5Ymb3U
+WHERE TPu9QIjuOmi.SzDwH8h65lHz = 98 OR 19Jan > zQR.O4Tom1NM4 AND TPu9QIjuOmi.pbBKQM82s0 NOT IN cwJ5Ymb3U 
+
+Get the number of NUQssbCLhP AND zAbDG4W of CK0N0Hes
+SELECT CK0N0Hes.zAbDG4W , COUNT ( CK0N0Hes.NUQssbCLhP ) FROM CK0N0Hes
+
+Keep the records that Dn is greater than or equal to 31 AND the sum of NzEKWz W of CK0N0Hes is in the form of LShepewy5o1f
+WHERE _Dn >= 31 AND SUM(CK0N0Hes.NzEKWz_W) LIKE LShepewy5o1f 
+
+Order these records based on the 7PRFYA of CK0N0Hes AND sort them in descending order, AND return the top 1 record
+ORDER BY CK0N0Hes.7PRFYA LIMIT 1
+
+Get the number of e kT53XSh5c and rHRIQX of un7aIKU8rDp that has lWXiD8E and Bkl2UJ5KWn and 8iZoJerm0h
+SELECT rHRIQX FROM un7aIKU8rDp JOIN lWXiD8E ON U5Yoir9mju LIKE cmXOhAWwe OR COUNT ( lWXiD8E.e_kT53XSh5c ) <= 87 JOIN Bkl2UJ5KWn AS lOsiZLKxW JOIN 8iZoJerm0h ON 8iZoJerm0h .9 1ElNe9MRXJ > 6
+
+Group the records based on EGr oQMAQo of 8iZoJerm0h that the maximum value of pp5da005j2 is in V66 OR the sum of DkSkQAh2tADV of Bkl2UJ5KWn is 86
+GROUP BY 8iZoJerm0h.EGr_oQMAQo HAVING MAX ( pp5da005j2 ) IN V66 OR SUM ( Bkl2UJ5KWn.DkSkQAh2tADV ) = 86
+
+Get iAkXuIW of EHP
+SELECT EHP.iAkXuIW FROM EHP
+
+Group the records based on EHP 9pHYzKeMFu that the minimum value of 7mqaOZMyG is 40 AND the number is less than HWdDHd of EHP
+GROUP BY EHP .0 9pHYzKeMFu HAVING MIN ( 7mqaOZMyG ) = 40 AND COUNT ( * ) < EHP.HWdDHd
+
+Get 4FYMTluf AND B8dR of ohKLY9dgBnw that has sIbH AND WNYj3M0zMzp
+SELECT WNYj3M0zMzp.4FYMTluf , d2.B8dR FROM ohKLY9dgBnw JOIN sIbH AS d2 JOIN WNYj3M0zMzp ON d2.9Dmx8b08Ou LIKE VKu5V3ESG
+
+Group the records based on hgU4
+GROUP BY hgU4
+
+Order these records based on the d2 3UwXiZ9wm1, AND return the top 1 record
+ORDER BY d2 .1 3UwXiZ9wm1 LIMIT 1
+
+Get hb of XadpATQ that has BJjEc
+SELECT hb FROM XadpATQ JOIN BJjEc AS z44n ON cR_ != 1cDPupNxDw3E
+
+Keep the records that Homj1 of BJjEc is 1
+WHERE z44n.Homj1 = 1 
+
+Group the records based on KQNkgaLC5 that l17ClkamP of BJjEc is in the form of the maximum value of L79RhTcq
+GROUP BY KQNkgaLC5 HAVING z44n.l17ClkamP LIKE MAX ( L79RhTcq )
+
+Order these records based on the 6wmrVILx2F and sort them in ascending order, and return the top 1 record
+ORDER BY 6wmrVILx2F LIMIT 1
+
+Get WTgvxcEjfyf3 of zkl8wBkOCSr that has s1EuqBSt and g2u23uo7 and v6Tcv76HTe
+SELECT WTgvxcEjfyf3 FROM zkl8wBkOCSr JOIN s1EuqBSt AS M8g7W JOIN g2u23uo7 ON wUaHgIcgyFUc <= 23 JOIN v6Tcv76HTe ON DR_Gkvd > 69
+
+Keep the records that 7BmbM of zkl8wBkOCSr is in the form of 7K of v6Tcv76HTe OR WmqE is less than 55
+WHERE zkl8wBkOCSr.7BmbM LIKE v6Tcv76HTe.7K OR WmqE < 55
+
+Get the sum of 7d1C and the sum of NokZztecLUL of aFJiNmMb that has Xezq6L2g8 and J4XCItesIX7I and e gsvh
+SELECT SUM ( 7d1C ) FROM aFJiNmMb JOIN Xezq6L2g8 AS 4KT2Kiu8 ON SUM ( e_gsvh.NokZztecLUL ) = 8 JOIN J4XCItesIX7I JOIN e_gsvh
+
+Group the records based on the sum of Cp
+GROUP BY SUM ( Cp )
+
+Get the number and the minimum value of ridJfQ and the maximum value of UUOJ3 of 5LQG5wCBfEL that has eW1g and JTIv5x7 and VMn1AXsESutu
+SELECT COUNT ( * ) FROM 5LQG5wCBfEL JOIN eW1g AS Jf6YbrhI ON MIN ( ridJfQ ) IN BT8iTTTC JOIN JTIv5x7 JOIN VMn1AXsESutu AS N0KO ON MAX ( UUOJ3 ) > 94
+
+Keep the records that 3ibej2 of 5LQG5wCBfEL is in the minimum value of 2MMp of eW1g
+WHERE 5LQG5wCBfEL.3ibej2 IN MIN(Jf6YbrhI.2MMp) 
+
+Group the records based on kTiO
+GROUP BY kTiO
+
+Get MScXI0K3oT of AzuH that has VB
+SELECT MScXI0K3oT FROM AzuH JOIN VB
+
+Order these records based on the the minimum value of 2y6M f of AzuH and sort them in descending order, and return the top 15 records
+ORDER BY MIN ( AzuH.2y6M_f ) LIMIT 15
+
+Get the maximum value of distinct hu of Pfl3eheZFI that has RHDDIxA
+SELECT MAX ( RHDDIxA.DISTINCT hu ) FROM Pfl3eheZFI JOIN RHDDIxA AS 4Tps3sl ON 4Tps3sl.E4pxNzA_ff <= 84
+
+Keep the records that the sum of c6SiWaUCr is not in gkl O3gQB
+WHERE SUM(c6SiWaUCr) NOT IN gkl_O3gQB
+
+Get pVZPn of gFwk that has jbrsZ0rwMT and oVUwuz2SGd
+SELECT pVZPn FROM gFwk JOIN jbrsZ0rwMT AS war5Km6_B JOIN oVUwuz2SGd AS OVtHj
+
+Keep the records that qB84v is less than 69 OR the number is in the form of the average value of WV2k5Zlmh of oVUwuz2SGd
+WHERE qB84v < 69 OR COUNT(*) LIKE AVG(oVUwuz2SGd.WV2k5Zlmh)
+
+Get the maximum value of FQBe of 5wKL62
+SELECT MAX ( FQBe_ ) FROM 5wKL62
+
+Order these records based on the BIIA and sort them in descending order, and return the top 1 record
+ORDER BY BIIA LIMIT 1
+
+Get the sum of aBIq4j10 of em8x3YWNiRd that has nor
+SELECT SUM ( aBIq4j10 ) FROM em8x3YWNiRd JOIN nor ON 5DNyiiktkYL <= 30
+
+Group the records based on Hrv8 of em8x3YWNiRd that R1Z is the minimum value of hvz7IVRaDbL of em8x3YWNiRd OR hQCP5YZV of em8x3YWNiRd is 23
+GROUP BY em8x3YWNiRd.Hrv8 HAVING R1Z = MIN ( em8x3YWNiRd.hvz7IVRaDbL ) OR em8x3YWNiRd.hQCP5YZV = 23
+
+Get uOC5 NDokpm of rgvXE99iJ
+SELECT rgvXE99iJ.uOC5_NDokpm FROM rgvXE99iJ
+
+Group the records based on the minimum value of 6mGno
+GROUP BY MIN ( 6mGno )
+
+Get bvHvvB of NmvECdCm that has pU 5j
+SELECT bvHvvB FROM NmvECdCm JOIN pU_5j AS pe2OT_ZO
+
+Order these records based on the BE t2 of pU 5j and sort them in ascending order, and return the top 1 record
+ORDER BY pU_5j.BE_t2 LIMIT 1
+
+Get 4cIvwAH AND 2IhOmcrw65 of 4cIvwAH
+SELECT 4cIvwAH .1 2IhOmcrw65 FROM 4cIvwAH
+
+Keep the records that the number is greater than OR equal to 91
+WHERE COUNT(*) >= 91 
+
+Group the records based on ym3gz of 4cIvwAH that ZzwEVDs of 4cIvwAH is not 0P of 4cIvwAH AND bmPi7p1ez is greater than OR equal to 19 OR the maximum value of R4qIpIwg is less than 86
+GROUP BY 4cIvwAH.ym3gz HAVING 4cIvwAH.ZzwEVDs != 4cIvwAH._0P AND bmPi7p1ez >= 19 OR MAX ( R4qIpIwg ) < 86
+
+Get the minimum value of ea4Zpy0 of xjN eYt that has w58qIx8GVd1p
+SELECT MIN ( w58qIx8GVd1p.ea4Zpy0 ) FROM xjN_eYt JOIN w58qIx8GVd1p AS 7gTM2
+
+Keep the records that the maximum value of 5SPa0QB2UT is not in Hn
+WHERE MAX(5SPa0QB2UT) NOT IN Hn 
+
+Group the records based on IhQEWn8G of w58qIx8GVd1p that the maximum value of zMi0XkxC 4 is 58 OR the maximum value of VVP of w58qIx8GVd1p is in the form of P9lQT of xjN eYt
+GROUP BY w58qIx8GVd1p.IhQEWn8G HAVING MAX ( zMi0XkxC_4 ) = 58 OR MAX ( 7gTM2.VVP ) LIKE xjN_eYt.P9lQT
+
+Get the sum of nhBQyCwe of 2AxUDF that has jPyF8SHz28u
+SELECT SUM ( nhBQyCwe ) FROM 2AxUDF JOIN jPyF8SHz28u
+
+Keep the records that 9GSJYQdRsT of jPyF8SHz28u in 6MzqU1i of jPyF8SHz28u AND MlGMYo is not in 8iUyOTDn70Ie of 2AxUDF OR 6PGXuIid of jPyF8SHz28u in lC4Y
+WHERE jPyF8SHz28u.9GSJYQdRsT IN jPyF8SHz28u.6MzqU1i AND MlGMYo NOT IN 2AxUDF.8iUyOTDn70Ie OR jPyF8SHz28u.6PGXuIid IN lC4Y 
+
+Get uoeT9qIfzIIT and tEWYPEU of k5CtSJFx that has iF3B
+SELECT uoeT9qIfzIIT , tEWYPEU FROM k5CtSJFx JOIN iF3B AS 0QAFFUA ON 9epv_kBw4Q > 15
+
+Get vBcs of CFGrf405JlS2
+SELECT vBcs FROM CFGrf405JlS2
+
+Keep the records that WSucQw is not fSvTB
+WHERE WSucQw != fSvTB 
+
+Group the records based on the minimum value of e46zQ
+GROUP BY MIN ( e46zQ )
+
+Order these records based on the BSPx and sort them in descending order, and return the top 1 record
+ORDER BY BSPx LIMIT 1
+
+Get HPMm of oc that has 807PID
+SELECT 3wqSdEa35.HPMm FROM oc JOIN 807PID AS 3wqSdEa35 ON 80 7PID.nIjWloPfYZ > 91
+
+Group the records based on the number of N4h3qaGG of oc that 80 XvVOPoPw of 7PID is less than E2tAunU7J1 of oc AND the sum of Uwz is less than 1
+GROUP BY COUNT ( oc.N4h3qaGG ) HAVING 80 7PID.XvVOPoPw < oc.E2tAunU7J1 AND SUM ( Uwz ) < 1
+
+Get uPdE and yIXy99Ih57K of Slju that has CzMPczzC4f
+SELECT uPdE , Slju.yIXy99Ih57K FROM Slju JOIN CzMPczzC4f
+
+Order these records based on the the maximum value of qo3 and sort them in descending order, and return the top 1 record
+ORDER BY MAX ( qo3 ) LIMIT 1
+
+Get the minimum value of Dfid AND the minimum value of fgo1 of iiTna7M3hOHO
+SELECT MIN ( Dfid ) , MIN ( fgo1 ) FROM iiTna7M3hOHO
+
+Keep the records that ZLg9JYwZb5 is in QZ99PH6 AND 3Mt1 of iiTna7M3hOHO is in the form of IBs55XHWOss of iiTna7M3hOHO
+WHERE ZLg9JYwZb5 IN QZ99PH6 AND iiTna7M3hOHO.3Mt1 LIKE iiTna7M3hOHO.IBs55XHWOss
+
+Get the number of cib4LOd6DK and the minimum value of 9igu of M3zZHyJmjDy that has cr2n and RgEtfLMUg
+SELECT COUNT ( cib4LOd6DK ) FROM M3zZHyJmjDy JOIN cr2n AS kWjRTW6tLzz JOIN RgEtfLMUg AS wRFJrUxT ON MIN ( M3zZHyJmjDy.9igu ) < 12
+
+Keep the records that phMG8nIqwEo of cr2n is in the sum of kCEPMc
+WHERE kWjRTW6tLzz.phMG8nIqwEo IN SUM(kCEPMc) 
+
+Order these records based on the the number of icDRX4 of cr2n and sort them in ascending order, and return the top 85 records
+ORDER BY COUNT ( cr2n.icDRX4 ) LIMIT 85
+
+Get EJSAoSl2e of a9eA7pUm01Z5 that has vknCw8vnV
+SELECT EJSAoSl2e FROM a9eA7pUm01Z5 JOIN vknCw8vnV AS gLo
+
+Get the minimum value of jSYWL and the minimum value of yw8ByQPwWj of av8yKm9 that has UPphuLkv3so
+SELECT MIN ( av8yKm9.jSYWL ) FROM av8yKm9 JOIN UPphuLkv3so ON av8yKm9.fVGBHOd = MIN ( yw8ByQPwWj )
+
+Order these records based on the dj and sort them in descending order, and return the top 1 record
+ORDER BY dj LIMIT 1
+
+Get the maximum value of bgY2jSy of fSiN that has Wv2be
+SELECT MAX ( fSiN.bgY2jSy ) FROM fSiN JOIN Wv2be ON fSiN.lb < 73
+
+Keep the records that VN IRCuP is in the maximum value of Six6B0Nek6eJ of Wv2be AND Gw is in the form of 2H2vE66Yv
+WHERE VN_IRCuP IN MAX(Wv2be.Six6B0Nek6eJ) AND Gw LIKE 2H2vE66Yv 
+
+Group the records based on abIAdTD9EIy
+GROUP BY abIAdTD9EIy
+
+Get B yd4VF7x of SJONr
+SELECT SJONr.B_yd4VF7x FROM SJONr
+
+Keep the records that OJCqPNU56 is greater than or equal to 23
+WHERE OJCqPNU56 >= 23 
+
+Order these records based on the Kmji3OEGz5 and sort them in descending order, and return the top 1 record
+ORDER BY Kmji3OEGz5 LIMIT 1
+
+Get r7g2mAKNC1 of CRuAyVC6 that has 6eyr4
+SELECT r7g2mAKNC1 FROM CRuAyVC6 JOIN 6eyr4 AS cKQwQhuMW34N
+
+Keep the records that the minimum value of j0 of 6eyr4 is in the form of the maximum value of iyinR7w of CRuAyVC6
+WHERE MIN(6eyr4.j0) LIKE MAX(CRuAyVC6.iyinR7w_) 
+
+Group the records based on PaOXj7D5sbi of 6eyr4 that the maximum value of bOO0fywVOiSh is in the minimum value of WfHGNBQ3 of 6eyr4
+GROUP BY 6eyr4.PaOXj7D5sbi HAVING MAX ( bOO0fywVOiSh ) IN MIN ( 6eyr4.WfHGNBQ3 )
+
+Order these records based on the Bwvkxm0TGGad and sort them in ascending order, and return the top 45 records
+ORDER BY Bwvkxm0TGGad LIMIT 45
+
+Get h8mNcRIrKBz of A5yiCC
+SELECT A5yiCC.h8mNcRIrKBz FROM A5yiCC
+
+Get the sum of nShM9cWn6 and 7hqnsczxl of oxqcEjd
+SELECT SUM ( nShM9cWn6 ) , 8 7hqnsczxl FROM oxqcEjd
+
+Keep the records that the number of iV2JvdAhP2 of oxqcEjd is not 65
+WHERE COUNT(oxqcEjd.iV2JvdAhP2) != 65 
+
+Group the records based on the maximum value of S5eph7
+GROUP BY MAX ( S5eph7 )
+
+Order these records based on the oxqcEjd 8p0e and sort them in descending order, and return the top 1 record
+ORDER BY oxqcEjd .4 8p0e LIMIT 1
+
+Get st of 2W2JASkg
+SELECT _2W2JASkg.st FROM _2W2JASkg
+
+Group the records based on the average value of pxL2GUy
+GROUP BY AVG ( pxL2GUy )
+
+Get ZFCeZ7A of pIK0ViBJ1IHw
+SELECT ZFCeZ7A FROM pIK0ViBJ1IHw
+
+Keep the records that bBpAy4raeBh is less than RiDm of pIK0ViBJ1IHw
+WHERE bBpAy4raeBh < pIK0ViBJ1IHw.RiDm 
+
+Group the records based on vq17OBH that the minimum value of oD3XERsXTrLw of pIK0ViBJ1IHw is in the maximum value of qUaFn79WB
+GROUP BY vq17OBH HAVING MIN ( pIK0ViBJ1IHw.oD3XERsXTrLw ) IN MAX ( qUaFn79WB )
+
+Get the sum of Kj2p88GSWnv AND the sum of Rb5S of nGzwUecgP that has rg
+SELECT SUM ( rg.Kj2p88GSWnv ) , SUM ( Rb5S ) FROM nGzwUecgP JOIN rg
+
+Keep the records that sb of rg is greater than 57 AND kQiPhZR0hi is in s cL55v
+WHERE rg.sb > 57 AND kQiPhZR0hi IN s_cL55v 
+
+Group the records based on 6Eg0mJs21 that the sum of fs is 7
+GROUP BY 6Eg0mJs21 HAVING SUM ( fs ) = 7
+
+Get lVX5AimtI of 5acxDd5Vu8 that has yZWYC and a74
+SELECT lVX5AimtI FROM 5acxDd5Vu8 JOIN yZWYC JOIN a74 AS CR9R
+
+Group the records based on EGSXWV2k3NNA of yZWYC
+GROUP BY yZWYC.EGSXWV2k3NNA
+
+Order these records based on the plxQG0IhR and sort them in ascending order, and return the top 1 record
+ORDER BY plxQG0IhR LIMIT 1
+
+Get the minimum value of 73 9ERmvmV of bQ OHRaNh8Zo that has 732V75
+SELECT MIN ( 73 2V75.9ERmvmV ) FROM bQ_OHRaNh8Zo JOIN 732V75 AS 4 0sZXHirud
+
+Keep the records that TjZIZhkSGBD of bQ OHRaNh8Zo is in gFydyAFCLC
+WHERE bQ_OHRaNh8Zo.TjZIZhkSGBD IN gFydyAFCLC
+
+Get the maximum value of KdG0SZ of D4Ek2uV
+SELECT MAX ( D4Ek2uV.KdG0SZ ) FROM D4Ek2uV
+
+Keep the records that j5 ZxNHvF of D4Ek2uV is in the sum of rxulsrwKW of D4Ek2uV OR the maximum value of Gu4T5nj2Jh is less than OR equal to the maximum value of ZEnwt
+WHERE D4Ek2uV.j5_ZxNHvF IN SUM(D4Ek2uV.rxulsrwKW) OR MAX(Gu4T5nj2Jh) <= MAX(ZEnwt) 
+
+Order these records based on the the sum of Khw and sort them in ascending order, and return the top 73 records
+ORDER BY SUM ( Khw ) LIMIT 73
+
+Get 6gPfdey XEPi of 5usQXgEz4DV that has JW2K
+SELECT 6gPfdey_XEPi FROM 5usQXgEz4DV JOIN JW2K
+
+Group the records based on the minimum value of gz6L5HduxPk
+GROUP BY MIN ( gz6L5HduxPk )
+
+Get distinct and MLJi of djq2LCmyz9
+SELECT djq2LCmyz9.DISTINCT MLJi FROM djq2LCmyz9
+
+Keep the records that 5JJwcTHim is 54 OR vfhVB is in the form of the number of zDbF
+WHERE 5JJwcTHim = 54 OR vfhVB LIKE COUNT(zDbF)
+
+Get XB7 of 75hh7
+SELECT XB7 FROM 75hh7
+
+Group the records based on the minimum value of 7 0cUrd7Ua of 5hh7 that the minimum value of 7 NtNtB4K of 5hh7 is less than fcz8
+GROUP BY MIN ( 7 5hh7.0cUrd7Ua_ ) HAVING MIN ( 7 5hh7.NtNtB4K ) < fcz8
+
+Order these records based on the y0Z and sort them in descending order, and return the top 1 record
+ORDER BY y0Z LIMIT 1
+
+Get the average value of E9L of uGgnsvmJ
+SELECT AVG ( E9L ) FROM uGgnsvmJ
+
+Keep the records that the number of 5PwnqW of uGgnsvmJ is in B of uGgnsvmJ AND the number of fcr2XtUGCr is greater than OR equal to 56 AND SSGge4 is not 59 OR piH04NMqdoQ of uGgnsvmJ is not 87
+WHERE COUNT(uGgnsvmJ.5PwnqW) IN uGgnsvmJ._B AND COUNT(fcr2XtUGCr) >= 56 AND SSGge4 != 59 OR uGgnsvmJ.piH04NMqdoQ != 87 
+
+Order these records based on the the number, AND return the top 1 record
+ORDER BY COUNT ( * ) LIMIT 1
+
+Get Tv9yl of pNbMiHMNLP that has Xj9LAA
+SELECT Tv9yl FROM pNbMiHMNLP JOIN Xj9LAA AS lJqUy
+
+Keep the records that e2N1P is greater than or equal to G72iQT of Xj9LAA
+WHERE e2N1P >= lJqUy._G72iQT 
+
+Group the records based on uKCr9T that the number of D8EZgvrpVD7t is in the form of wzt o2pz of pNbMiHMNLP AND the maximum value of eJPK2Mv of Xj9LAA is 54
+GROUP BY uKCr9T HAVING COUNT ( D8EZgvrpVD7t ) LIKE pNbMiHMNLP.wzt_o2pz AND MAX ( Xj9LAA.eJPK2Mv ) = 54
+
+Get the maximum value of wuSa2Arag of Gbf4 that has oUz6Nme
+SELECT MAX ( Gbf4.wuSa2Arag ) FROM Gbf4 JOIN oUz6Nme ON Gbf4.G_Fh < 99
+
+Get the sum of 0ehEbQ63Yj and 3Orv54uByLlj of R rH10PH21 that has m4
+SELECT R_rH10PH21.3Orv54uByLlj , SUM ( 0ehEbQ63Yj ) FROM R_rH10PH21 JOIN m4
+
+Keep the records that 9Y9JEzyU2r is greater than 96
+WHERE 9Y9JEzyU2r > 96 
+
+Group the records based on mERzHPrE of m4
+GROUP BY m4.mERzHPrE
+
+Order these records based on the OKtISUC of R rH10PH21 and sort them in ascending order, and return the top 1 record
+ORDER BY R_rH10PH21.OKtISUC LIMIT 1
+
+Get the number of O8WqBFyWw8O of 1nVfzuq8V that has aKABzqU
+SELECT COUNT ( O8WqBFyWw8O ) FROM 1nVfzuq8V JOIN aKABzqU
+
+Keep the records that LrYzYj9tjOX is greater than or equal to the maximum value of iM1t of 1nVfzuq8V
+WHERE LrYzYj9tjOX >= MAX(1nVfzuq8V.iM1t) 
+
+Group the records based on the sum of X
+GROUP BY SUM ( _X )
+
+Get eeOsm9F wvX of gBEP
+SELECT oCJL11wBOpm.eeOsm9F_wvX FROM gBEP
+
+Get DI and usB uV of 0pVJ1Md
+SELECT DI , 0pVJ1Md.usB_uV FROM 0pVJ1Md
+
+Keep the records that the minimum value of AhVaPvayp is not in s2x62U OR 4Qs3g of 0pVJ1Md is less than 30 OR ERvkofHdTT of 0pVJ1Md is not nuq3UiwsBI of 0pVJ1Md
+WHERE MIN(AhVaPvayp) NOT IN s2x62U OR 0pVJ1Md.4Qs3g < 30 OR 0pVJ1Md.ERvkofHdTT != 0pVJ1Md.nuq3UiwsBI 
+
+Group the records based on ZTJ of 0pVJ1Md
+GROUP BY 0pVJ1Md.ZTJ
+
+Get the average value of A5oC and the number of sJ of APNAAOQ0J that has imHlPf2W
+SELECT AVG ( imHlPf2W.A5oC ) FROM APNAAOQ0J JOIN imHlPf2W AS Ef ON APNAAOQ0J.CH NOT IN COUNT ( imHlPf2W.sJ )
+
+Keep the records that uElOLkin is greater than 70 OR the number is greater than OR equal to 6
+WHERE uElOLkin > 70 OR COUNT(*) >= 6 
+
+Get the minimum value of j5iQ61TdZ of XLKNK7oUa
+SELECT MIN ( j5iQ61TdZ ) FROM _XLKNK7oUa
+
+Group the records based on the minimum value of YglBKU2hAqa that MNnoH8 is in the form of the sum of rhpwtZFTD46 of XLKNK7oUa
+GROUP BY MIN ( YglBKU2hAqa ) HAVING MNnoH8 LIKE SUM ( _XLKNK7oUa.rhpwtZFTD46 )
+
+Get iezdkFPq of 2S
+SELECT 2S.iezdkFPq FROM 2S
+
+Keep the records that yl of 2S is 81
+WHERE 2S.yl = 81 
+
+Order these records based on the ls4usOX and sort them in descending order, and return the top 1 record
+ORDER BY ls4usOX LIMIT 1
+
+Get uO04 of ymbqJCF6cYA
+SELECT uO04 FROM ymbqJCF6cYA_
+
+Get the minimum value of Y9smCBtBbHm of 7BrNwtDZp
+SELECT MIN ( 7BrNwtDZp.Y9smCBtBbHm ) FROM 7BrNwtDZp
+
+Group the records based on 1G5YzM6jl4 that bJ of 7BrNwtDZp is greater than OR equal to the average value of rp of 7BrNwtDZp OR HHpB is in the form of the maximum value of b6TC1n
+GROUP BY 1G5YzM6jl4 HAVING 7BrNwtDZp.bJ >= AVG ( 7BrNwtDZp.rp ) OR HHpB LIKE MAX ( b6TC1n )
+
+Get distinct and 9UZTKq8ecX of uc3ML1o that has IsOL4J0
+SELECT uc3ML1o.DISTINCT 9UZTKq8ecX FROM uc3ML1o JOIN IsOL4J0 AS bYn
+
+Get 3pJ of tD4Z
+SELECT 3pJ FROM tD4Z
+
+Keep the records that KkX of tD4Z is not in xVIswZdvEew of tD4Z OR the sum of aaWIE736h0gJ is greater than OR equal to the maximum value of mLcvA of tD4Z
+WHERE tD4Z.KkX NOT IN tD4Z.xVIswZdvEew OR SUM(aaWIE736h0gJ) >= MAX(tD4Z.mLcvA)
+
+Get the minimum value of pHTag of qHOiG
+SELECT MIN ( pHTag ) FROM qHOiG
+
+Keep the records that aZ HLbi of qHOiG is the minimum value of bOK2PScppcg
+WHERE qHOiG.aZ_HLbi = MIN(bOK2PScppcg) 
+
+Group the records based on the average value of Z5bWjImM of qHOiG
+GROUP BY AVG ( qHOiG.Z5bWjImM )
+
+Get 2c of YqEAULe1wG
+SELECT YqEAULe1wG.2c FROM YqEAULe1wG
+
+Keep the records that the minimum value of MC is greater than the minimum value of a6y OR the number is greater than OR equal to 18
+WHERE MIN(MC) > MIN(a6y) OR COUNT(*) >= 18 
+
+Group the records based on the maximum value of NMR that the sum of YqEAULe1wG 2 of 9ClCcgB is in O5u4MrHRnYR OR the sum of LoTm2n90o of YqEAULe1wG is ctqjTGkT of YqEAULe1wG
+GROUP BY MAX ( NMR ) HAVING SUM ( YqEAULe1wG .2 9ClCcgB ) IN O5u4MrHRnYR OR SUM ( YqEAULe1wG.LoTm2n90o ) = YqEAULe1wG.ctqjTGkT
+
+Get lhrx5 of k0cwKjde that has FJMrYciV
+SELECT lhrx5 FROM k0cwKjde JOIN FJMrYciV ON NZqmpjEjy > 67
+
+Group the records based on 1y that the sum of UR41XC of FJMrYciV is not in UVGqwaLIk of FJMrYciV
+GROUP BY 1y HAVING SUM ( FJMrYciV.UR41XC ) NOT IN FJMrYciV.UVGqwaLIk
+
+Get Q6juciw of mfW
+SELECT mfW.Q6juciw_ FROM mfW
+
+Get mbyahQOD nL and admlR AA8AF of lqZ3GojtsSD
+SELECT lqZ3GojtsSD_.mbyahQOD_nL , lqZ3GojtsSD_.admlR_AA8AF FROM lqZ3GojtsSD_
+
+Keep the records that ofZ8vGw is less than 90
+WHERE ofZ8vGw < 90 
+
+Get the minimum value of YP7M0G21 and the number of P4p2qk of 7B that has K9CORRs9K2p and 26eeUmv05Dsp
+SELECT MIN ( K9CORRs9K2p.YP7M0G21 ) FROM 7B JOIN K9CORRs9K2p ON oF3 >= COUNT ( P4p2qk ) JOIN 26eeUmv05Dsp AS WJ
+
+Group the records based on az that HC7e64 is 41
+GROUP BY az HAVING HC7e64 = 41
+
+Get qN of bTFz4CMOVyL that has rmXr7UEtXO
+SELECT qN FROM bTFz4CMOVyL JOIN rmXr7UEtXO AS 5IYa
+
+Keep the records that zM of rmXr7UEtXO is greater than 4
+WHERE 5IYa.zM > 4
+
+Get the maximum value of 9VMmkf49mCJ and nL12 and n5fgEOw16y of rKW7YI4ejC that has 7F76wh and YjgfjWvw2hIK and oOVNvN
+SELECT nL12 , n5fgEOw16y FROM rKW7YI4ejC JOIN 7F76wh AS cLTD ON FJ NOT IN TwLaeWaGlxk9 JOIN YjgfjWvw2hIK AS 520 8gUs JOIN oOVNvN AS U3D2tOKdA ON nXOQT < MAX ( 9VMmkf49mCJ )
+
+Keep the records that rU of oOVNvN is greater than the sum of AUEdeJ2cqG
+WHERE U3D2tOKdA.rU > SUM(AUEdeJ2cqG) 
+
+Group the records based on the maximum value of ZL of oOVNvN that Bd98 of rKW7YI4ejC is in wiMIBnxF4M of 7F76wh
+GROUP BY MAX ( oOVNvN.ZL ) HAVING rKW7YI4ejC.Bd98 IN cLTD.wiMIBnxF4M
+
+Get the minimum value of ZDxGT6j AND the sum of YnCUANSk5vp0 AND ymkhLex1RpR of O9qwK7ZPC1O that has tSqAMpHF2Mh AND 6aqce30yCwX
+SELECT tSqAMpHF2Mh.ymkhLex1RpR FROM O9qwK7ZPC1O JOIN tSqAMpHF2Mh JOIN 6aqce30yCwX AS reg_WqgkY ON MIN ( O9qwK7ZPC1O.ZDxGT6j ) IN SUM ( tSqAMpHF2Mh.YnCUANSk5vp0 )
+
+Keep the records that V6mr0 is less than 86 OR 5oK74XASqe is not in the number
+WHERE _V6mr0 < 86 OR 5oK74XASqe NOT IN COUNT(*) 
+
+Group the records based on the minimum value of Rw
+GROUP BY MIN ( Rw )
+
+Get gT of mm0b9fdf that has h9hGFdIRQfh
+SELECT DISTINCT gT FROM mm0b9fdf JOIN h9hGFdIRQfh
+
+Group the records based on ex of mm0b9fdf
+GROUP BY mm0b9fdf.ex
+
+Get wpytkai7pU of O7CYWWEhd that has KzRRpeZmrh1X
+SELECT wpytkai7pU FROM O7CYWWEhd JOIN KzRRpeZmrh1X AS v18J ON Qr = 62
+
+Group the records based on Plk of KzRRpeZmrh1X
+GROUP BY KzRRpeZmrh1X.Plk
+
+Get GzvtmQO K of 3YNGF
+SELECT GzvtmQO_K FROM 3YNGF
+
+Keep the records that 2OKY7QM is less than 65
+WHERE 2OKY7QM < 65 
+
+Order these records based on the the sum of Km and sort them in ascending order, and return the top 1 record
+ORDER BY SUM ( Km ) LIMIT 1
+
+Get 9XnBiGK n8 of LoIPH6Qhm
+SELECT 9XnBiGK_n8 FROM LoIPH6Qhm
+
+Keep the records that the number of H985 of LoIPH6Qhm is greater than or equal to 57
+WHERE COUNT(LoIPH6Qhm.H985) >= 57
+
+Get the sum of zJ of B0 that has qXcV
+SELECT SUM ( B0.zJ ) FROM B0 JOIN qXcV ON B0.Lk = 21
+
+Keep the records that SSpWAf of B0 is not 18 AND the average value of 2rW of qXcV is greater than OR equal to 4PDN OR BNslOM is greater than OR equal to 26
+WHERE B0.SSpWAf != 18 AND AVG(qXcV.2rW) >= 4PDN OR BNslOM >= 26
+
+Get the maximum value of WXnosGA6VV and the maximum value of UyfdcL of jpdU
+SELECT MAX ( jpdU.WXnosGA6VV ) , MAX ( jpdU.UyfdcL ) FROM jpdU
+
+Group the records based on trinXJyya of jpdU that the maximum value of vuoK is greater than 18
+GROUP BY jpdU.trinXJyya HAVING MAX ( vuoK ) > 18
+
+Order these records based on the iOf59y9Z and sort them in ascending order, and return the top 1 record
+ORDER BY iOf59y9Z LIMIT 1
+
+Get 24k of R0CPQxM7CGdY
+SELECT 24k FROM R0CPQxM7CGdY
+
+Get the sum of jt and BJF of 5PfszL9jGM
+SELECT SUM ( 5PfszL9jGM.jt ) , BJF FROM 5PfszL9jGM
+
+Keep the records that d KJw8gmv 9 is greater than or equal to 21
+WHERE d_KJw8gmv_9 >= 21
+
+Get s7OT4CN of baH5
+SELECT s7OT4CN FROM baH5
+
+Group the records based on 6H1 of baH5
+GROUP BY baH5.6H1
+
+Order these records based on the the number of 8TsSCI8Xiz36 and sort them in ascending order, and return the top 1 record
+ORDER BY COUNT ( 8TsSCI8Xiz36 ) LIMIT 1
+
+Get the sum of 9j8XoroJ of DGYeEybT that has X6x
+SELECT SUM ( 9j8XoroJ ) FROM DGYeEybT JOIN X6x AS jORC
+
+Keep the records that the minimum value of O0dUr is greater than 89
+WHERE MIN(O0dUr) > 89
+
+Get U6 gCNf and zp9em1LDCtA of R3Hs
+SELECT DISTINCT U6_gCNf , R3Hs.zp9em1LDCtA FROM R3Hs
+
+Get the number of iT of ydsRmBgNY that has Gc5tUsWzH4n
+SELECT COUNT ( ydsRmBgNY._iT ) FROM ydsRmBgNY JOIN Gc5tUsWzH4n AS _0rw
+
+Group the records based on J0KUxnY of Gc5tUsWzH4n
+GROUP BY Gc5tUsWzH4n.J0KUxnY
+
+Get 5zmwa0 and WBgsOvDr4 of ji4K8Jk8 that has YlD
+SELECT DISTINCT 5zmwa0 , WBgsOvDr4 FROM ji4K8Jk8 JOIN YlD AS 6cjm
+
+Group the records based on GP6WB1iX8h of YlD
+GROUP BY YlD.GP6WB1iX8h
+
+Get the sum of T85JcZUaK25 of DWL
+SELECT SUM ( DWL.T85JcZUaK25 ) FROM DWL
+
+Keep the records that the minimum value of TACyJ7YWv of DWL is greater than 64
+WHERE MIN(DWL.TACyJ7YWv) > 64
+
+Get the number of 7jol16itsGh and the sum of w3sWCQ9i and the average value of q5Zu iGVOGZS of B8k6aCFxlU9j that has WWO and tgVfe2
+SELECT COUNT ( 7jol16itsGh ) FROM B8k6aCFxlU9j JOIN WWO ON SUM ( w3sWCQ9i ) > 22 JOIN tgVfe2 ON AVG ( q5Zu_iGVOGZS ) < fp4tv
+
+Get S5e0hpLPd of snM8 that has fjMhs and jXQR
+SELECT fjMhs.S5e0hpLPd FROM snM8 JOIN fjMhs AS AeSP JOIN jXQR AS VCT ON HnPAp <= 83
+
+Keep the records that vFg of jXQR is in zX of fjMhs
+WHERE jXQR.vFg IN fjMhs.zX_
+
+Get the average value of W8TOQj8W0L and vL8WdFPbn of DwEcff
+SELECT DwEcff.vL8WdFPbn , AVG ( DwEcff.W8TOQj8W0L ) FROM DwEcff
+
+Group the records based on LJulHPB1e of DwEcff that the sum of nG of DwEcff is less than OR equal to 47 OR the number of Zee7kHc4q is not in GUykMmb3bcz
+GROUP BY DwEcff.LJulHPB1e HAVING SUM ( DwEcff.nG ) <= 47 OR COUNT ( Zee7kHc4q ) NOT IN GUykMmb3bcz
+
+Get the minimum value of 8JDCImj of Z5uSFtgCmu
+SELECT MIN ( Z5uSFtgCmu.8JDCImj ) FROM Z5uSFtgCmu
+
+Keep the records that Tpg of Z5uSFtgCmu is 37
+WHERE Z5uSFtgCmu.Tpg = 37 
+
+Group the records based on the minimum value of 95
+GROUP BY MIN ( 95 )
+
+Order these records based on the the number of TfDiy and sort them in descending order, and return the top 1 record
+ORDER BY COUNT ( TfDiy_ ) LIMIT 1
+
+Get 0ZfBa7Oudtq of KYEPxs
+SELECT KYEPxs.0ZfBa7Oudtq FROM KYEPxs
+
+Keep the records that J0rngeX of KYEPxs is greater than 25
+WHERE KYEPxs.J0rngeX > 25 
+
+Group the records based on eIXIkA1V of KYEPxs
+GROUP BY KYEPxs.eIXIkA1V
+
+Get the average value of MNxwFhyHNzG and the minimum value of distinct djb of Js
+SELECT AVG ( Js.MNxwFhyHNzG ) , MIN ( Js.DISTINCT djb ) FROM Js
+
+Keep the records that the minimum value of 9QLuIk is in the maximum value of bQZAQRZrafD
+WHERE MIN(9QLuIk) IN MAX(bQZAQRZrafD) 
+
+Get v8W1GQA of sk
+SELECT sk.v8W1GQA FROM sk
+
+Get hivVDcHBtfsM and hH of pVi
+SELECT pVi.hivVDcHBtfsM , hH FROM pVi
+
+Order these records based on the ELttuNx2Wyn, and return the top 25 records
+ORDER BY ELttuNx2Wyn LIMIT 25
+
+Get yl of KwZa1jslB6Wf
+SELECT KwZa1jslB6Wf.yl FROM KwZa1jslB6Wf
+
+Keep the records that the maximum value of Ikbbl0M is not 98 AND W7Q67 of KwZa1jslB6Wf is in the form of OQrcUE of KwZa1jslB6Wf AND qYn2M1m of KwZa1jslB6Wf is greater than 43
+WHERE MAX(Ikbbl0M) != 98 AND KwZa1jslB6Wf.W7Q67 LIKE KwZa1jslB6Wf.OQrcUE AND KwZa1jslB6Wf.qYn2M1m > 43
+
+Get distinct and n of JFuWJEpey that has iz78DmwobV6 and BsLH6u0UJy4
+SELECT JFuWJEpey.DISTINCT _n FROM JFuWJEpey JOIN iz78DmwobV6 JOIN BsLH6u0UJy4
+
+Keep the records that g9wpov4gzF of JFuWJEpey is less than the sum of cT4ZWC6B of BsLH6u0UJy4 OR the number of gc of iz78DmwobV6 is not in oDSmNG0ixt of BsLH6u0UJy4
+WHERE JFuWJEpey.g9wpov4gzF < SUM(BsLH6u0UJy4.cT4ZWC6B) OR COUNT(iz78DmwobV6.gc) NOT IN BsLH6u0UJy4.oDSmNG0ixt 
+
+Group the records based on the maximum value of XxJCVVm of JFuWJEpey
+GROUP BY MAX ( JFuWJEpey.XxJCVVm )
+
+Order these records based on the the sum of uAfwhsyv of iz78DmwobV6 and sort them in descending order, and return the top 1 record
+ORDER BY SUM ( iz78DmwobV6.uAfwhsyv ) LIMIT 1
+
+Get Q9AJtYdUMa of bISAny
+SELECT bISAny.Q9AJtYdUMa FROM bISAny
+
+Keep the records that VpSppePikFNf of bISAny is 11 OR P6xzkU29cbv is greater than 76
+WHERE bISAny.VpSppePikFNf = 11 OR P6xzkU29cbv > 76 
+
+Group the records based on zT2U of bISAny that ZQNXULV8DWEs of bISAny is in the form of NRapOHg3 of bISAny AND 6ocOoXjiPekr of bISAny is in the form of 4wn
+GROUP BY bISAny.zT2U HAVING bISAny.ZQNXULV8DWEs LIKE bISAny.NRapOHg3 AND bISAny.6ocOoXjiPekr LIKE 4wn
+
+Get Cxvme5bVP of rPhCL6 that has ttDNba
+SELECT rPhCL6.Cxvme5bVP FROM rPhCL6 JOIN ttDNba AS Qq60tYq3RUFA
+
+Keep the records that the average value of 6GJl is not 80 OR the maximum value of om6NsC of ttDNba is greater than OR equal to 67
+WHERE AVG(6GJl) != 80 OR MAX(Qq60tYq3RUFA.om6NsC) >= 67 
+
+Group the records based on the average value of 9N9UoJ16 of ttDNba
+GROUP BY AVG ( Qq60tYq3RUFA.9N9UoJ16 )
+
+Order these records based on the hgwXbaq of ttDNba and sort them in ascending order, and return the top 1 record
+ORDER BY Qq60tYq3RUFA.hgwXbaq LIMIT 1
+
+Get NjF1wNQcNgS of DPhN that has zR and 7Sbptpm3d2do
+SELECT NjF1wNQcNgS FROM DPhN JOIN zR AS AnfYe JOIN 7Sbptpm3d2do AS 1VgM1zI0z
+
+Get the maximum value of IRn4zIcO4l AND the maximum value of au3KKZ of YlQ6TrLIg that has 1bvYIKYZ
+SELECT MAX ( IRn4zIcO4l ) FROM YlQ6TrLIg JOIN 1bvYIKYZ ON 1bvYIKYZ.ZDNZXj3Oku != MAX ( 1bvYIKYZ.au3KKZ )
+
+Get lX068x of C8F5
+SELECT lX068x FROM _C8F5
+
+Group the records based on LqtjqZWN7l2M of C8F5
+GROUP BY _C8F5.LqtjqZWN7l2M
+
+Order these records based on the the maximum value of eYTFbwc6 and sort them in ascending order, and return the top 46 records
+ORDER BY MAX ( eYTFbwc6 ) LIMIT 46
+
+Get the number of 7i6SNa that has bbzXqNGF6
+SELECT COUNT ( * ) FROM 7i6SNa JOIN bbzXqNGF6
+
+Group the records based on the maximum value of btWRGVZvy3 that the number of Z7o8 is in the form of gZKYlKb5S3gI AND the maximum value of BGBuGZ6OqiIB of 7i6SNa is less than 15
+GROUP BY MAX ( btWRGVZvy3 ) HAVING COUNT ( Z7o8 ) LIKE gZKYlKb5S3gI AND MAX ( 7i6SNa.BGBuGZ6OqiIB ) < 15
+
+Get 1m9zfUud of FtlM3De that has zunPuC
+SELECT 1m9zfUud FROM _FtlM3De JOIN zunPuC AS o_GtOTYRQ
+
+Get 2q of dLkZvFLVeu that has HI2
+SELECT fJ5MdOtEg.2q FROM dLkZvFLVeu JOIN HI2 AS fJ5MdOtEg ON FODsMhuhPV < 91
+
+Order these records based on the HTMX2J of HI2, and return the top 1 record
+ORDER BY HI2.HTMX2J LIMIT 1
+
+Get KUpI of 20BNLV3t that has 6d
+SELECT 20BNLV3t.KUpI FROM 20BNLV3t JOIN 6d AS KbPT ON MS <= 31
+
+Group the records based on the minimum value of 6V that 5KGct2R9NUSn of 6d is less than OR equal to 77 AND IIiuTEljs7 is not in jN5Jef157az
+GROUP BY MIN ( 6V ) HAVING 6d.5KGct2R9NUSn <= 77 AND IIiuTEljs7 NOT IN jN5Jef157az
+
+Order these records based on the the sum of sfD0F AND sort them in descending order, AND return the top 1 record
+ORDER BY SUM ( sfD0F ) LIMIT 1
+
+Get 2GrvaOF of gZrfSSXRwgfy
+SELECT 2GrvaOF FROM gZrfSSXRwgfy
+
+Get ti3Sc6x7bK of mA
+SELECT ti3Sc6x7bK FROM mA
+
+Keep the records that WHE is 98
+WHERE WHE = 98 
+
+Group the records based on the maximum value of h1Ev that uKG2T of mA is greater than 5 OR oErjTF7 of mA is not in the minimum value of x6a1B9DC of mA AND the minimum value of aM8Dz of mA is less than OR equal to 37
+GROUP BY MAX ( h1Ev ) HAVING mA.uKG2T > 5 OR mA.oErjTF7 NOT IN MIN ( mA.x6a1B9DC ) AND MIN ( mA.aM8Dz ) <= 37
+
+Get ti and saiDzNo of eM that has LO
+SELECT eM.ti , saiDzNo FROM eM JOIN LO
+
+Get p4 of zD
+SELECT zD.p4 FROM zD
+
+Get dgW of zf3xQf
+SELECT dgW FROM zf3xQf
+
+Keep the records that VC0R9zQV is the number of 9RtP9n1 OR x9S30d7q is not 70 OR the maximum value of 1hAtImzjuPV is 18 OR H8V of zf3xQf is greater than OR equal to 75
+WHERE VC0R9zQV = COUNT(9RtP9n1) OR x9S30d7q != 70 OR MAX(1hAtImzjuPV) = 18 OR zf3xQf.H8V >= 75 
+
+Group the records based on the average value of ti7b Jw that So is the maximum value of TijZ9w1xNd5Q
+GROUP BY AVG ( ti7b_Jw ) HAVING So = MAX ( TijZ9w1xNd5Q )
+
+Order these records based on the W7i5X of zf3xQf and sort them in descending order, and return the top 1 record
+ORDER BY zf3xQf.W7i5X LIMIT 1
+
+Get the average value of h6lGkkSHI5 and H9NSh1BYwpf of 1t1se5NS that has baeHq
+SELECT H9NSh1BYwpf FROM 1t1se5NS JOIN baeHq AS y5gKt8iHe ON AVG ( h6lGkkSHI5 ) IN 1t1se5NS.YEWzFRP0Srs
+
+Get the number of nPnEtthx837p
+SELECT COUNT ( * ) FROM nPnEtthx837p
+
+Keep the records that dju73 of nPnEtthx837p is not the number of 4 1mPaiqwWIQF AND the average value of EeoXIbbUT of nPnEtthx837p is not in the maximum value of 8ShMvV8REGA of nPnEtthx837p
+WHERE nPnEtthx837p.dju73 != COUNT(41mPaiqwWIQF) AND AVG(nPnEtthx837p.EeoXIbbUT) NOT IN MAX(nPnEtthx837p.8ShMvV8REGA) 
+
+Group the records based on JojBn8PjB
+GROUP BY JojBn8PjB
+
+Get the average value of tjhRfCaf5nA of xR5ujRsJEw
+SELECT AVG ( xR5ujRsJEw.tjhRfCaf5nA ) FROM xR5ujRsJEw
+
+Keep the records that MYzpl8 of xR5ujRsJEw is not in the average value of 8 0H97DT
+WHERE xR5ujRsJEw.MYzpl8 NOT IN AVG(80H97DT) 
+
+Order these records based on the TVxeU of xR5ujRsJEw, and return the top 1 record
+ORDER BY xR5ujRsJEw.TVxeU LIMIT 1
+
+Get NTTAZ of dj
+SELECT NTTAZ FROM dj
+
+Keep the records that DWEkJTYwnc of dj is in the form of the minimum value of Lw7h
+WHERE dj.DWEkJTYwnc LIKE MIN(Lw7h) 
+
+Group the records based on AqIWfNFu that pH5i7IA0Oo1g of dj is 39 AND the minimum value of qPPio of dj is in the form of y4k1JQQJ9 of dj AND lqV2K3 of dj is in the form of the number of VU0 of dj
+GROUP BY AqIWfNFu HAVING dj.pH5i7IA0Oo1g = 39 AND MIN ( dj.qPPio ) LIKE dj.y4k1JQQJ9 AND dj.lqV2K3 LIKE COUNT ( dj.VU0 )
+
+Order these records based on the 4Frxl1 fv AND sort them in ascending order, AND return the top 1 record
+ORDER BY 4Frxl1_fv LIMIT 1
+
+Get the minimum value of 7rg and 1d8K and Gp D2Kw of Za2Xlgg that has q4LVQp4lQf
+SELECT MIN ( hXfiFhauT.7rg ) , DISTINCT 1d8K , q4LVQp4lQf.Gp_D2Kw FROM Za2Xlgg JOIN q4LVQp4lQf AS hXfiFhauT ON BjC <= 74
+
+Keep the records that the average value of h OLpqs of Za2Xlgg is less than the number of rbvdcrS2NnfQ of q4LVQp4lQf OR the minimum value of GPHsU is the number of 0y0
+WHERE AVG(Za2Xlgg.h_OLpqs) < COUNT(hXfiFhauT.rbvdcrS2NnfQ) OR MIN(GPHsU) = COUNT(0y0) 
+
+Group the records based on the minimum value of CBJnxdmXDhn
+GROUP BY MIN ( CBJnxdmXDhn )
+
+Get the average value of JFjaoMxH and YTL of PasSP that has sR81Ul0T
+SELECT AVG ( sR81Ul0T.JFjaoMxH ) , sR81Ul0T.YTL FROM PasSP JOIN sR81Ul0T AS bxO
+
+Get PatT3rmh0nD4 of 1ENOH7A
+SELECT 1ENOH7A.PatT3rmh0nD4 FROM 1ENOH7A
+
+Keep the records that ZN is less than 57 AND the average value of AAKH of 1ENOH7A is in the maximum value of Q69H
+WHERE ZN < 57 AND AVG(1ENOH7A.AAKH) IN MAX(Q69H)
+
+Get the number of PZM9 that has 0jfvE700ml
+SELECT COUNT ( * ) FROM PZM9 JOIN 0jfvE700ml AS ASvSJ350aJ
+
+Get WssMxkc and YHx of buQ
+SELECT buQ.WssMxkc , YHx FROM buQ
+
+Group the records based on the maximum value of YN
+GROUP BY MAX ( YN )
+
+Get the number of y46FbKQ AND 4j of ZkCiVw2cd that has sBUN3cjn
+SELECT 37BMo7.4j FROM ZkCiVw2cd JOIN sBUN3cjn AS 3 7BMo7 ON ZkCiVw2cd.Q4n2O NOT IN COUNT ( y46FbKQ )
+
+Keep the records that 8mZt5zF is less than or equal to 15 AND jDnU7iCtkf of ZkCiVw2cd is less than 3 XWnCja8Y of 7BMo7 AND IyZIwsiYx4 is less than or equal to 3 p1FfEYP of 7BMo7
+WHERE 8mZt5zF <= 15 AND ZkCiVw2cd.jDnU7iCtkf < 37BMo7.XWnCja8Y AND IyZIwsiYx4 <= 37BMo7.p1FfEYP 
+
+Group the records based on 0l4jHtxnnsUi
+GROUP BY 0l4jHtxnnsUi
+
+Order these records based on the d1 AND sort them in descending order, AND return the top 68 records
+ORDER BY d1 LIMIT 68
+
+Get the average value of 8AVumcXEeF of TvOAb05NbMle that has IzpS0r8jhe
+SELECT AVG ( 8AVumcXEeF ) FROM TvOAb05NbMle JOIN IzpS0r8jhe AS 2cKXzNiB1e
+
+Keep the records that ZM of IzpS0r8jhe is in the form of MYCS of TvOAb05NbMle
+WHERE IzpS0r8jhe.ZM LIKE TvOAb05NbMle.MYCS
+
+Get PM5 of 2rYYfnzoH
+SELECT PM5 FROM 2rYYfnzoH
+
+Get bP of V1IqLK3l that has HeeFe
+SELECT HeeFe.bP FROM V1IqLK3l JOIN HeeFe AS GAxQVQpTmpaR
+
+Group the records based on the average value of C0LyZ of HeeFe that tTOGD of V1IqLK3l is in f7HbWfcnLmoP AND the maximum value of Peh7Zty is greater than or equal to 38
+GROUP BY AVG ( HeeFe.C0LyZ ) HAVING V1IqLK3l.tTOGD_ IN f7HbWfcnLmoP AND MAX ( Peh7Zty ) >= 38
+
+Get the average value of AbtZ8P of 0nJ
+SELECT AVG ( AbtZ8P ) FROM 0nJ
+
+Keep the records that the number of 0nJ 77 of 6hr is greater than 57
+WHERE COUNT(0nJ.776hr) > 57 
+
+Group the records based on the minimum value of J9w7E7
+GROUP BY MIN ( J9w7E7 )
+
+Get jaKe 0J7h of 49R
+SELECT 49R.jaKe_0J7h FROM 49R
+
+Get the sum of rJ8yjYFCU of jua that has IrP8MAS1cd
+SELECT SUM ( jua.rJ8yjYFCU ) FROM jua JOIN IrP8MAS1cd AS YANS7r ON jua.AKft0wM4ECo = 62
+
+Keep the records that dn0 of IrP8MAS1cd is not in 3BHXsUwGM1X of IrP8MAS1cd OR sZgfs is less than OR equal to 51
+WHERE IrP8MAS1cd.dn0 NOT IN YANS7r.3BHXsUwGM1X OR sZgfs <= 51
+
+Get the maximum value of Y45WP9Bp AND SgHcxPrpi of WvDZN that has rcGSo
+SELECT SgHcxPrpi FROM WvDZN JOIN rcGSo AS xn5K7Xy ON MAX ( _Y45WP9Bp ) <= 67
+
+Get the average value of kj4 A8Qu of k5z7xptoajH
+SELECT AVG ( kj4_A8Qu ) FROM k5z7xptoajH
+
+Keep the records that D1uLiyd0F of k5z7xptoajH is greater than or equal to 22
+WHERE k5z7xptoajH.D1uLiyd0F >= 22 
+
+Order these records based on the l5Ts8EM1kXdz and sort them in descending order, and return the top 1 record
+ORDER BY l5Ts8EM1kXdz LIMIT 1
+
+Get the number and 0kOOFu of HNC4pnS
+SELECT HNC4pnS.0kOOFu , COUNT ( * ) FROM HNC4pnS
+
+Keep the records that the maximum value of qUK09OIrw6 of HNC4pnS is greater than 42
+WHERE MAX(HNC4pnS.qUK09OIrw6) > 42 
+
+Group the records based on ofQ1BEyK that gTYjTcW is in the form of the sum of hnpyjXkU5u
+GROUP BY ofQ1BEyK HAVING gTYjTcW LIKE SUM ( hnpyjXkU5u )
+
+Order these records based on the tPpFuG and sort them in descending order, and return the top 1 record
+ORDER BY tPpFuG LIMIT 1
+
+Get m3R of B9XJwsd2FU that has s8
+SELECT s8.m3R FROM B9XJwsd2FU JOIN s8
+
+Group the records based on pUN that J4b6YVPoXHa of B9XJwsd2FU is 50 AND 3d9R2ABHnW of s8 is greater than 23
+GROUP BY pUN HAVING B9XJwsd2FU.J4b6YVPoXHa = 50 AND s8.3d9R2ABHnW > 23
+
+Get the average value of 4ZAS9sx AND the minimum value of Ov AND Up JhdOgDw0 AND 1PCirVLg of Up JhdOgDw0 that has yRJnOKTgs
+SELECT Up_JhdOgDw0 .1 1PCirVLg FROM Up_JhdOgDw0 JOIN yRJnOKTgs ON AVG ( yRJnOKTgs.4ZAS9sx ) IN MIN ( Up_JhdOgDw0.Ov )
+
+Group the records based on the minimum value of LwnyKU2v4aN
+GROUP BY MIN ( LwnyKU2v4aN )
+
+Order these records based on the Z8J5 AND sort them in descending order, AND return the top 1 record
+ORDER BY Z8J5 LIMIT 1
+
+Get the minimum value of distinct Lmo4ofbmn of O5x5 8vU297
+SELECT MIN ( O5x5_8vU297.DISTINCT Lmo4ofbmn ) FROM O5x5_8vU297
+
+Group the records based on the minimum value of Fg
+GROUP BY MIN ( Fg )
+
+Get the sum of ltq of HafWxFAGD
+SELECT SUM ( HafWxFAGD.ltq ) FROM HafWxFAGD
+
+Group the records based on Ycpwmg4ygujf that the sum of 4iSa71 of HafWxFAGD is 45
+GROUP BY Ycpwmg4ygujf HAVING SUM ( HafWxFAGD.4iSa71 ) = 45
+
+Get ThZ3tMGO of J
+SELECT J_.ThZ3tMGO FROM J_
+
+Order these records based on the the minimum value of pSNnsue of J and sort them in descending order, and return the top 1 record
+ORDER BY MIN ( J_.pSNnsue ) LIMIT 1
+
+Get the sum of 5Kjv8N of WZoUR
+SELECT SUM ( WZoUR.5Kjv8N ) FROM WZoUR
+
+Get NMDDtM10 of QJ8
+SELECT NMDDtM10 FROM QJ8
+
+Keep the records that 6Szz of QJ8 is less than OR equal to 21 OR VSF6 of QJ8 is less than OR equal to 58
+WHERE QJ8.6Szz <= 21 OR QJ8.VSF6 <= 58 
+
+Order these records based on the pudRDyTzYZn of QJ8 and sort them in ascending order, and return the top 1 record
+ORDER BY QJ8.pudRDyTzYZn LIMIT 1
+
+Get the minimum value of DG6YA of 2VwDsDqIY that has pt AND mRPX72hqG
+SELECT MIN ( YAB0g.DG6YA ) FROM 2VwDsDqIY JOIN pt AS YAB0g JOIN _mRPX72hqG AS gXgw ON _mRPX72hqG.qhmOh = 3
+
+Keep the records that oL3TPM7s is not 85
+WHERE oL3TPM7s != 85 
+
+Group the records based on LbPVZhnz6
+GROUP BY LbPVZhnz6
+
+Get the average value of C4HahRx6g6I9 and the maximum value of 1on3 and 6CHe4pf5NkBx and Hly of Qzr that has jvkGX4ObOX
+SELECT 6CHe4pf5NkBx , jvkGX4ObOX.Hly FROM Qzr JOIN jvkGX4ObOX AS 4s ON AVG ( 4s.C4HahRx6g6I9 ) < MAX ( 1on3 )
+
+Keep the records that NTRHKYqjFZC of jvkGX4ObOX is in the form of aag
+WHERE jvkGX4ObOX.NTRHKYqjFZC LIKE aag 
+
+Group the records based on J3 that gh4lxv is in x81k of jvkGX4ObOX
+GROUP BY J3 HAVING gh4lxv IN jvkGX4ObOX.x81k
+
+Get EGt of rgbmE that has L0GzSdEiLFiL
+SELECT EGt FROM rgbmE JOIN L0GzSdEiLFiL
+
+Get the minimum value of VkoBS and IMFcTSIod7Kk of Ff0YKpdZ7UZR
+SELECT MIN ( VkoBS ) , IMFcTSIod7Kk FROM Ff0YKpdZ7UZR
+
+Keep the records that the sum of Ffu of Ff0YKpdZ7UZR is not 66
+WHERE SUM(Ff0YKpdZ7UZR.Ffu) != 66
+
+Get the sum of 2g30kO and 0FGAUs of 38h that has kg7muG9a7fal
+SELECT 0FGAUs FROM 38h JOIN kg7muG9a7fal ON SUM ( 2g30kO ) NOT IN 3 8h.YWNsP0M
+
+Group the records based on the average value of DTlCSpdM5PbK that the maximum value of JFHp9ZhPt4fc of kg7muG9a7fal is not in 3 v ktbQz5 of 8h
+GROUP BY AVG ( DTlCSpdM5PbK ) HAVING MAX ( kg7muG9a7fal.JFHp9ZhPt4fc ) NOT IN 3 8h.v_ktbQz5_
+
+Get ZbH2pDvBG of ZfekBbsQrb that has 82
+SELECT 82.ZbH2pDvBG FROM ZfekBbsQrb JOIN 82 AS Yw
+
+Keep the records that the sum of IciOPg8dRXeX is in the maximum value of iq of ZfekBbsQrb
+WHERE SUM(IciOPg8dRXeX) IN MAX(ZfekBbsQrb.iq) 
+
+Group the records based on N rgKwG1EUKx of ZfekBbsQrb that the average value of kXzJ4i is less than or equal to 42
+GROUP BY ZfekBbsQrb.N_rgKwG1EUKx HAVING AVG ( kXzJ4i ) <= 42
+
+Order these records based on the the maximum value of lwbVQuooM and sort them in ascending order, and return the top 1 record
+ORDER BY MAX ( lwbVQuooM ) LIMIT 1
+
+Get the minimum value of Pnda A of RjH859UT9
+SELECT MIN ( RjH859UT9.Pnda_A ) FROM RjH859UT9
+
+Group the records based on fy1LWzkwxO of RjH859UT9
+GROUP BY RjH859UT9.fy1LWzkwxO
+
+Order these records based on the Wn04i and sort them in ascending order, and return the top 1 record
+ORDER BY Wn04i LIMIT 1
+
+Get rbHv2 of GwdawvgDfDRg that has ackfVZ1m0FA
+SELECT ackfVZ1m0FA.rbHv2 FROM GwdawvgDfDRg JOIN ackfVZ1m0FA AS 4 1_Y6YbmHzQz
+
+Keep the records that FSmgC8J5Jr is greater than or equal to 29 AND DLIjdbw4iG of GwdawvgDfDRg is less than or equal to 4 fM08crbZJ of 1 Y6YbmHzQz
+WHERE FSmgC8J5Jr >= 29 AND GwdawvgDfDRg._DLIjdbw4iG <= 41_Y6YbmHzQz.fM08crbZJ 
+
+Group the records based on the number of vXHe34qk0FK of ackfVZ1m0FA
+GROUP BY COUNT ( ackfVZ1m0FA.vXHe34qk0FK )
+
+Get zZ1R0SIGoq of fJFQ0yrY5
+SELECT fJFQ0yrY5.zZ1R0SIGoq FROM fJFQ0yrY5
+
+Keep the records that rYWLRf2d6IVP of fJFQ0yrY5 is greater than or equal to 88 AND the average value of HPwD36f is less than 18
+WHERE fJFQ0yrY5.rYWLRf2d6IVP >= 88 AND AVG(HPwD36f) < 18 
+
+Group the records based on 12Xx
+GROUP BY 12Xx_
+
+Get oDUpngB AND JfMoHi1 of D5Z5q
+SELECT D5Z5q.oDUpngB , JfMoHi1 FROM D5Z5q
+
+Keep the records that Lmyxp4 is in 4XkQP OR i1L6 of D5Z5q is less than 45
+WHERE Lmyxp4 IN 4XkQP OR D5Z5q.i1L6 < 45 
+
+Group the records based on the sum of yqn5ZAR that Mvgs7 CC2hMp of D5Z5q is not in the maximum value of GSF AND the minimum value of a pDMueOd3 of D5Z5q is less than OR equal to 47
+GROUP BY SUM ( yqn5ZAR ) HAVING D5Z5q.Mvgs7_CC2hMp NOT IN MAX ( GSF ) AND MIN ( D5Z5q.a_pDMueOd3 ) <= 47
+
+Get the minimum value of DiGu and the average value of nEQjhkSwnnT0 and the average value of 1Po of lP that has xGEuL
+SELECT MIN ( xGEuL.DiGu ) FROM lP JOIN xGEuL ON AVG ( nEQjhkSwnnT0 ) IN AVG ( 1Po )
+
+Keep the records that RSp6xhMQ of xGEuL is in 4kxxFzb
+WHERE xGEuL.RSp6xhMQ IN 4kxxFzb 
+
+Group the records based on the maximum value of xyAs0funApR
+GROUP BY MAX ( xyAs0funApR )
+
+Order these records based on the 8Do KFnYHHf of xGEuL and sort them in descending order, and return the top 17 records
+ORDER BY xGEuL.8Do_KFnYHHf LIMIT 17
+
+Get the maximum value of Sk of fizSSYuXEs
+SELECT MAX ( Sk ) FROM fizSSYuXEs
+
+Get the average value of 4lAZAwhW29 AND s2i3 of Ju that has yKt2fo
+SELECT yKt2fo.s2i3 FROM Ju JOIN yKt2fo ON AVG ( 4lAZAwhW29 ) NOT IN Ju.xCZbswbApJ8
+
+Keep the records that the maximum value of I9P of yKt2fo is less than or equal to 2
+WHERE MAX(yKt2fo.I9P) <= 2 
+
+Group the records based on the sum of OpDNDI that amMrLdN is less than or equal to 13
+GROUP BY SUM ( OpDNDI ) HAVING amMrLdN <= 13
+
+Get the number of VX3AgI of DTociFaxVA
+SELECT COUNT ( VX3AgI ) FROM DTociFaxVA
+
+Keep the records that DTociFaxVA 9MF is not 97
+WHERE DTociFaxVA.039MF != 97 
+
+Get j1 of MuYfN3O
+SELECT MuYfN3O.j1 FROM MuYfN3O
+
+Keep the records that ktGs55N is 56
+WHERE ktGs55N = 56 
+
+Get HBUTcsardI of gNpn9N5L
+SELECT HBUTcsardI_ FROM gNpn9N5L
+
+Keep the records that the average value of KiiY of gNpn9N5L is in the form of the maximum value of JPZ
+WHERE AVG(gNpn9N5L.KiiY) LIKE MAX(JPZ)
+
+Get the minimum value of 1T of EjV
+SELECT MIN ( EjV.1T ) FROM EjV
+
+Keep the records that uFZX9tyr3c6 is greater than or equal to 85
+WHERE uFZX9tyr3c6 >= 85 
+
+Group the records based on 5A9 that the minimum value of fS7 is not in the number
+GROUP BY 5A9 HAVING MIN ( fS7 ) NOT IN COUNT ( * )
+
+Get 0CSm1NRJTnuo of zyPdhN
+SELECT zyPdhN.0CSm1NRJTnuo FROM zyPdhN
+
+Order these records based on the the maximum value of u5g4z of zyPdhN and sort them in ascending order, and return the top 1 record
+ORDER BY MAX ( zyPdhN.u5g4z ) LIMIT 1
+
+Get dszeNdfur of Lx1j6vFo that has PDHFnl3
+SELECT Lx1j6vFo.dszeNdfur FROM Lx1j6vFo JOIN PDHFnl3
+
+Keep the records that dTHJd rCMBB of PDHFnl3 is greater than 25 AND the maximum value of fSy8rA is not 34
+WHERE PDHFnl3.dTHJd_rCMBB > 25 AND MAX(fSy8rA) != 34 
+
+Group the records based on 4UhEXHdBnHJ that nLwzGWd8NPMC is not in YyrIYFk of Lx1j6vFo AND MQM is less than 91 OR the minimum value of bGgzLzby5 is not 44
+GROUP BY 4UhEXHdBnHJ HAVING nLwzGWd8NPMC NOT IN Lx1j6vFo.YyrIYFk AND MQM < 91 OR MIN ( bGgzLzby5 ) != 44
+
+Order these records based on the the average value of hN AND sort them in ascending order, AND return the top 44 records
+ORDER BY AVG ( hN ) LIMIT 44
+
+Get the maximum value of N5KGHFAmaQe1 and the minimum value of 0XfAEd KpNlNPMAA5pL of pR that has 0XfAEd
+SELECT MAX ( N5KGHFAmaQe1 ) , MIN ( 0XfAEd JVa1K.KpNlNPMAA5pL ) FROM pR JOIN 0XfAEd JVa1K AS zsuFm3A74CX ON o9 <= 84
+
+Keep the records that L2geVwkl of JVa1K is less than 23
+WHERE 0XfAEdJVa1K.L2geVwkl < 23
+
+Get the sum of BqmzUFHGSWi9 of Tebim that has x6jT72oXvic
+SELECT SUM ( x6jT72oXvic.BqmzUFHGSWi9 ) FROM Tebim JOIN x6jT72oXvic AS OQa
+
+Keep the records that hPCU is 82 OR hsni of x6jT72oXvic is not in aZ1lNxMqcC OR the minimum value of BRoL7 of x6jT72oXvic is 90
+WHERE hPCU = 82 OR OQa.hsni NOT IN aZ1lNxMqcC OR MIN(x6jT72oXvic.BRoL7) = 90
+
+Get the minimum value of kv AND Wb yFx5f3Ocp of F3xwhlP
+SELECT Wb_yFx5f3Ocp , MIN ( kv ) FROM F3xwhlP
+
+Keep the records that the number of k5d3 is not 83 AND Wusk of F3xwhlP is in the form of fuj OR the average value of 4wP of F3xwhlP is in the form of ka4Q XW3sC of F3xwhlP
+WHERE COUNT(k5d3) != 83 AND F3xwhlP.Wusk LIKE fuj OR AVG(F3xwhlP.4wP) LIKE F3xwhlP.ka4Q_XW3sC
+
+Get the average value of HHiKGMGITLF AND TmpKRM9jLgf of KGK7zopu4 that has qAES1y
+SELECT TmpKRM9jLgf FROM KGK7zopu4 JOIN qAES1y AS 9MrzJMMFO7fo ON AVG ( HHiKGMGITLF ) < 94
+
+Keep the records that lnu291 is greater than k8 OR xFpmvbg6 1 is not in the sum of I5
+WHERE lnu291 > k8 OR xFpmvbg6_1 NOT IN SUM(I5) 
+
+Order these records based on the Yog AND sort them in ascending order, AND return the top 1 record
+ORDER BY Yog LIMIT 1
+
+Get Q5tIt8Ow of ViSiyA
+SELECT Q5tIt8Ow FROM ViSiyA
+
+Get j2AJ8F and D 7smMAA of 9LF6ynBbV1 that has Fy4keK4d437
+SELECT recxWgNisc.j2AJ8F , 9LF6ynBbV1.D_7smMAA FROM 9LF6ynBbV1 JOIN Fy4keK4d437 AS recxWgNisc ON pxeO9v >= 81
+
+Order these records based on the Ya9MlmL of Fy4keK4d437, and return the top 1 record
+ORDER BY recxWgNisc.Ya9MlmL LIMIT 1
+
+Get AoGI70o5CK5x of qfuoSiyyG
+SELECT DISTINCT AoGI70o5CK5x FROM qfuoSiyyG
+
+Keep the records that the sum of V6vRmfD2 of qfuoSiyyG is less than the maximum value of 7rN of qfuoSiyyG
+WHERE SUM(qfuoSiyyG.V6vRmfD2) < MAX(qfuoSiyyG.7rN) 
+
+Group the records based on the number of ecjKUO
+GROUP BY COUNT ( ecjKUO )
+
+Get MRi0rJY of EziIDo Zh that has FHcQWVLN
+SELECT FHcQWVLN.MRi0rJY FROM EziIDo_Zh JOIN FHcQWVLN
+
+Get the number of EHtyMUpHae1 of CV2t
+SELECT COUNT ( EHtyMUpHae1 ) FROM CV2t
+
+Keep the records that I9f6 of CV2t is greater than or equal to 93
+WHERE CV2t.I9f6 >= 93 
+
+Group the records based on the sum of L3d
+GROUP BY SUM ( L3d )
+
+Get Nktlwax of hDBtHH
+SELECT Nktlwax FROM hDBtHH
+
+Keep the records that xyy of hDBtHH is greater than or equal to 69
+WHERE hDBtHH.xyy >= 69 
+
+Group the records based on 8ozs of hDBtHH that UIhQIWkBSng of hDBtHH is less than or equal to 80
+GROUP BY hDBtHH.8ozs HAVING hDBtHH.UIhQIWkBSng <= 80
+
+Get the sum of I9Jh0S and K2flJMLMaHw and wQxcrV of wUntv08j that has wIBY
+SELECT 0Q8wA1KFef7.K2flJMLMaHw , wQxcrV FROM wUntv08j JOIN wIBY AS 0Q8wA1KFef7 ON SUM ( I9Jh0S ) < 61
+
+Keep the records that ruhBKkHEweRG is 74
+WHERE ruhBKkHEweRG = 74 
+
+Group the records based on TE 3V1HC5z of wIBY
+GROUP BY wIBY.TE_3V1HC5z
+
+Get q84bkAI2LFO of Zxy
+SELECT q84bkAI2LFO FROM Zxy
+
+Keep the records that the maximum value of nuVx of Zxy is not Xb92 Dtm of Zxy
+WHERE MAX(Zxy.nuVx) != Zxy.Xb92_Dtm 
+
+Group the records based on the sum of Zxy 2 of 8moiInONdl that 1VJPfnG8 of Zxy is not 71
+GROUP BY SUM ( Zxy .2 8moiInONdl ) HAVING Zxy.1VJPfnG8 != 71
+
+Get C3HOlLgr4497 of D7Bxc
+SELECT D7Bxc.C3HOlLgr4497 FROM D7Bxc
+
+Keep the records that the maximum value of FZlugZs17 is less than or equal to L8juHGkixPt of D7Bxc
+WHERE MAX(FZlugZs17) <= D7Bxc.L8juHGkixPt 
+
+Get the sum of 5uBEcH7KK of 7hxmvp
+SELECT SUM ( 5uBEcH7KK ) FROM 7hxmvp
+
+Group the records based on XMCWNk4dQQab
+GROUP BY XMCWNk4dQQab
+
+Get the sum of KVvdm a9Rd of t5
+SELECT SUM ( _KVvdm_a9Rd ) FROM t5
+
+Get Ezzj1ouGn of hsjqE3UNH
+SELECT hsjqE3UNH.Ezzj1ouGn FROM hsjqE3UNH
+
+Keep the records that the average value of LzRRYHRZFeez is less than 82
+WHERE AVG(LzRRYHRZFeez) < 82 
+
+Group the records based on vu
+GROUP BY vu
+
+Get 9zitvz OrKcJ of MtU9 0Glh
+SELECT DISTINCT 9zitvz_OrKcJ FROM MtU9_0Glh
+
+Get the maximum value of E7zEOI jmH2 of w5I16OHcw
+SELECT MAX ( w5I16OHcw.E7zEOI_jmH2 ) FROM w5I16OHcw
+
+Keep the records that IpeGews9 of w5I16OHcw is in the maximum value of j9
+WHERE w5I16OHcw.IpeGews9 IN MAX(j9) 
+
+Group the records based on ElP of w5I16OHcw
+GROUP BY w5I16OHcw.ElP
+
+Order these records based on the uUX of w5I16OHcw and sort them in ascending order, and return the top 1 record
+ORDER BY w5I16OHcw.uUX LIMIT 1
+
+Get Ukec3zV1WO4H of j7
+SELECT j7.Ukec3zV1WO4H FROM j7
+
+Keep the records that the sum of GckuTZ is not in the sum of RHZWy OR HtIYAcVLv is greater than 70 AND the sum of JQZ9Yw is not in ywoEtApad
+WHERE SUM(GckuTZ) NOT IN SUM(RHZWy) OR _HtIYAcVLv > 70 AND SUM(JQZ9Yw) NOT IN ywoEtApad
+
+Get distinct and T9i8CC8X of B7msj26
+SELECT B7msj26.DISTINCT T9i8CC8X FROM B7msj26
+
+Keep the records that vT is in the form of qwrqziCUR1 of B7msj26
+WHERE vT LIKE B7msj26.qwrqziCUR1
+
+Get the average value of hvO of Zi7KtHjj4kgh
+SELECT AVG ( hvO ) FROM Zi7KtHjj4kgh
+
+Keep the records that TvAq6mNdk of Zi7KtHjj4kgh is greater than or equal to 48
+WHERE Zi7KtHjj4kgh.TvAq6mNdk >= 48 
+
+Group the records based on the sum of zq8u3c of Zi7KtHjj4kgh that 8ZN26 XlypUK of Zi7KtHjj4kgh is greater than 13
+GROUP BY SUM ( Zi7KtHjj4kgh.zq8u3c ) HAVING Zi7KtHjj4kgh.8ZN26_XlypUK > 13
+
+Get the sum of distinct YMlU4ots of LIxqOIz that has 31Kqa67vwqd
+SELECT SUM ( DISTINCT YMlU4ots ) FROM LIxqOIz JOIN 31Kqa67vwqd
+
+Get the average value of jrayEc and the maximum value of cmk and q0 of sfZM that has oVKs and jlrjHl2 and DsX and iaN9z4RQ3
+SELECT q0 FROM sfZM JOIN oVKs ON uMWmyJXvm >= 56 JOIN jlrjHl2 ON AVG ( jrayEc ) LIKE sfZM.2VPaLQs JOIN DsX AS eMuXlG0 ON MAX ( _cmk ) < 79 OR iaN9z4RQ3.iNdj != 49 JOIN iaN9z4RQ3
+
+Get Yx of zCkSmCTD9sGZ that has usere7YOU
+SELECT zCkSmCTD9sGZ.Yx FROM zCkSmCTD9sGZ JOIN usere7YOU
+
+Keep the records that KC1DMloNpHZ of usere7YOU is greater than or equal to 9fbGm26u of zCkSmCTD9sGZ
+WHERE usere7YOU.KC1DMloNpHZ >= zCkSmCTD9sGZ.9fbGm26u 
+
+Group the records based on nOmcY of usere7YOU
+GROUP BY usere7YOU.nOmcY
+
+Get FYuXHz of p8KRVl2SbIXp that has fEFFK
+SELECT p8KRVl2SbIXp.FYuXHz FROM p8KRVl2SbIXp JOIN fEFFK
+
+Keep the records that nf YpxmdR of p8KRVl2SbIXp in the number of fEFFK 0 of 1A 1RjRW AND Z2FCXSSt of p8KRVl2SbIXp is not in XVbQ5 of fEFFK
+WHERE p8KRVl2SbIXp.nf_YpxmdR IN COUNT(fEFFK.01A_1RjRW) AND p8KRVl2SbIXp.Z2FCXSSt NOT IN fEFFK.XVbQ5 
+
+Order these records based on the the maximum value of wUDV FQG AND sort them in ascending order, AND return the top 1 record
+ORDER BY MAX ( wUDV_FQG ) LIMIT 1
+
+Get ICG of E5J
+SELECT E5J.ICG FROM E5J
+
+Get the minimum value of distinct 0 4jMXS2qs of BGPq8rqu that has Zk2kDDCzk63d and z4s
+SELECT MIN ( DISTINCT 0 4jMXS2qs ) FROM BGPq8rqu JOIN Zk2kDDCzk63d JOIN z4s AS AFQ5GAfgMtwr
+
+Keep the records that the minimum value of YCSv3lXQ is less than OR equal to 4
+WHERE MIN(YCSv3lXQ) <= 4 
+
+Group the records based on the sum of G0jzn of z4s that the average value of RiEFhbpH8Mp is not in the average value of 3ff of z4s OR the number is greater than OR equal to 91
+GROUP BY SUM ( z4s.G0jzn ) HAVING AVG ( RiEFhbpH8Mp ) NOT IN AVG ( AFQ5GAfgMtwr.3ff ) OR COUNT ( * ) >= 91
+
+Order these records based on the n6iCpiGgu and sort them in ascending order, and return the top 1 record
+ORDER BY n6iCpiGgu LIMIT 1
+
+Get the number of 8HZnXnUCf AND YL4WO2 of pA5XSVX8c that has uLUU
+SELECT DISTINCT YL4WO2 FROM pA5XSVX8c JOIN uLUU AS HXnTXIBl ON eMfIor5zgOd != COUNT ( 8HZnXnUCf )
+
+Keep the records that the sum of dKf of pA5XSVX8c is not in 3bvpq2lV0C AND wA2ZGfL is the number of png1uP
+WHERE SUM(pA5XSVX8c.dKf) NOT IN 3bvpq2lV0C AND wA2ZGfL = COUNT(png1uP) 
+
+Get x9CT15 of S1YJQBEHJAvt
+SELECT S1YJQBEHJAvt.x9CT15 FROM S1YJQBEHJAvt
+
+Keep the records that the average value of C is less than 4
+WHERE AVG(C_) < 4 
+
+Order these records based on the the sum of ZP6 L and sort them in descending order, and return the top 1 record
+ORDER BY SUM ( ZP6_L ) LIMIT 1
+
+Get ZrmGErm of 8I2Yk2 that has HwhohTIn
+SELECT ZrmGErm FROM 8I2Yk2 JOIN HwhohTIn AS yYH9nOE
+
+Keep the records that EOeawVjV8 is 60 OR the number of lH1IvT8 Vt is not in the average value of rkBsJQ6zvbXW
+WHERE EOeawVjV8 = 60 OR COUNT(lH1IvT8_Vt) NOT IN AVG(rkBsJQ6zvbXW) 
+
+Order these records based on the rEm70pdJsT of HwhohTIn and sort them in ascending order, and return the top 1 record
+ORDER BY yYH9nOE.rEm70pdJsT LIMIT 1
+
+Get xb of IR7eJUqTP
+SELECT xb FROM IR7eJUqTP
+
+Keep the records that EQTSXZTv of IR7eJUqTP is less than 63
+WHERE IR7eJUqTP.EQTSXZTv < 63 
+
+Get QJJe4Rvk3kgz and 8tQvd of P9E3JaKmc
+SELECT P9E3JaKmc.QJJe4Rvk3kgz , 8tQvd FROM P9E3JaKmc
+
+Order these records based on the mS of P9E3JaKmc and sort them in descending order, and return the top 38 records
+ORDER BY P9E3JaKmc.mS LIMIT 38
+
+Get urBMGku10 of hEHNHI6eIto0
+SELECT hEHNHI6eIto0.urBMGku10 FROM hEHNHI6eIto0
+
+Group the records based on IH of hEHNHI6eIto0
+GROUP BY hEHNHI6eIto0.IH
+
+Get distinct and nSPDi3vI of NidwD that has P3NqVkt
+SELECT NCkDGkbKM.DISTINCT nSPDi3vI FROM NidwD JOIN P3NqVkt AS NCkDGkbKM
+
+Get zIwgZ of vvZi8yNe8X
+SELECT vvZi8yNe8X.zIwgZ FROM vvZi8yNe8X
+
+Keep the records that yPBWt6dYlVs of vvZi8yNe8X is less than 26
+WHERE vvZi8yNe8X.yPBWt6dYlVs < 26 
+
+Group the records based on LN6Gv jsE
+GROUP BY LN6Gv_jsE
+
+Get the maximum value of F1 and hfi of oFRuLfrlzY that has FMbq4GuZ
+SELECT FMbq4GuZ.hfi , MAX ( F1_ ) FROM oFRuLfrlzY JOIN FMbq4GuZ
+
+Keep the records that oFRuLfrlzY 4PBa0dX is not in ilW of FMbq4GuZ
+WHERE oFRuLfrlzY.704PBa0dX NOT IN FMbq4GuZ.ilW 
+
+Group the records based on the number that qD58E is in the minimum value of Zis of oFRuLfrlzY
+GROUP BY COUNT ( * ) HAVING qD58E IN MIN ( oFRuLfrlzY.Zis )
+
+Get ZuCOLEx and P0xu of wQzJhe that has 7VSqDvc3
+SELECT 7VSqDvc3.ZuCOLEx , 7VSqDvc3.P0xu FROM wQzJhe JOIN 7VSqDvc3 ON uXq != 40
+
+Group the records based on td that the minimum value of 3LHea143QZ of wQzJhe is not 5
+GROUP BY td HAVING MIN ( wQzJhe.3LHea143QZ ) != 5
+
+Get the minimum value of distinct nsElW8Lw8 of j2 that has kFw and kE5KBch
+SELECT MIN ( DISTINCT nsElW8Lw8 ) FROM j2 JOIN kFw JOIN kE5KBch ON 8utzVZIFG7V9 > 56
+
+Group the records based on 1t
+GROUP BY 1t
+
+Get the sum of distinct JaQDW of UHGCGGnKSeh
+SELECT SUM ( UHGCGGnKSeh.DISTINCT JaQDW ) FROM UHGCGGnKSeh
+
+Keep the records that Dh4q of UHGCGGnKSeh is not in the sum of gsH1TaMQEVqa
+WHERE UHGCGGnKSeh.Dh4q NOT IN SUM(gsH1TaMQEVqa) 
+
+Group the records based on the sum of O1i of UHGCGGnKSeh
+GROUP BY SUM ( UHGCGGnKSeh.O1i )
+
+Get the minimum value of e7fsqD of syg9Y
+SELECT MIN ( syg9Y.e7fsqD ) FROM syg9Y
+
+Get the average value of TW of MZdxBnCcpYB6 that has 2NisbYQ5G9a
+SELECT AVG ( TW ) FROM MZdxBnCcpYB6 JOIN 2NisbYQ5G9a ON 2NisbYQ5G9a.IyTr > 76
+
+Group the records based on the number of NSYCgaN6Z
+GROUP BY COUNT ( NSYCgaN6Z )
+
+Get the maximum value of distinct iLb3mNkO and Ev of KXft
+SELECT MAX ( KXft.DISTINCT iLb3mNkO ) , KXft.Ev FROM KXft
+
+Keep the records that g4SAwXgATOPz is not in p7 of KXft
+WHERE g4SAwXgATOPz NOT IN KXft.p7 
+
+Group the records based on t rFjZizX9B7 of KXft that the minimum value of KWU is greater than 80
+GROUP BY KXft.t_rFjZizX9B7 HAVING MIN ( KWU ) > 80
+
+Get RxWqLeO of hqIP
+SELECT hqIP.RxWqLeO FROM hqIP
+
+Group the records based on the minimum value of glo
+GROUP BY MIN ( glo )
+
+Order these records based on the Op091rJtC of hqIP and sort them in descending order, and return the top 1 record
+ORDER BY hqIP.Op091rJtC LIMIT 1
+
+Get the number of f0dYWxoP3sS of GFMguTChoHr
+SELECT COUNT ( f0dYWxoP3sS ) FROM GFMguTChoHr
+
+Get the average value of distinct EOrznRUcU of k735uW2S that has dOj31n
+SELECT AVG ( DISTINCT EOrznRUcU ) FROM k735uW2S JOIN dOj31n
+
+Get w8PUUz of yNA that has XE8fbz
+SELECT UWp3633k0.w8PUUz FROM yNA JOIN XE8fbz AS UWp3633k0 ON GkWJcIM9IOG IN UWp3633k0.uUKD9VeK
+
+Group the records based on the average value of fcftw0oXQ7bZ of XE8fbz that yT13a1w7h is less than or equal to 70
+GROUP BY AVG ( XE8fbz.fcftw0oXQ7bZ ) HAVING yT13a1w7h <= 70
+
+Get OgdOG5ZqyO of f1a7
+SELECT f1a7.OgdOG5ZqyO FROM f1a7
+
+Keep the records that chrAxxajji of f1a7 is not 9
+WHERE f1a7.chrAxxajji != 9
+
+Get SIS GaM of sYNOZgRF4o9 that has 0p4vO
+SELECT SIS_GaM FROM sYNOZgRF4o9 JOIN 0p4vO
+
+Keep the records that 3Ch2RaYmpamn of 0p4vO is not 21
+WHERE 0p4vO.3Ch2RaYmpamn != 21 
+
+Group the records based on the number of Tx that AiZg9tSNX of 0p4vO is in the form of 7o68NJmf
+GROUP BY COUNT ( Tx ) HAVING 0p4vO.AiZg9tSNX LIKE 7o68NJmf
+
+Get pIU0Bcu of yJSQsFjRq that has riJ
+SELECT 3kPHsNTkvxCS.pIU0Bcu FROM yJSQsFjRq JOIN riJ AS 3kPHsNTkvxCS
+
+Keep the records that XQhkJS of riJ is in the form of the sum of Xzmy of riJ
+WHERE riJ.XQhkJS LIKE SUM(riJ.Xzmy) 
+
+Get the maximum value of 3btI1j AND the number AND the number of di8jfTV42LO that has wfRwSR8 AND k0LWALKJQC9
+SELECT MAX ( _YdVz0jAq50.3btI1j ) FROM di8jfTV42LO JOIN wfRwSR8 AS IZo5PNgCr ON a1f < k0LWALKJQC9.XOF048cvyp OR COUNT ( * ) = 27 AND PNOvEZ LIKE COUNT ( * ) JOIN k0LWALKJQC9 AS _YdVz0jAq50 ON IZo5PNgCr.QS = 28
+
+Keep the records that R7Cc79joPm is in TrRedwlXd
+WHERE R7Cc79joPm IN TrRedwlXd 
+
+Group the records based on hEuZcGVvKd
+GROUP BY hEuZcGVvKd
+
+Get the minimum value of nMaFy of proOgq9kJL
+SELECT MIN ( nMaFy ) FROM proOgq9kJL
+
+Group the records based on the sum of proOgq9kJL 69 of that the number of XCr0qcWMy7p is greater than 42 OR C6q is less than 4
+GROUP BY SUM ( proOgq9kJL .69 ) HAVING COUNT ( XCr0qcWMy7p ) > 42 OR C6q < 4
+
+Get the maximum value of uUEJDLq8p7 of T6j12Z that has 4UohX1Kh
+SELECT MAX ( uUEJDLq8p7 ) FROM T6j12Z JOIN 4UohX1Kh AS smOv
+
+Keep the records that UF of T6j12Z is less than or equal to the maximum value of YAOa
+WHERE T6j12Z.UF <= MAX(YAOa) 
+
+Group the records based on g of T6j12Z that JqKiS5Vlr is not 81 AND 1Y2 is in the minimum value of wMW1vzkFEZZ
+GROUP BY T6j12Z.g_ HAVING JqKiS5Vlr != 81 AND 1Y2 IN MIN ( wMW1vzkFEZZ )
+
+Get cirDo of GaUR2Co8
+SELECT cirDo FROM GaUR2Co8
+
+Get the number of v4ATCbuXXG that has ld
+SELECT COUNT ( * ) FROM v4ATCbuXXG JOIN ld AS REI ON v4ATCbuXXG.KAw2UbH > 5
+
+Keep the records that the sum of yzY9KAcyNrU is less than or equal to 14
+WHERE SUM(yzY9KAcyNrU) <= 14
+
+Get the sum of oIPs6N AND the average value of bP AND the number of QQuxIxpb2keT AND IXrVfiEXb of O3BdCS that has XhAj3koroR AND qc87Z4ADHM
+SELECT SUM ( oIPs6N ) , IXrVfiEXb FROM O3BdCS JOIN XhAj3koroR AS Xunf ON AVG ( bP ) IN SwxXiIi2A OR JI6 LIKE qc87Z4ADHM.iFNDYCLPcDkT AND COUNT ( QQuxIxpb2keT ) < 43 JOIN qc87Z4ADHM AS gaZi63ZA
+
+Order these records based on the S bZuhU of O3BdCS AND sort them in descending order, AND return the top 1 record
+ORDER BY O3BdCS.S_bZuhU LIMIT 1
+
+Get the maximum value of TLZPdzv3Jq AND the number of YDYfA 8q5d that has cRL4cFFNM QE
+SELECT MAX ( TLZPdzv3Jq ) FROM YDYfA_8q5d JOIN cRL4cFFNM_QE ON COUNT ( * ) < 56
+
+Keep the records that wZmR2 is 22 AND Q0pk is in riUmFi
+WHERE wZmR2 = 22 AND Q0pk IN riUmFi 
+
+Group the records based on the average value of PJ98eZWy
+GROUP BY AVG ( PJ98eZWy )
+
+Get o0eLJ AND za58E of JT5Bm2hC147
+SELECT JT5Bm2hC147.o0eLJ , za58E FROM JT5Bm2hC147
+
+Group the records based on the minimum value of KXA that the average value of qd is not 9 AND the minimum value of uudMplnxYys of JT5Bm2hC147 is less than 54 OR JT5Bm2hC147 0GdHcoqlk is not in the maximum value of tio7h7qE
+GROUP BY MIN ( KXA ) HAVING AVG ( qd ) != 9 AND MIN ( JT5Bm2hC147.uudMplnxYys ) < 54 OR JT5Bm2hC147 .7 0GdHcoqlk NOT IN MAX ( tio7h7qE )
+
+Get the average value of AH6O8xgLN and OMG of quY93JPdGg that has 8NfmAoVWX and T3VSeaDSr8
+SELECT T3VSeaDSr8.OMG FROM quY93JPdGg JOIN 8NfmAoVWX ON AVG ( KKe4.AH6O8xgLN ) <= 22 JOIN T3VSeaDSr8 AS KKe4
+
+Get the minimum value of e6Z3fVbwo and the minimum value of V5NCtthX gP and S5LycyY of 4O that has CWMJI
+SELECT 4O.S5LycyY , MIN ( e6Z3fVbwo ) FROM 4O JOIN CWMJI AS YnTDGMcBOZ ON CWMJI .6 6FtrnY > MIN ( YnTDGMcBOZ.V5NCtthX_gP )
+
+Keep the records that s6OOmqr of 4O is in the form of the number
+WHERE 4O.s6OOmqr LIKE COUNT(*) 
+
+Get the sum of 5mbuj of jjVQ4 that has mqv9FtMP
+SELECT SUM ( 5mbuj ) FROM jjVQ4 JOIN mqv9FtMP AS 005 9cCxVvlA
+
+Group the records based on the sum of hO1LdsA that the minimum value of iSieJuC4VvP of jjVQ4 is not Gw AND QIZ8T6cnXE of mqv9FtMP is less than 16
+GROUP BY SUM ( hO1LdsA ) HAVING MIN ( jjVQ4.iSieJuC4VvP ) != Gw AND mqv9FtMP.QIZ8T6cnXE < 16
+
+Get QLh7J of 3amUTBQkXMW2 that has XrXKisPq and 3PL3XfiG
+SELECT QLh7J FROM 3amUTBQkXMW2 JOIN XrXKisPq AS SNxW_VDXBq ON SNxW_VDXBq.UsWGwW LIKE ljXunusqOLP JOIN 3PL3XfiG
+
+Group the records based on the minimum value of NaA0sywL of XrXKisPq
+GROUP BY MIN ( SNxW_VDXBq.NaA0sywL )
+
+Get UOnf0kw and LM5Om of tbnWqUJ
+SELECT UOnf0kw , LM5Om FROM tbnWqUJ
+
