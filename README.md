@@ -1,5 +1,5 @@
-# STEPS
-Interactive SQL generation via editable step-by-step explanation
+# Paper
+[Interactive Text-to-SQL Generation via Editable Step-by-Step Explanations](https://arxiv.org/abs/2305.07372)
 
 
 ### Dataset
