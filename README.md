@@ -24,6 +24,6 @@
 
 
 *This repository is currently being updated, and more details will be provided in the future.*
-*If you have any questions, please feel free to email* ***tian211@purdue.edu***\
+*If you have any questions, please feel free to email* ***tian211@purdue.edu***
 
 *Thanks!*
