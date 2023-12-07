@@ -1,7 +1,10 @@
 # STEPS
 
+![image](https://github.com/magic-YuanTian/STEPS/assets/75125334/74bd2efb-fa87-48c7-8088-f096cfeb5393)
+
 ### Paper
 [Interactive Text-to-SQL Generation via Editable Step-by-Step Explanations](https://arxiv.org/abs/2305.07372)
+
 
 
 ### Dataset
@@ -20,6 +23,8 @@
 1. Our text-to-clause model is based on [SmBoP](https://github.com/OhadRubin/SmBop), and you can strictly follow their environment and settings.
 2. You can directly download and reuse our [check point](https://drive.google.com/file/d/1uQc5nRaLgqgNrAVSIvaXPVXeqFm08deu/view?usp=sharing) as well as configuration file. 
   - Please replace the original configuration file with ours!
+
+
 
 
 
