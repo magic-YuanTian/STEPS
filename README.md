@@ -2,9 +2,11 @@
 
 ![image](https://github.com/magic-YuanTian/STEPS/assets/75125334/74bd2efb-fa87-48c7-8088-f096cfeb5393)
 
+
+[**Demo Video**](https://youtu.be/HuhCQawVveA)
+
 ### Paper
 [Interactive Text-to-SQL Generation via Editable Step-by-Step Explanations](https://arxiv.org/abs/2305.07372)
-
 
 
 ### Dataset
