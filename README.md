@@ -21,7 +21,7 @@
 
 ### Models
 1. Our text-to-clause model is based on [SmBoP](https://github.com/OhadRubin/SmBop), and you can strictly follow their environment and settings.
-2. You can directly download and reuse our [check point](https://purdue0-my.sharepoint.com/personal/tian211_purdue_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftian211%5Fpurdue%5Fedu%2FDocuments%2FSTEPS%2FmodelS%2Etar%2Egz&parent=%2Fpersonal%2Ftian211%5Fpurdue%5Fedu%2FDocuments%2FSTEPS) as well as configuration file. 
+2. You can directly download and reuse our [check point](https://purdue0-my.sharepoint.com/personal/tian211_purdue_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftian211%5Fpurdue%5Fedu%2FDocuments%2FSTEPS%2FmodelS%2Etar%2Egz&parent=%2Fpersonal%2Ftian211%5Fpurdue%5Fedu%2FDocuments%2FSTEPS) ([huggingface] link(https://huggingface.co/DoctorChaos/text-to-SQL-clause-smbop/blob/main/README.md)) as well as configuration file. 
   - Please replace the original configuration file with ours!
 
 
