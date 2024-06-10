@@ -24,6 +24,57 @@
 2. You can directly download and reuse our [check point](https://purdue0-my.sharepoint.com/personal/tian211_purdue_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftian211%5Fpurdue%5Fedu%2FDocuments%2FSTEPS%2FmodelS%2Etar%2Egz&parent=%2Fpersonal%2Ftian211%5Fpurdue%5Fedu%2FDocuments%2FSTEPS) ([HuggingFace](https://huggingface.co/DoctorChaos/text-to-SQL-clause-smbop/blob/main/README.md)) as well as configuration file. 
   - Please replace the original configuration file with ours!
 
+### NL Explanation Generation
+[SQL2NL_clean.py](https://github.com/magic-YuanTian/STEPS/blob/main/SQL2NL_clean.py) includes a simple example to run:
+```
+from SQL2NL_clean import sql2nl
+SQL = "SELECT * FROM STUDENT"  # input your SQL here
+explanation_data = sql2nl(SQL)  # Generate explanation data
+```
+
+The `sql2nl` method automatically outputs the step-by-step explanation to console:
+<img width="1079" alt="Screenshot 2024-06-10 at 11 03 39 AM" src="https://github.com/magic-YuanTian/STEPS/assets/75125334/282079ad-1f48-474c-bec1-f9e991a68be2">
+
+The `explanation_data` includes the json format data:
+```
+[
+    {'number': 'Start first query,', 'subquery': 'SELECT first_name , last_name FROM players GROUP BY birth_date HAVING COUNT ( * ) > 1 ORDER BY birth_date LIMIT 1', 'explanation': [
+            {'subexpression': 'FROM players', 'explanation': 'In table players'
+            },
+            {'subexpression': 'GROUP BY birth_date', 'explanation': 'Group the records based on the birth date'
+            },
+            {'subexpression': 'HAVING COUNT ( * ) > 1', 'explanation': 'Keep the groups where the number of records is greater than 1'
+            },
+            {'subexpression': 'ORDER BY birth_date LIMIT 1', 'explanation': 'Sort the records in ascending order based on the birth date, and return the first record'
+            },
+            {'subexpression': 'SELECT first_name , last_name', 'explanation': 'Return the first name and the last name'
+            }
+        ], 'supplement': ''
+    },
+    {'number': 'Start second query,', 'subquery': 'SELECT first_name , last_name FROM players WHERE first_name = "TOM" GROUP BY birth_date HAVING COUNT ( * ) > 1 ORDER BY birth_date LIMIT 1', 'explanation': [
+            {'subexpression': 'FROM players', 'explanation': 'In table players'
+            },
+            {'subexpression': 'WHERE first_name = "TOM"', 'explanation': 'Keep the records where the first name is "TOM"'
+            },
+            {'subexpression': 'GROUP BY birth_date', 'explanation': 'Group the records based on the birth date'
+            },
+            {'subexpression': 'HAVING COUNT ( * ) > 1', 'explanation': 'Keep the groups where the number of records is greater than 1'
+            },
+            {'subexpression': 'ORDER BY birth_date LIMIT 1', 'explanation': 'Sort the records in ascending order based on the birth date, and return the first record'
+            },
+            {'subexpression': 'SELECT first_name , last_name', 'explanation': 'Return the first name and the last name'
+            }
+        ], 'supplement': ''
+    },
+    {'number': 'Start third query,', 'subquery': 'SELECT *', 'explanation': [
+            {'subexpression': 'SELECT *', 'explanation': 'Keep the intersection of first query result and second query result.'
+            }
+        ], 'supplement': ''
+    }
+]
+```
+
+
 
 **To help you understand the project logic, we also encapsulate most of the project folder. You can directly download it to check the configuration. [Folder](https://purdue0-my.sharepoint.com/personal/tian211_purdue_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftian211%5Fpurdue%5Fedu%2FDocuments%2FSTEPS%2FSTEPS%2Ezip&parent=%2Fpersonal%2Ftian211%5Fpurdue%5Fedu%2FDocuments%2FSTEPS&ct=1708191688229&or=OWA%2DNT&cid=2f4d10de%2Dfdb2%2D39ba%2Db806%2D6364779fc664&ga=1)**
 
