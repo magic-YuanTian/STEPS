@@ -24,8 +24,9 @@
 2. You can directly download and reuse our [check point](https://purdue0-my.sharepoint.com/personal/tian211_purdue_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftian211%5Fpurdue%5Fedu%2FDocuments%2FSTEPS%2FmodelS%2Etar%2Egz&parent=%2Fpersonal%2Ftian211%5Fpurdue%5Fedu%2FDocuments%2FSTEPS) ([HuggingFace](https://huggingface.co/DoctorChaos/text-to-SQL-clause-smbop/blob/main/README.md)) as well as configuration file. 
   - Please replace the original configuration file with ours!
 
-### NL Explanation Generation
+### Rule-based NL Explanation Generation
 [SQL2NL_clean.py](https://github.com/magic-YuanTian/STEPS/blob/main/SQL2NL_clean.py) includes a simple example to run:
+
 ```
 from SQL2NL_clean import sql2nl
 SQL = "SELECT * FROM STUDENT"  # input your SQL here
@@ -33,9 +34,11 @@ explanation_data = sql2nl(SQL)  # Generate explanation data
 ```
 
 The `sql2nl` method automatically outputs the step-by-step explanation to console:
+
 <img width="1079" alt="Screenshot 2024-06-10 at 11 03 39 AM" src="https://github.com/magic-YuanTian/STEPS/assets/75125334/282079ad-1f48-474c-bec1-f9e991a68be2">
 
-The `explanation_data` includes the json format data:
+The `explanation_data` includes the JSON format data:
+
 ```
 [
     {'number': 'Start first query,', 'subquery': 'SELECT first_name , last_name FROM players GROUP BY birth_date HAVING COUNT ( * ) > 1 ORDER BY birth_date LIMIT 1', 'explanation': [
