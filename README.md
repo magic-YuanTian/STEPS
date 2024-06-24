@@ -79,7 +79,7 @@ The `explanation_data` includes the JSON format data:
 
 
 
-**To help you understand the project logic, we also encapsulate most of the project folder (This does not include the interface). You can directly download it to check the configuration. [Folder](https://purdue0-my.sharepoint.com/personal/tian211_purdue_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftian211%5Fpurdue%5Fedu%2FDocuments%2FSTEPS%2FSTEPS%2Ezip&parent=%2Fpersonal%2Ftian211%5Fpurdue%5Fedu%2FDocuments%2FSTEPS&ct=1708191688229&or=OWA%2DNT&cid=2f4d10de%2Dfdb2%2D39ba%2Db806%2D6364779fc664&ga=1)**
+**To help you understand the project logic, we also encapsulate most of the project folder (This does not include the interface). You can directly download it to check the configuration. [Folder](https://purdue0-my.sharepoint.com/:u:/g/personal/tian211_purdue_edu/ESrKiv9auWpFpUdVL3pv5XUBYroue8a7OC6fmdMsXxdvaQ?e=Ct5W1V)**
 
 *This repository is currently being updated, and more details will be provided in the future.*
 *If you have any questions, please feel free to email* ***tian211@purdue.edu***
