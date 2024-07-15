@@ -69,7 +69,7 @@ The `explanation_data` includes the JSON format data:
             }
         ], 'supplement': ''
     },
-    {'number': 'Start third query,', 'subquery': 'SELECT *', 'explanation': [
+    {'number': 'Start third query,', 'subquery': 'SELECT first_name , last_name FROM players GROUP BY birth_date HAVING COUNT ( * ) > 1 ORDER BY birth_date LIMIT 1 INTERSECT SELECT first_name , last_name FROM players WHERE first_name = "TOM" GROUP BY birth_date HAVING COUNT ( * ) > 1 ORDER BY birth_date LIMIT 1', 'explanation': [
             {'subexpression': 'SELECT *', 'explanation': 'Keep the intersection of first query result and second query result.'
             }
         ], 'supplement': ''
