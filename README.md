@@ -18,6 +18,13 @@
   - You could paraphrase the dataset by [Quillbot](https://quillbot.com/) with our automated script based on [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/).
   - Please check the [script](Paraphrase/main.py) and all screenshots under [here](Paraphrase/img). These screenshots are used to position the cursor during the automation. Due to subtle resolution/theme/version differences, the screenshots may not be identified on your computer (even if a human can), you may need to take your screenshots on your computer and replace them manually.
 
+**Distribution of dataset used for this project:**
+
+![clause_distribution](https://github.com/user-attachments/assets/3f3b5cbb-8889-4497-8619-c07f3e5346c6)
+
+
+
+
 
 ### Models
 1. Our text-to-clause model is based on [SmBoP](https://github.com/OhadRubin/SmBop), and you can strictly follow their environment and settings.
