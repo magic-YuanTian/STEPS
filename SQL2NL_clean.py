@@ -104,6 +104,29 @@ def getSubExpressionBeforeNextKeyword(sql, keyword):
 
     return sub_expression
 
+# remove table names in the sql:  xxx.Y ---> Y
+def removeTables(sql):
+    # separate ( )
+    sql = sql.replace('(', ' ( ')
+    sql = sql.replace(')', ' ) ')
+
+    # remove space around '.'
+    sql = re.sub(r' *\. *', '.', sql)
+
+    tokens = sql.split()
+
+    # remove tables
+    for i in range(len(tokens)):
+        if '.' in tokens[i]:
+            tokens[i] = tokens[i].split('.')[1]
+
+    result = ' '.join(tokens)
+
+    result = re.sub(r' *\( *', '(', result)
+    result = re.sub(r' *\) *', ') ', result)
+
+
+    return result
 
 # get the description of nouns
 # should input a sub sql expression
@@ -1150,7 +1173,11 @@ def decompose(sql):
 
             # construct result (which query this is)
             result = num2ordinalStr(len(high_level_explanation) + 1) + ' query result'
-
+            
+            print('res1:', res1)
+            print('res2:', res2)
+            print(p.tokens[i].value.lower())
+            
             # construct replaced/modified subquery
             modified_subquery = res1 + ' ' + p.tokens[i].value.lower() + ' ' + res2
 
@@ -1390,8 +1417,8 @@ def preprocessSQL(sql):
     # sql = sql.replace('\"', ' \" ')
 
     # add quotes
-    sql = addQuotes(sql)
-
+    # sql = addQuotes(sql)
+    
     # ' ---> "
     sql = sql.replace('\'', '\"')
 
@@ -1526,6 +1553,9 @@ def preprocessSQL(sql):
 
     # in case ...
     sql = sql.strip('; ')
+    print('--------')
+    print(sql)
+    print('--------')
     while sql[0] == '(' and sql[-1] == ')':
         sql = sql.strip('()')
     sql = sql.strip('; ')
@@ -1563,6 +1593,8 @@ def preprocessSQL(sql):
     res = re.sub('! +=', '!=', res)
     res = re.sub('< +=', '<=', res)
     res = re.sub('> +=', '>=', res)
+    
+    
 
     res = re.sub(' +', ' ', res)  # replace multiple spaces to 1
     res = res.strip(' ')
